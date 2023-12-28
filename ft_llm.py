@@ -126,15 +126,16 @@ class SentembTrainer(Trainer):
             # padding tensor length
             mw = max(input_ids.size(1), labels.size(1), neg.size(1))
 
+            # fix to padding right because PhoGPT only support right padding training
             pad_size = mw - labels.size(1)
             if pad_size > 0:
-                labels = torch.cat([torch.zeros(labels.size(0), pad_size).cuda().long(), labels], dim=1)
+                labels = torch.cat([labels, torch.zeros(labels.size(0), pad_size).cuda().long()], dim=1)
             pad_size = mw - input_ids.size(1)
             if pad_size > 0:
-                input_ids = torch.cat([torch.zeros(input_ids.size(0), pad_size).cuda().long(), input_ids], dim=1)
+                input_ids = torch.cat([input_ids, torch.zeros(input_ids.size(0), pad_size).cuda().long()], dim=1)
             pad_size = mw - neg.size(1)
             if pad_size > 0:
-                neg = torch.cat([torch.zeros(neg.size(0), pad_size).cuda().long(), neg], dim=1)
+                neg = torch.cat([neg, torch.zeros(neg.size(0), pad_size).cuda().long()], dim=1)
 
             inputs['input_ids'] = torch.cat([input_ids, labels, neg], dim=0)
             inputs['attention_mask'] = (inputs['input_ids'] > 0).long()
@@ -484,7 +485,7 @@ def train(
     if mask_embedding_sentence_template is not None:
         use_prompt = True
     
-    train_data = data.shuffle().map(lambda x: tokenize(x, use_prompt=use_prompt, column_names=column_names) , num_proc=25)
+    train_data = data['train'].shuffle().map(lambda x: tokenize(x, use_prompt=use_prompt, column_names=column_names) , num_proc=25)
     
     DC_FUN = DataCollatorForSeq2SeqForNeg if NIL_DATASET and use_neg_sentence else transformers.DataCollatorForSeq2Seq
     trainer = SentembTrainer(
