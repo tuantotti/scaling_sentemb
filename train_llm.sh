@@ -4,7 +4,7 @@ MODEL=$1
 TEMPLATE="This_sentence_:_\"*sent_0*\"_means_in_one_word:\""
 
 if [[ $MODEL == PhoGPT-7B5 ]]; then
-    WORLD_SIZE=1 CUDA_VISIBLE_DEVICES=0 torchrun ft_llm_fixed.py \
+    WORLD_SIZE=1 CUDA_VISIBLE_DEVICES=0 torchrun ft_llm.py \
         --base_model vinai/${MODEL} \
         --data_path 'data/dcc_dataset.csv' \
         --batch_size 8 \
