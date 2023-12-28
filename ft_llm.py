@@ -416,13 +416,13 @@ def train(
                 ]  # could be sped up, probably
             return tokenized_full_prompt
         else:
-            tokenized = tokenize(data_point['input'], False,
+            tokenized = tokenize_input(data_point['input'], False,
                                             label_prompt=None if not NIL_DATASET else data_point['output'],
                                             neg_prompt=data_point['neg'] if NIL_DATASET and use_neg_sentence else None)
             return tokenized
 
     if load_kbit == 4:
-        model = prepare_model_for_kbit_training(model)
+        # model = prepare_model_for_kbit_training(model)
         def find_all_linear_names(model):
             cls = bnb.nn.Linear4bit
             lora_module_names = set()
@@ -478,14 +478,14 @@ def train(
     model.print_trainable_parameters()  # Be more transparent about the % of trainable params.
 
     column_names = data['train'].column_names
+    print(column_names)
     
     use_prompt = False
     if mask_embedding_sentence_template is not None:
         use_prompt = True
     
     train_data = data.shuffle().map(lambda x: tokenize(x, use_prompt=use_prompt, column_names=column_names) , num_proc=25)
-    print(data[:10])
-
+    
     DC_FUN = DataCollatorForSeq2SeqForNeg if NIL_DATASET and use_neg_sentence else transformers.DataCollatorForSeq2Seq
     trainer = SentembTrainer(
         model=model,
