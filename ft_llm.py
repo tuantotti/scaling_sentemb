@@ -241,8 +241,8 @@ def generate_sentemb_prompt(data_point, tokenizer, cutoff_len, template, prefix=
 def train(
         # model/data params
         base_model: str = "",  # the only required argument
-        data_path: str = "data/nli_for_simcse.csv",
-        output_dir: str = "./lora-alpaca",
+        data_path: str = "data/dcc_dataset.csv",
+        output_dir: str = "./dcc-lora",
         # training hyperparams
         batch_size: int = 256,
         micro_batch_size: int = 64,
@@ -270,7 +270,7 @@ def train(
         seed: int = 42,
 ):
     global NIL_DATASET
-    if 'nli_for_simcse' in data_path:
+    if 'nli_for_simcse' or 'dcc_dataset' in data_path:
         NIL_DATASET = True
 
     group_by_length = False
@@ -380,12 +380,12 @@ def train(
 
         return result
 
-    def tokenize(data_point, use_prompt=True):
+    def tokenize(data_point, use_prompt=True, column_names=['query','pos_similar','neg_similar']):
         if NIL_DATASET:
-            data_point['input'] = data_point['sent0']
-            data_point['output'] = data_point['sent1']
+            data_point['input'] = data_point[column_names[0]]
+            data_point['output'] = data_point[column_names[1]]
             if use_neg_sentence:
-                data_point['neg'] = data_point['hard_neg']
+                data_point['neg'] = data_point[column_names[2]]
         if use_prompt:
             full_prompt = generate_sentemb_prompt(data_point, tokenizer, cutoff_len,
                                                 mask_embedding_sentence_template,
@@ -471,16 +471,20 @@ def train(
         model = get_peft_model(model, config)
 
     if 'csv' in data_path:
-        # data = load_dataset("csv", data_files=data_path, split='train[:1%]')
         data = load_dataset("csv", data_files=data_path)
     else:
         data = load_dataset("json", data_files=data_path)
 
     model.print_trainable_parameters()  # Be more transparent about the % of trainable params.
 
-    train_data = data.shuffle().map(lambda x: tokenize(x, use_prompt=False) , num_proc=25)
+    column_names = data['train'].column_names
+    
+    use_prompt = False
+    if mask_embedding_sentence_template is not None:
+        use_prompt = True
+    
+    train_data = data.shuffle().map(lambda x: tokenize(x, use_prompt=use_prompt, column_names=column_names) , num_proc=25)
     print(data[:10])
-    # train_data = data["train"].shuffle()
 
     DC_FUN = DataCollatorForSeq2SeqForNeg if NIL_DATASET and use_neg_sentence else transformers.DataCollatorForSeq2Seq
     trainer = SentembTrainer(
