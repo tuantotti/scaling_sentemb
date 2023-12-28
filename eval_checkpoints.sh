@@ -26,6 +26,8 @@ eval_results() {
         MODEL_PATH='facebook/opt-2.7b'
     elif [[ $1 == *"opt-6.7b"* ]]; then
         MODEL_PATH='facebook/opt-6.7b'
+    elif [[ $1 == *"phogpt"* ]]; then
+        MODEL_PATH='vinai/PhoGPT-7B5'
     elif [[ $1 == *"opt-13b"* ]]; then
         MODEL_PATH='facebook/opt-13b'
     elif [[ $1 == *"llama-13b"* ]]; then

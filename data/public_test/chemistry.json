@@ -1,0 +1,497 @@
+[
+      {
+            "query": " Đun nóng 24 gam axit axetic với lượng dư ancol etylic (xúc tác H2SO4 đặc), thu được 26,4 gam este. Hiệu suất của phản ứng este hóa là\n\n\nA. 75%\n\nB. 55% \n\nC. 60%\n\nD. 44%",
+            "pos_similar": "Đun nóng 48 gam axit axetic với lượng dư ancol etylic (xúc tác axit H2SO4 đặc), thu được 45,76 gam este. Hiệu suất của phản ứng este hóa là\n\n\nA: 55%. \n\nB: 75%. \n\nC: 60%. \n\nD: 65%. ",
+            "neg_similar": "Cho $2,4 \\mathrm{~g}$ axit axetic phán ứng với $2,3 \\mathrm{~g}$ ancol etylic $\\left(\\mathrm{H}_2 \\mathrm{SO}_4\\right.$ đặc $)$ đun nóng thu được $2,64 \\mathrm{~g}$ etyl axetat. Tính hiệu suất phán ứng este hóa.\n\nA $70 \\%$.\nB $80 \\%$.\nC $85 \\%$.\nD $75 \\%$."
+      },
+      {
+            "query": "Đun nóng 12 gam CH3COOH với 12 gam C2H5OH (có H2SO4 làm xúc tác, hiệu suất phản ứng este hoá bằng 50%).Khối lượng este tạo thành là\n\n\nA. 6,6 gam.\n\nB. 4,4 gam.\n\nC. 8,8 gam. \n\nD. 5,5 gam.",
+            "pos_similar": "Đun nóng 12 gam CH3COOH với 12 gam C2H5OH (có H2SO4 làm xúc tác, hiệu suất phản ứng este hoá bằng 50%).Khối lượng este tạo thành là\n\n\nA. 6,0 gam\n\nB. 5,2 gam\n\nC. 4,4 gam\n\nD. 8,8 gam",
+            "neg_similar": "Phản ứng giữa $\\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{OH}$ và $\\mathrm{CH}_3 \\mathrm{COOH}$ (xúc tác $\\mathrm{H}_2 \\mathrm{SO}_4$ đặc đun nóng) là phản ứng :\n\nA. Trùng hợp\nB. Este hóa\nC. Xà phòng\nD. Trùng ngưng\nhóa"
+      },
+      {
+            "query": "Ứng với công thức C4H8O2 có bao nhiêu este là đồng phân của nhau ? \n\nA. 2\n\nB. 3\n\nC. 4.\n\nD. 5",
+            "pos_similar": "Ứng với công thức phân tử $\\mathrm{C}_4 \\mathrm{H}_8 \\mathrm{O}_2$ có bao nhiêu este đồng phân cấu tạo của nhau?\n\nA. 4\nB. 5\nC. 2\nD. 3",
+            "neg_similar": "Có bao nhiêu chất hữu cơ đơn chức, đồng phân cấu tạo của nhau có cùng công thức phân tử C4H8O2, đều tác dụng được với dung dịch NaOH\n\nA. 4\n\nB. 5\n\nC. 8\n\nD. 6"
+      },
+      {
+            "query": "Este có mùi dứa là\n\n\nA. isoamyl axetat\n\nB. etyl butirat\n\nC. etyl axetat\n\nD. geranyl axetat",
+            "pos_similar": "Các este thường có mùi thơm dề chịu: isoamyl axetat có mùi chuối chín, etyl butirat có mùi dứa, etyl isovalerat có mùi táo,…Este có mùi dứa có công thức phân tử thu gọn là\n\n\nA\\ldotp C{H}_{3}COOCH(C{H}_{3})C{H}_{2}C{H}_{2}C{H}_{3}\nB\\ldotp C{H}_{3}COOC{H}_{2}CH{(C{H}_{3})}_{2}\nC\\ldotp C{H}_{3}C{H}_{2}C{H}_{2}COO{C}_{2}{H}_{5}\nD\\ldotp C{H}_{3}COOC{H}_{2}C{H}_{2}CH{{(CH)}_{3}}_{2}\n\n",
+            "neg_similar": "Tên gọi của este có mùi hoa nhài là\n\nA. isoamyl axetat\nB. benzyl axetat\nC. metyl axetat\nD. phenyl axetat"
+      },
+      {
+            "query": "\nHoà tan 1,44g một kim loại M trong 150ml dung dịch H2SO4 0,5M. Trung hoà dung dịch sau phản ứng cần dùng hết 10ml dung dịch NaOH 3M. Kim loại M là\n\nA. Mg.\nB. Al.\nC. Ca.\nD. Cu.",
+            "pos_similar": "hòa tan 1,44g kim loại M thuộc nhóm IIA =250 ml dd H2SO4 0,3M. Để trung hòa hết lượng axit còn dư sau phản ứng cần dùng 60 ml dung dịch NaOH 0,5M .Kim loại M là gì \n ",
+            "neg_similar": "$\\text { Hoà tan hết } 12 \\mathrm{~g} \\text { một kim loại (hoá trị II) bẳng dung dịch } \\mathrm{H}_2 \\mathrm{SO}_4 \\text { loãng thu được 6,72 lít khí } H_2 \\text { (đktc). Kim loại này là }\n$\nA. $\\mathrm{Zn}$\nB. $\\mathrm{Fe}$\nC. $\\mathrm{Ca}$\nD. $\\mathrm{Mg}$"
+      },
+      {
+            "query": "Cho sơ đồ chuyển hóa sau:\n\nX + CH3OH/HCl → Y\n\nY + C2H5OH/HCl → Z\n\nZ + NaOH dư → T\n\nBiết X là axit glutamic, Y, Z, T là các chất hữu cơ có chứa nitơ. Công thức phân tử của Y và T lần lượt là\n\n\nA. C7H14O4NCl và C5H7O4Na2N\nB. C6H12O4NCl và C5H7O4Na2N\nC. C6H12O4N và C5H7O4Na2N\nD. C7H15O4NCl và C5H8O4Na2NCl\n",
+            "pos_similar": "Cho sơ đồ chuyển hóa sau:\n\nX + CH3OH/HCl → Y\n\nY + C2H5OH/HCl → Z\n\nZ + NaOH dư → T\n\nBiết X là axit glutamic, Y, Z, T là các chất hữu cơ có chứa nitơ. Công thức phân tử của Y và T lần lượt là\n\n\nA:  C6H12O4N và C5H7O4Na2N\n\nB: C6H12O4NCl và C5H7O4Na2N\n\nC: C7H14O4NCl và C5H7O4Na2N\n\nD: C7H15O4NCl và C5H8O4Na2NCl ",
+            "neg_similar": "Dung dịch axit glutamic cho tiếp xúc lần lượt với các chất sau: $\\mathrm{Ba}(\\mathrm{OH})_2, \\mathrm{H}_2 \\mathrm{SO}_4, \\mathrm{NaCl}, \\mathrm{CaCO}_3, \\mathrm{Cu}(\\mathrm{OH})_2, \\mathrm{Mg}$, $\\mathrm{CuO}, \\mathrm{CH}_3 \\mathrm{OH} / \\mathrm{HCl}, \\mathrm{H}_2 \\mathrm{~N}-\\mathrm{CH}_2-\\mathrm{COOH}$, Cu. Số chất phản ứng với axit glutamic là:\n\nA 5\nB 6\nC 7\nD 8"
+      },
+      {
+            "query": "Hòa tan hết 23,76 gam hỗn hợp X gồm FeCl2; Cu và Fe(NO3)2 vào 400 ml dung dịch HCl 1M thu được dung dịch Y. Cho từ từ dung dịch chứa AgNO3 1M vào Y đến các phản ứng hoàn thấy đã dùng 580ml, kết thúc thu được m gam kết tủa và thoát ra 0,448 lít khí (ở đktc). Biết NO là sản phẩm khử duy nhất của N+5 trong cả quá trình, giá trị của m gần nhất với\n\nA. 82.\n\nB. 80.\n\nC. 84.\n\nD. 86.",
+            "pos_similar": "Hòa tan hoàn toàn 28,4 gam hỗn hợp gồm Cu, Fe3O4 (0,02 mol), FeCl2 và Fe(NO3)2 trong 560 ml dung dịch HCl 1M thu được dung dịch X. Cho AgNO3 dư vào X thì có 0,76 mol AgNO3 tham gia phản ứng thu được m gam kết tủa và thoát ra 0,448 lít khí (ở đktc). Biết các phản ứng hoàn toàn, NO là sản phẩm khử duy nhất của N+5 trong cả quá trình. Giá trị của m gần nhất với?\nA. 107,6\n\nB. 98,5\n\nC. 110,8\n\nD. 115,2",
+            "neg_similar": "Hòa tan hết 17,93 gam hỗn hợp X gồm FeCl2, Mg, Fe(NO3)2 và Al vào dung dịch chứa 0,5 mol HCl thu được dung dịch Y và 1,792 lít khí NO duy nhất ở đktc. Cho từ từ AgNO3 đến dư vào Y đến phản ứng hoàn toàn thì thấy lượng AgNO3 phản ứng là 0,635 mol và thu được dung dịch Z (chứa các chất tan đều muối); 89,88 gam kết tủa và 0,448 lít khí NO (ở đktc) là sản phẩm khử duy nhất của NO3-. Phần trăm khối lượng Mg trong X gần nhất với giá trị nào sau đây?\n\nA: 13,00%. \n\nB: 12,50%. \n\nC: 14,00%. \n\nD: 13,50%. "
+      },
+      {
+            "query": "Hòa tan hoàn toàn hỗn hợp gồm 0,02 mol FeS2 và 0,03 mol FeS vào dung dịch H2SO4 đặc nóng thu được Fe2(SO4)3, SO2 và H2O. Hấp thụ hết SO2 bằng một lượng vừa đủ dung dịch KMnO4 thu được dung dịch Y trong suốt có pH =2. Thể tích dung dịch Y là\n\n\nA. 11,4 l\n\nB. 5,7 l\n\nC. 17,1 l\n\nD. 22,8 l",
+            "pos_similar": " \n ",
+            "neg_similar": "Cho 20,80 gam hỗn hợp Fe, FeS, FeS2, S tác dụng với dung dịch H2SO4 đặc nóng dư thu được V lít khí SO2 (là sản phẩm khử duy nhất, đo ở đktc) và dung dịch Y. Cho Y tác dụng với dung dịch NaOH dư thu được 21.4 gam kết tủa. Tính thể tích dung dịch KMnO4 2M cần dùng để phản ứng vừa đủ với V lít khí SO2 ở trên ?\n "
+      },
+      {
+            "query": "Từ 6,2 gam photpho điều chế được bao nhiêu lít dung dịch H3PO4 2M (hiệu suất toàn bộ quá trình phản ứng là 80%).\n\n\nA. 100 lít.\n\nB. 80 lít.\n\nC.40 lít.\n\nD. 64 lít.",
+            "pos_similar": "Từ 6,2 kg P có thể điều chế được bao nhiêu kg H3PO4 giả sử hiệu suất các giai đoạn lần lượt là 70% và 90%\n ",
+            "neg_similar": "Một loại quặng chứa 65% Ca3(PO4)2. Tính khối lượng quặng cần lấy để thu được 6,2 tấn P biết hiệu suất là 90%. Từ lượng quặng trên có thể điều chế được bao nhiêu lít dd H3PO4 3M biết H=75%.\n "
+      },
+      {
+            "query": "Đốt cháy 4,16 gam hỗn hợp Mg và Fe trong khí O2, thu được 5,92 gam hỗn hợp X chỉ gồm các oxit. Hòa tan hoàn toàn X trong dung dịch HCl vừa đủ, thu được dung dịch Y. Cho dung dịch NaOH dư vào Y, thu được kết tủa Z. Nung Z trong không khí đến khối lượng không đổi, thu được 6 gam chất rắn. Mặt khác cho Y tác dụng với dung dịch AgNO3 dư, thu được m gam kết tủa. Giá trị của m là\nA. 32,65.\n\nB. 31,57.\n\nC. 32,11.\n\nD. 10,80.",
+            "pos_similar": "Nung nóng 0,832 gam hỗn hợp gồm Mg và Fe trong khí O2, thu được 1,184 gam hỗn hợp X chỉ gồm các oxit. Hòa tan hoàn toàn X trong dung dịch HCl vừa đủ, thu được dung dịch Y. Cho dung dịch NaOH dư vào Y, thu được kết tủa Z. Nung Z  trong không khí đến khối lượng không đổi, thu được 1,200 gam chất rắn. Mặt khác cho Y phản ứng hoàn toàn với dung dịch AgNO3 dư, thu được m gam kết tủa. Giá trị của m là\n\n\nA: 6,35. \n\nB: 2,16. \n\nC: 6,42. \n\nD: 6,53. ",
+            "neg_similar": "Đốt cháy hỗn hợp gồm Mg và Fe trong khí oxi , thu được hỗn hợp A gồm các oxit . Hòa tan A trong HCl vừa đủ thu được dung dịch B . Cho dung dịch B vào NaOH dư thu được kết tủa C . Nung C trong không khí đến khối lượng không đổi thu được hỗn hợp rắn D . Mặt khác cho dung dịch B tác dụng với dung dịch AgNO3 dư thu được chất rắn E . \nXác định các chất có trong A , B , C , D , E . \nViết PTHH xảy ra .\n "
+      },
+      {
+            "query": "Một hỗn hợp A gồm anđehit acrylic và một anđehit no, đơn chức X. Đốt cháy hoàn toàn 3,44 gam hỗn hợp trên cần vừa hết 4,592 lít khí oxi (đktc). Cho toàn bộ sản phẩm cháy hấp thụ hết vào dung dịch Ca(OH)2 dư, thu được 17 gam kết tủa. Công thức cấu tạo của X là:\n\n\n ",
+            "pos_similar": "Một hỗn hợp gồm anđehit acrylic và một anđehit đơn chức X. Đốt cháy hoàn toàn 1,72 gam hỗn hợp trên cần vừa hết 2,296 lít O2 (đktc). Cho toàn bộ sản phẩm cháy hấp thụ hết vào dung dịch Ca(OH)2 dư, thu được 8,5 gam kết tủa. Công thức cấu tạo của X là\n\n\nA: HCHO. \n\nB: C2H5CHO. \n\nC: C3H5CHO. \n\nD: CH3CHO. ",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Cho 0,1 mol tristearin tác dụng hoàn toàn với dung dịch NaOH dư , đun nóng, thu được m gam xà phòng. Giá trị m là\n\n ",
+            "pos_similar": "Xà phòng hóa hoàn toàn 0,1 mol tristearin bằng dung dịch NaOH dư, đun nóng, thu được m gam glixerol. Giá trị của m là\n\n\nA: 13,8. \n\nB: 27,6. \n\nC: 4,6. \n\nD: 9,2. ",
+            "neg_similar": "Xà phòng hóa hoàn toàn m gam tristearin cần vừa đủ 300 ml dung dịch NaOH 0,2 M. Giá trị của m là\n\nA. 17,68.\n\nB. 17,80.\n\nC. 53,40.\n\nD. 53,04.\n "
+      },
+      {
+            "query": "X là hỗn hợp 2 este đơn chức không no có 1 nối đôi trong gốc hiđrocacbon, liên tiếp trong dãy đồng đẳng. Đốt cháy hoàn toàn m gam X được 1,4 mol CO2 và 1,1 mol H2O. Công thức phân tử 2 este là\n\n\nA. C4H6O2 và C5H8O2.\n\nB. C4H4O2 và C5H6O2.\n\nC. C3H4O2 và C4H6O2.\n\nD. C3H2O2 và C4H4O2.",
+            "pos_similar": "X là hỗn hợp  2 este đơn chức không no có 1 nối đôi trong gốc hidrocacbon, liên tiếp trong dãy đồng đẳng. Đốt cháy hoàn toàn m gam X được 1,4 mol CO2 và 1,1 mol H2O. Công thức của phân tử 2 este là\n ",
+            "neg_similar": "Đốt cháy hoàn toàn hỗn hợp X gồm 2 este đơn chức, không no (có 1 nối đôi C=C), kế tiếp nhau trong cùng dãy đồng đẳng cần 146,16 lít không khí (đktc), thu được 46,2 gam \nCO2. Biết rằng trong không khí oxi chiếm 20% về thể tích. Công thức phân từ của 2 este là\nA. $\\mathrm{C}_4 \\mathrm{H}_6 \\mathrm{O}_2$ và $\\mathrm{C}_5 \\mathrm{H}_8 \\mathrm{O}_2$.\nB. $\\mathrm{C}_5 \\mathrm{H}_8 \\mathrm{O}_2$ và $\\mathrm{C}_6 \\mathrm{H}_{10} \\mathrm{O}_2$.\nC. $\\mathrm{C}_4 \\mathrm{H}_8 \\mathrm{O}_2$ và $\\mathrm{C}_5 \\mathrm{H}_{10} \\mathrm{O}_2$.\nD. $\\mathrm{C}_5 \\mathrm{H}_{10} \\mathrm{O}_2$ và $\\mathrm{C}_6 \\mathrm{H}_{12} \\mathrm{O}_2$.\n "
+      },
+      {
+            "query": "Đốt cháy hoàn toàn m gam hỗn hợp hai este no, đơn chức, mạch hở cần dùng vừa đủ 15,12 lít khí O2 (đktc), sau phản ứng thu được 24,2 gam khí CO2. Giá trị của m là\n\nA. 43,1\n\nB. 12,5\n\nC. 4,9\n\nD. 21,5",
+            "pos_similar": "Câu 9. Đốt cháy hoàn toàn $\\mathrm{m}$ gam hồn hợp 4 estc no, đơn chức, mạch hở cần dùng 15,12 lít $\\mathrm{O}_2$ ( $\\mathrm{dktc}$ ), sau phản ứng thu được 24,2 gam khí $\\mathrm{CO}_2$. Giá trị của m là:\n\nA. 34,1 gam \nB. 12,5 gam \nC. 9,9 gam \nD. 21,15 gam ",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Đốt cháy hoàn toàn một hỗn hợp gồm các este đơn chức, no, mạch hở. Hấp thụ toàn bộ sản phẩm cháy vào bình đựng dung dịch Ca(OH)2 dư, thấy khối lượng bình tăng thêm 24,8 gam và thu được m gam kết tủa. Giá trị của m là\n\n\nA. 40,0.\n\nB. 24,8.\n\nC. 20,0.\n\nD. 49,6.",
+            "pos_similar": "Đốt cháy hoàn toàn m gam hỗn hợp các este no, đơn chức, mạch hở. Sản phẩm cháy được dẫn vào bình đựng dung dịch nước vôi trong dư thấy khối lượng bình tăng 6,2 gam. Số mol H2O sinh ra và khối lượng kết tủa tạo ra là\n ",
+            "neg_similar": "Đốt cháy hoàn toàn m gam hỗn hợp các este no, đơn chức, mạch hở.\nSản phẩm thu được dẫn vào bình đựng dung dịch nước vôi trong dư thấy khối\nlượng kết tủa là 4,5g. Khối lượng dung dịch sau phản ứng so với khối lượng\nban đầu\nA. giảm 1,71g B. tăng 1,71g C. giảm 3,42g D. tăng 3,42g\n "
+      },
+      {
+            "query": "Bazơ nào bị nhiệt phân hủy tạo ra oxit?\n\nA. NaOH\nB. Ba(OH)2 \nC. Cu(OH)2\nD. KOH ",
+            "pos_similar": "Bazơ nào sau đây bị nhiệt phân hủy tạo ra oxit?\n\nA. Ba(OH)2 \nB. Cu(OH)2\nC. NaOH\nD. KOH ",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Để cung cấp đạm cho cây trồng, người ta bón loại phân đạm nào sau đây có hàm lượng nitơ cao nhất?\n\n\n\nA.  (NH2)2CO\nB.  NH4Cl\nC.  (NH4)2SO4\nD.  NH4NO3",
+            "pos_similar": "\nNhững chất dùng làm phân bón hoá học sau đây, chất nào có phần trăm khối lượng nitrogen (còn gọi hàm lượng đạm) cao nhất?\n\nA. Nh4Cl \nB. (NH4)2SO4\nC. NH4NO3\nD. (NH2)2CO",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Hoà tan $124 \\mathrm{~g} \\mathrm{Na} 2 \\mathrm{O}$ vào $876 \\mathrm{ml}$ nước, phản ứng tạo ra $\\mathrm{NaOH}$. Nồng độ phần trăm của dung dịch thu được là\n ",
+            "pos_similar": "Hòa tan hoàn toàn 124 gam natri oxit vào 876 gam nước, phản ứng sinh ra natri hiđroxit. Nồng độ phần trăm của dung dịch thu được\n ",
+            "neg_similar": "Hòa tan $12,4 \\mathrm{~g} \\mathrm{Na} 2 \\mathrm{O}$ vào nước tạo thành $120 \\mathrm{~g}$ dung dịch $\\mathrm{NaOH}$. \na) Viết phương trình phản ứng xảy ra\nb) Tính khối lượng $\\mathrm{NaOH}$ tạo thành và C% dung dịch $\\mathrm{NaOH}$\n "
+      },
+      {
+            "query": "$$\n\\text { tính thể tích của 0,25mol khí so2 (đktc) }\n$$\n ",
+            "pos_similar": "$$\n0,35 \\text { mol khí SO2 ở điều kiện tiêu chuẩn có thể tích bằng bao nhiêu? }\n$$\n ",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Hiện tượng nào sau đây là biến đổi hóa học?\n\nA.Nước đá tan chảy\nB.Muối ăn tan trong nước tạo thành nước muối\nC.Cồn để trong lọ không kín bị bay hơi\nD.Sắt bị gỉ sét tạo thành oxit",
+            "pos_similar": "Hiện tượng nào sau đây là biến đổi hóa học?\nA. Nước đá tan chảy\nB. Muối ăn tan trong nước tạo thành nước muối\nC. Cồn để trong lọ không kín bị bay hơi\nD. Sắt bị gỉ sét tạo thành sắt oxit",
+            "neg_similar": "Các biến đổi nào sau đây là biến đổi hóa học \nA.Hòa tan đường vào nước\nB.Cô cạn dung dịch nước muối\nC.Hòa tan muối ăn vào nước\nD.Đốt củi thành than"
+      },
+      {
+            "query": "Cho dòng khí $\\mathrm{CO}$ qua hỗn hợp 2 oxit $\\mathrm{CuO}$ và $\\mathrm{Fe}_3 \\mathrm{O}_4$ nung nóng thu được 29,6g hỗn hợp 2 kim loại trong đó sắt nhiều hơn đồng là $4 \\mathrm{~g}$.\nTính thể tích khí $\\mathrm{CO}$ cần dùng (đktc).\n ",
+            "pos_similar": "Cho dòng khí CO dư qua hỗn hợp 2 oxit CuO và Fe3O4 nung nóng thu được 29,6 gam hỗn hợp hai kim loại trong đó có sắt nhiều hơn đồng là 4 gam.  \n(a) Viết phương trình hóa học xảy ra. \n(b) Tính khối lượng sắt và đồng thu được. \n(c) Tính thể tích khí CO (đktc) đã tham gia phản ứng.\n ",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Đốt cháy 8 g lưu huỳnh thu được m gam SO2. Tính m và thể tích (V) của khí oxi (đktc) tham gia phản ứng.\n\n\nA. m = 12 g, V = 5,6 lít\n\nB. m = 16 g, V = 2,24 lít\n\nC. m = 16 g, V = 5,6 lít\n\nD. m = 14g, V = 3,6 lít",
+            "pos_similar": "Đốt cháy 6,4 gam lưu huỳnh trong khí O2. \na) Tính thể tích oxi cần dùng (đktc). \nb) Tính khối lượng SO2 tạo thành\n ",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Đồng vị là những nguyên tử của cùng một nguyên tố, có số proton bằng nhau nhưng khác nhau về:\n\n\n\nA. số electron\nB. số notron\nC. số proton\nD. số obitan",
+            "pos_similar": "Đồng vị là những nguyên tử có cùng số proton nhưng khác nhau về\nA.số electron\nB.điện tích hạt nhân\nC.số notron\nD.số đơn vị điện tích hạt nhân",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Nguyên tử khối trung bình của đồng là 63,546 . Đồng tồn tại trong tự nhiên với 2 đồng vị ${ }^{63} \\mathrm{Cu}$ và ${ }^{65} \\mathrm{Cu}$. Thành phần phần trăm theo số nguyên tử của ${ }^{65} \\mathrm{Cu}$ là?\nA.23,7%\nB.76,7%\nC.72,7%\nD.27,3%",
+            "pos_similar": "Đồng có hai đồng vị bền ${ }_{29}^{65} \\mathrm{Cu}$ và ${ }_{29}^{63} \\mathrm{Cu}$ Nguyên tử khối trung bình của đồng là 63,54. Tính thành phần phần trăm số nguyên tử của mỗi đồng vị\n ",
+            "neg_similar": "Trong tự nhiên $\\mathrm{Cu}$ có hai đồng vị: ${ }_{29}^{63} \\mathrm{Cu} ;{ }_{29}^{65} \\mathrm{Cu}$. Khối lượng nguyên tử trung bình của $\\mathrm{Cu}$ là 63,54 . Thành phần $\\%$ về khối lượng của ${ }_{29}^{63} \\mathrm{Cu}$ trong $\\mathrm{CuCl}_2$ là giá trị nào dưới đây? Biết $\\mathrm{M}_{\\mathrm{Cl}}=35,5$.\nA.73,00%\nB.27,00%\nC.32,33%\nD.34,18%"
+      },
+      {
+            "query": "Tổng số hạt proton, notron, electron trong hai nguyên tử kim loại A, B là 142. Trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 42. Số hạt mang điện của nguyên tử B nhiều hơn của A là 12. Hai kim loại A, B lần lượt là\nA. Na và K\nB. Mg và Fe\nC. Ca và Fe\nD. K và Ca",
+            "pos_similar": "Tổng số hạt proton, nơtron, electron trong 2 nguyên tử kim loại A và B là 142, trong đó tổng số hạt mang điện nhiều hơn tổng số hạt không mang điện là 42. Số hạt mang điện của nguyên tử B nhiều hơn của A là 12. Xác định 2 kim loại A và B.\n\n ",
+            "neg_similar": "Tổng số hạt proton, nơtron, electron trong 2 nguyên tử kim loại A và B là 142 trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 42, số hạt mang điện của B nhiều hơn A là 12. Tính số proton mỗi loại. \n "
+      },
+      {
+            "query": "Nguyê̂n tử $\\mathrm{R}$ có tồng số hạt trong nguyên tử là 52 , số hạt không mang điện gấp 1,059 lần số hạt mang điện dương. Xảc định số hiệu nguyên tử của $R$\n ",
+            "pos_similar": "nguyên tử X có tổng số hạt là 52 trong đó số hạt k mang điện trong hạt nhân gấp 1.059 lần số hạt mang điện tích dương. Tìm số hạt mỗi loại?\n ",
+            "neg_similar": "Nguyên tử R có tống số hạt cơ bản là 52, trong đó số hạt không mang điện trong hạt nhân gấp 1,059 lần số hạt mang điện tích âm. Kết luận nào sau đây không đúng với R ?\nA. Hạt mang điện nhiều hơn hạt không mang điện là 16.\nB. R có số khối là 35\nC. Điện tích hạt nhân của R là 17+\nD. R có 17 notron"
+      },
+      {
+            "query": "$$\n\\text { Có bao nhiêu đồng phân cấu tạo mạch hở có công thức phân tử } C_5 H_{12} \\text { ? }\n$$\n\nA.6\nB.4\nC.5\nD.3",
+            "pos_similar": "$$\n\\text { Có bao nhiêu đồng phân cấu tạo có công thức phân tử } \\mathrm{C}_5 \\mathrm{H}_{12} \\text { ? }\n$$\nA.4 đồng phân\nB.5 đồng phân\nC.6 đồng phân\nD.3 đồng phân",
+            "neg_similar": "Ankan $\\mathrm{X}$ có công thức phân tử $\\mathrm{C}_5 \\mathrm{H}_{12}$. Clo hóa $\\mathrm{X}$, thu được 4 sản phẩm dẫn xuất monoclo. Tên gọi của X là:\nA. 2,2-.đimetylpropan.               \nB. 2- metylbutan.               \nC. pentan.  \nD. 2- metylpropan."
+      },
+      {
+            "query": "Hỗn hợp X gồm hai ancol no, đơn chức, mạch hở, kế tiếp nhau trong dãy đồng đẳng. Oxi hoá hoàn toàn $0,2 \\mathrm{~mol}$ hỗn hợp $\\mathrm{X}$ có khối lượng $\\mathrm{m}$ gam bằng $\\mathrm{CuO}$ ở nhiệt độ thích hợp, thu được hỗn hợp sản phẩm hữu cơ Y. Cho $\\mathrm{Y}$ tác dụng với một lượng dư dung dịch $\\mathrm{AgNO}_3$ trong $\\mathrm{NH}_3$ thu được 54 gam $\\mathrm{Ag}$. Giá trị của $\\mathrm{m}$ là\nA.15,3\nB.13,5\nC.8,1\nD.8,5",
+            "pos_similar": "Hỗn hợp X gồm hai ancol no, đơn chức, mạch hở, kế tiếp nhau trong dãy đồng đẳng. Oxi hoá hoàn toàn 0,2 mol hỗn hợp X có khối lượng m gam bằng CuO ở nhiệt độ thích hợp, thu được hỗn hợp sản phẩm hữu cơ Y. Cho Y tác dụng với một lượng dư dd $\\mathrm{AgNO}_3$ trong $\\mathrm{NH}_3$, thu được $54 \\mathrm{gam}$ Ag. Giá trị của m là:\nA.8,5\nB.13,5\nC.8,1\nD.15,3",
+            "neg_similar": "Cho m gam hỗn hợp X gồm hai ancol no, đơn chức, kế tiếp nhau trong dãy đồng đẳng tác dụng với $\\mathrm{CuO}$ đun nóng, thu được một hỗn hợp rắn $\\mathrm{Z}$ và một hỗn hợp hơi $\\mathrm{Y}$ (có tỉ khối với $\\mathrm{H}_2$ là 13,75). Cho toàn bộ Y phản ứng với một lượng dư $\\mathrm{Ag}_2 \\mathrm{O}$ (hoặc $\\mathrm{AgNO}_3$ trong $\\mathrm{NH}_3$ nung nóng, sinh ra 64,8 g Ag. Giá trị của $m$ là:\nA.7,8\nB.8,8\nC.7,4\nD.9,2"
+      },
+      {
+            "query": "Cho dãy chuyển hóa sau: $X \\stackrel{+\\mathrm{CO}_2+\\mathrm{H}_2 \\mathrm{O}}{\\longrightarrow} Y \\stackrel{+\\mathrm{NaOH}}{\\longrightarrow} X$ Công thức của $X$ là\nA. Na2O\nB. NaHCO3\nC. NaOH\nD.Na2CO3",
+            "pos_similar": " \n ",
+            "neg_similar": "Cho dãy chuyển hóa sau: $X \\stackrel{+\\mathrm{CO}_2+\\mathrm{H}_2 \\mathrm{O}}{\\longrightarrow} Y \\stackrel{+\\mathrm{NaOH}}{\\longrightarrow} X$ Công thức của $X$ là\nA. C6H5OH\nB. C6H5ONa\nC. C6H5COOH\nD. C6H6"
+      },
+      {
+            "query": "Cho 2,7g Al phản ứng với O2 dư. Khối lượng Al2O3 thu được là\n ",
+            "pos_similar": "Cho 5,4 g Al phản ứng với O2 dư. Khối lượng Al2O3 thu được là\n ",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Nguyên tử chứa loại hạt nào mang điện \nA. Proton\nB. Nơtron\nC. Electron\nD. Proton và Electron",
+            "pos_similar": "Nguyên tử chứa Proton mang điện tích dương và electron mang điện tích âm \n ",
+            "neg_similar": "Nguyên tử chứa loại hạt nào không mang điện \nA. Proton\nB. Nơtron\nC. Electron\nD. Proton và Electron"
+      },
+      {
+            "query": "Công thức của sắt(II) hiđroxit là\n\nA. $\\mathrm{Fe}(\\mathrm{OH})_3$. B. $\\mathrm{Fe}(\\mathrm{OH})_2$. C. FeO. D. $\\mathrm{Fe}_2 \\mathrm{O}_3$.",
+            "pos_similar": "Công thức của sắt(II) hiđroxit là\n\nA. $\\mathrm{Fe}_2 \\mathrm{O}_3$. B. FeO. C.$\\mathrm{Fe}(\\mathrm{OH})_3$. D. $\\mathrm{Fe}(\\mathrm{OH})_2$.",
+            "neg_similar": "Công thức của sắt(III) hiđroxit là\n\nA. $\\mathrm{Fe}(\\mathrm{OH})_3$. B. $\\mathrm{Fe}(\\mathrm{OH})_2$. C. FeO. D. $\\mathrm{Fe}_2 \\mathrm{O}_3$."
+      },
+      {
+            "query": "Đốt cháy hoàn toàn $\\mathrm{m}$ gam rượu etylic thu được 2,24 lít khí $\\mathrm{CO}_2$ (đktc). Giá trị của $\\mathrm{m}$ là\n\nA. 4,60 . B. 3,45 C. 2,30 . D. 5,75",
+            "pos_similar": "Đốt cháy hoàn toàn $\\mathrm{m}$ gam rượu etylic thu được 2,24 lít khí $\\mathrm{CO}_2$ (đktc). Giá trị của $\\mathrm{m}$ là\n ",
+            "neg_similar": "Đốt cháy hoàn toàn $\\mathrm{m}$ gam rượu etylic $\\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{OH}$ bằng $\\mathrm{V}$ lít ( đktc ) khí $\\mathrm{O}_2$ ( vừa đủ), thu được $\\mathrm{CO}_2$ và 5,4 gam $\\mathrm{H}_2 \\mathrm{O}$. Giá trị của m là:\n\nA. 4,60 . B. 3,45 C. 2,30 . D. 5,75"
+      },
+      {
+            "query": "Khi đun nóng chất $\\mathrm{X}$ có công thức phân tử $\\mathrm{C}_3 \\mathrm{H}_6 \\mathrm{O}_2$ với dung dịch $\\mathrm{NaOH}$ thu được $\\mathrm{C}_2 \\mathrm{H}_3 \\mathrm{O}_2 \\mathrm{Na}$. Công thức cấu tạo của X là\n\nA $\\mathrm{CH}_3 \\mathrm{COO}_2 \\mathrm{H}_5$. B $\\mathrm{HCOOC}_2 \\mathrm{H}_5$ C $\\mathrm{CH}_3 \\mathrm{COOCH}_3$. D $\\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{COOH}$.",
+            "pos_similar": "Khi đun nóng chất $X$ có công thức phân tử $C_3 H_6 O_2$ với dung dịch $\\mathrm{NaOH}$ thu được $\\mathrm{CH}_3 \\mathrm{COONa}$ Công thức cấu tạo của $X$ là\n\nA $\\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{COOH}$ B $\\mathrm{CH}_3 \\mathrm{COOCH}_3$ C $\\mathrm{CH}_3 \\mathrm{COOC}_2 \\mathrm{H}_5$ D $\\mathrm{HCOOC}_2 \\mathrm{H}_5$.",
+            "neg_similar": "Chất $X$ có CTPT $\\mathrm{C}_4 \\mathrm{H}_8 \\mathrm{O}_2$. Khi $X$ tác dụng với dung dịch $\\mathrm{NaOH}$ sinh ra chất $Y$ có công thức $\\mathrm{C}_3 \\mathrm{H}_5 \\mathrm{O}_2 \\mathrm{Na}$. Công thức cấu tạo của $X$ là:\n\nA $\\mathrm{HCOOOC}_3 \\mathrm{H}_7$. B $\\mathrm{HCOOC}_3 \\mathrm{H}_5$. C $\\mathrm{CH}_3 \\mathrm{COOC}_2 \\mathrm{H}_5$. D $\\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{COOCH}_3$."
+      },
+      {
+            "query": "Este no, đơn chức, mạch hở $\\mathrm{X}$ có $40 \\%$ khối lượng cacbon, số nguyên tử hiđro trong một phân tử $\\mathrm{X}$ là\n\nA. 4 B. 6 C. 8 D.2",
+            "pos_similar": "Este no, đơn chức, mạch hở $\\mathrm{X}$ có $40 \\%$ khối lượng cacbon, số nguyên tử hiđro trong một phân tử $\\mathrm{X}$ là\n\nA. 2 B. 4 C. 6 D.8",
+            "neg_similar": "Este no, đơn chức, mạch hở $\\mathrm{X}$ có $40 \\%$ khối lượng cacbon, số nguyên tử cacbon trong một phân tử $\\mathrm{X}$ là\n\nA. 4 B. 6 C. 8 D.2"
+      },
+      {
+            "query": "Hai chất nào sau đây là đồng đẳng của nhau?\n\nA $\\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{OH}, \\mathrm{CH}_3 \\mathrm{OCH}_3$. B $\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{CH}_2 \\mathrm{OH}, \\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{OH}$. C $\\mathrm{CH}_3 \\mathrm{OCH}_3, \\mathrm{CH}_3 \\mathrm{CHO}$. D $\\mathrm{C}_4 \\mathrm{H}_{10}, \\mathrm{C}_6 \\mathrm{H}_6$.",
+            "pos_similar": "Hai chất nào sau đây là đồng đẳng của nhau?\n\nA $\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{CH}_2 \\mathrm{OH}, \\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{OH}$. B $\\mathrm{CH}_3 \\mathrm{OCH}_3, \\mathrm{CH}_3 \\mathrm{CHO}$. C $\\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{OH}, \\mathrm{CH}_3 \\mathrm{OCH}_3$. D $\\mathrm{C}_4 \\mathrm{H}_{10}, \\mathrm{C}_6 \\mathrm{H}_6$.",
+            "neg_similar": "Cặp chất nào sau đây là đồng đẳng của nhau?\n\nA $\\mathrm{CH}_3-\\mathrm{CH}_2-\\mathrm{OH}, \\mathrm{CH}_3-\\mathrm{CH}_2-\\mathrm{CH}_2-\\mathrm{OH}$. B $\\mathrm{CH}_3-\\mathrm{OH}, \\mathrm{CH}_3-\\mathrm{CH}_2-\\mathrm{CH}_2-\\mathrm{O}-\\mathrm{CH}_3$. C $\\mathrm{CH}_3-\\mathrm{CH}_2-\\mathrm{CH}_2-\\mathrm{OH}, \\mathrm{CH}_3-\\mathrm{CH}_2-\\mathrm{CH}_2-\\mathrm{O}-\\mathrm{CH}_3$. D $\\mathrm{CH}_3-\\mathrm{CH}_2-\\mathrm{OH}, \\mathrm{CH}_3-\\mathrm{CH}_2-\\mathrm{CH}_2-\\mathrm{O}-\\mathrm{CH}_3$."
+      },
+      {
+            "query": "Những hợp chất hữu cơ có cùng công thức phân tử nhưng khác nhau về công thức câu tạo được goi là:\n\nA đồng đẳng B đồng phân C đồng vị D đồng khối",
+            "pos_similar": "Hiện tượng các chất hữu cơ khác nhau nhưng có cùng công thức phân tử gọi là\nHiện tượng các chất hữu cơ có thành phần phân tử hơn nhau một hay nhiều nhóm $\\mathrm{CH}_2$, công thức cấu tạo tương tự nhau, tính chất hóa học tương tự nhau, được gọi là\n\nA. Đồng phân. B. Đồng đẳng. C. Đồng vị. D. Đồng khối.",
+            "neg_similar": "Cặp chất nào sau đây là đồng phân của nhau ?\nA. $\\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{OH}, \\mathrm{CH}_3 \\mathrm{OCH}_3$\nB. $\\mathrm{CH}_3 \\mathrm{OCH}_3, \\mathrm{CH}_3 \\mathrm{CHO}$\nC. $\\mathrm{CH}_3 \\mathrm{OH}, \\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{OH}$\nD. $\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{Cl}, \\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{OH}$"
+      },
+      {
+            "query": "        \nMệnh đề nào dưới đây không đúng\n\nA Các đồng vị phải có số khối khác nhau. B Các đồng vị phải có số neutron khác nhau. C Các đồng vị phải có số electron khác nhau. D Các đồng vị phải có cùng điện tích hạt nhân.",
+            "pos_similar": "        \nChọn phát biểu sai:\n\nA Các đồng vị phải có số electron khác nhau. B Các đồng vị phải có số neutron khác nhau. C Các đồng vị phải có cùng điện tích hạt nhân. D Các đồng vị phải có số khối khác nhau.",
+            "neg_similar": "        \nNhận định nào sau đây không đúng?\n\nA Về trị số có thể coi nguyên tử khối bằng số khối B Các đồng vị của cùng 1 nguyên hóa học luôn có khối lượng nguyên tử giống nhau C Đường kính của hạt nhân nguyên tử nhỏ hơn nhiều so với đường kính của nguyên tử. D Nguyên tố hóa học là tập hợp những nguyên tử có cùng điện tích hạt nhân"
+      },
+      {
+            "query": "Cho 3 nguyên từ: ${ }_6^{12} X ;_7^{14} Y y_6^{14} \\mathrm{~T}$. Các nguyên tử nào là đồng vị?\n\nA Yvà T. $B \\quad X$ và $Y$. C X, Y và T D X và $T$.",
+            "pos_similar": "Cho 3 nguyên tố: ${ }_6^{12} X,{ }_7^{14} Y,{ }_6^{14} Z$. Các nguyên tử nào là đồng vị với nhau?\n\nA $Y$ và $Z$ B $X, Y$ và $Z$ C Xvà Z D Xvà Y",
+            "neg_similar": "Cho các nguyên từ: ${ }_6^{12} X,{ }_6^{13} Y,{ }_7^{12} Z,{ }_8^{12} T$. Cặp nguyên tử là đồng vị của nhau?\n\nA $X, Y$. B $Z_r, T$. C $Y, Z$. D $X, Z$."
+      },
+      {
+            "query": "Trong tự nhiên, đồng $(\\mathrm{Cu})$ tồn tại dưới hai dạng đồng vị ${ }_{29}^{63} \\mathrm{Cu}$ và ${ }_{29}^{65} \\mathrm{Cu}$. Nguyên tử khối trung bình của $\\mathrm{Cu}$ là 63,55 . Phần trăm về số mol của ${ }_{29}^{65} \\mathrm{Cu}$ là\n\nA $25,5 \\%$. B $26,5 \\%$. C $27,5 \\%$. D $28,5 \\%$.",
+            "pos_similar": "Nguyên tố $\\mathrm{Cu}$ có hai đồng vị bền là ${ }_{29}^{63} \\mathrm{Cu}$ và ${ }_{29}^{65} \\mathrm{Cu}$. Nguyên từ khối trung bình cùa $\\mathrm{Cu}$ là 63,54 . Tỉ lệ \\% đồng vị ${ }_{29}^{63} \\mathrm{Cu},{ }_{29}^{65} \\mathrm{Cu}$ lần lượt là\n\nA $70 \\%$ và $30 \\%$ B $27 \\%$ và $73 \\%$ C $73 \\%$ và $27 \\%$ D $\\quad 64 \\%$ và $36 \\%$",
+            "neg_similar": "Trong tự nhiên Cu có hai đồng vị: ${ }_{29}^{63} \\mathrm{Cu},{ }_{29}^{65} \\mathrm{Cu}$ Khối lượng nguyên tử trung bình của ${ }_{29}^{63} \\mathrm{Cu}$ là 63,54 . Thành phần \\% về khối lượng của trong $\\mathrm{CuBr}_2$ là giá trị nào dưới đây? Biết $M_{B r}=80$\n\nA $20,57 \\%$. B $27,00 \\%$. C $32,33 \\%$. D $34,18 \\%$."
+      },
+      {
+            "query": "Cho các nguyên tử sau. \n- X: có điện tích hạt nhân là 16+.\n- Y: có số hiệu nguyên tử là 20.\n- Z: có 7 e ngoài cùng ở lớp N.\n- T: có số e trên phân lớp s bằng 1/2 số e trên phân lớp p và số e trên phân lớp s kém số e trên phân lớp p là 6 hạt.\n Ở trạng thái cơ bản, nguyên tử chứa số electron lớp ngoài cùng nhiều nhất là:\nthu gọn\n\n\n\nA Nguyên tử X. B Nguyên tử Y. C Nguyên tử Z. D Nguyên tử T.",
+            "pos_similar": "        \nCho các nguyên tử sau. \n- X: có điện tích hạt nhân là 16+.\n- Y: có số hiệu nguyên tử là 20.\n- Z: có 7 e ngoài cùng ở lớp N.\n- T: có số e trên phân lớp s bằng 1/2 số e trên phân lớp p và số e trên phân lớp s kém số e trên phân lớp p là 6 hạt.\nỞ trạng thái cơ bản, nguyên tử chứa số electron lớp ngoài cùng nhiều nhất là:\nthu gọn\n\nA Nguyên tử Z. B Nguyên tử X. C Nguyên tử T. D Nguyên tử Y.",
+            "neg_similar": "Cho các nguyên tử sau. \n- X: có điện tích hạt nhân là 16+. \n- Y: có số hiệu nguyên tử là 20. \n- Z: có 3 lớp electron, lớp M chứa 7 electron. \n- T: có electron ở mức năng lượng cao nhất thuộc phân lớp 3p, tổng số electron trên các phân lớp p là 9. \nỞ trạng thái cơ bản, nguyên tử chứa số electron s nhiều nhất là:\nthu gọn\n\nA Nguyên tử Z. B Nguyên tử T. C Nguyên tử Y. D Nguyên tử X."
+      },
+      {
+            "query": "Để nhận biết 2 chất khí $\\mathrm{CO}_2$ và $\\mathrm{SO}_2$ ta chỉ cần dùng một thuốc thử là\n\nA nước vôi trong. B phenolphtalein. C dung dịch $\\mathrm{NaOH}$. D nước brom.",
+            "pos_similar": "Để phân biệt $\\mathrm{CO}_2$ và $\\mathrm{SO}_2$ chỉ cần dùng thuốc thử là\nA. dung dịch $\\mathrm{Ba}(\\mathrm{OH})_2$.\nB. nước brom.\nC. $\\mathrm{CaO}$.\nD. dung dịch $\\mathrm{NaOH}$.",
+            "neg_similar": "Để phân biệt được 3 chất khí: $\\mathrm{CO}_2, \\mathrm{SO}_2$ và $\\mathrm{O}_2$ đựng trong 3 bình mất nhãn riêng biệt, người ta dùng thuốc thử là\nA nước vôi trong.\nB nước $\\mathrm{Br}_2$.\nC dung dịch $\\mathrm{KMnO}_4$.\nD nước vôi trong và nước $\\mathrm{Br}_2$."
+      },
+      {
+            "query": "Để nhận biết 2 chất khí $\\mathrm{CO}_2$ và $\\mathrm{SO}_2$ ta chỉ cần dùng một thuốc thử là\n\nA nước vôi trong. B phenolphtalein. C dung dịch $\\mathrm{NaOH}$. D nước brom.",
+            "pos_similar": "Loại thuốc thử nào sau đây giúp phân biệt $\\mathrm{CO} 2$ và $\\mathrm{SO} 2$ ?\nDung dịch $\\mathrm{Ba}(\\mathrm{OH}) 2$\n$\\mathrm{CaO}$\nDung dịch $\\mathrm{NaOH}$\nNước Brom",
+            "neg_similar": "Cho các chất khí: $\\mathrm{SO}_2, \\mathrm{CO}_2$. Dùng chất nào sau đây để nhận biết 2 chất khí?\n\nA dung dich $\\mathrm{Ca}(\\mathrm{OH})_2$ B dung dịch $\\mathrm{NaOH}$ C dung dịch $\\mathrm{KMnO}_4$ D Quì tím"
+      },
+      {
+            "query": "Hai nguyên tố A và B ở hai nhóm A liên tiếp trong bảng tuần hoàn, B thuộc nhóm VA, ở trạng thái đơn chất A, B không phản ứng với nhau. Tổng số proton trong hạt nhân nguyên tử của A và B là 23. Viết cấu hình electron nguyên tử của A, B.\n ",
+            "pos_similar": " \n ",
+            "neg_similar": "Hai nguyên tố X và Y ở hai nhóm A liên tiếp trong bảng tuần hoàn. Ở trạng thái đơn chất, X và Y không phản ứng với nhau. Tổng số proton trong hạt nhân X và Y bằng 23.\n\na) Xác định X, Y\n\nb) Viết công thức các hợp chất oxide ứng với hóa trị cao nhất, hydroxide tương ứng của X, Y và nêu tính acid – base của chúng.\n "
+      },
+      {
+            "query": "Chọn phát biểu sai khi nói về điện hóa trị\n\nA. Trong hợp chất ion, các nguyên tố kim loại thuộc nhóm IA, IIA, IIIA có điện hoá trị 1+, 2+, 3+.\nB. Trong hợp chất $\\mathrm{SO}_3$, S có điện hóa trị là 6+.\nC. Trong hợp chất ion, hoá trị của một nguyên tố bằng điện tích của ion và được gọi là điện hoá trị của nguyên tố đó.\nD. Các nguyên tố phi kim thuộc nhóm VIA, VIIA có thể có điện hoá trị 2-, 1-.",
+            "pos_similar": "Chọn phát biểu sai khi nói về điện hóa trị\nA Trong hợp chất $\\mathrm{SO}_3$, S có điện hóa trị là 6+.\nB Trong hợp chất ion, hoá trị của một nguyên tố bằng điện tích của ion và được gọi là điện hoá trị của nguyên tố đó.\nC Trong hợp chất ion, các nguyên tố kim loại thuộc nhóm IA, IIA, IIIA có điện hoá trị 1+,2+, 3+.\nD Các nguyên tố phi kim thuộc nhóm VIA, VIIA có thể có điện hoá trị 2-, 1-.",
+            "neg_similar": "Chọn phát biểu sai khi nói về hóa trị\nA Hóa trị của nguyên tố trong hợp chất ion được gọi là cộng hóa trị.\nB Trong hợp chất ion, hoá trị của một nguyên tố bằng điện tích của ion.\nC Nguyên tố clo có thể có điện hoá trị 1-.\nD Trong hợp chất ion, các nguyên tố kim loại thuộc nhóm IIIA có điện hoá trị 3+."
+      },
+      {
+            "query": "Số oxi hóa của $\\mathrm{N}$ trong $N_x O_y$ là\n\nA $\\frac{+2 x}{y}$.\nB $\\frac{+2 y}{x}$.\nC $+2 x$.\nD $+2 y$.",
+            "pos_similar": "Số oxi hóa của $\\mathrm{N}$ trong $N_m O_n$ là\n\nA $\\frac{+2 m}{n}$.\nB $\\frac{+2 n}{m}$.\nC $+2 m$.\nD $+2 n$.",
+            "neg_similar": "Số oxi hóa của Fe trong $F \\mathrm{e}_m O_n$ là:\n\nA $\\frac{+2 m}{n}$\nB +2 n\nC $\\frac{+2 n}{m}$\nD $+2 m$"
+      },
+      {
+            "query": "Cấu hình e nguyên tử của nguyên tố Fe là:\n\nA $[A r] 3 d^6 4 s^2$.\nB $[A r] 4 s^2 3 d^6$.\nC $[A r] 3 d^8$.\nD $[A r] 3 d^5 4 s^2$.",
+            "pos_similar": "Cấu hình e nguyên tử của nguyên tố có số hiệu nguyên tử 26 là:\n\nA $[A r] 3 d^6 4 s^2$.\nB $[A r] 4 s^2 3 d^6$.\nC $[A r] 3 d^8$.\nD $[A r] 3 d^5 4 s^2$.",
+            "neg_similar": "Cấu hình e nào sau đây là của ion $\\mathrm{Fe}^{3+}$\n\nA $[\\mathrm{Ar}] 3 \\mathrm{~d}^3$\nB $[\\mathrm{Ar}] 3 \\mathrm{~d}^6$\nC $[\\mathrm{Ar}] 3 \\mathrm{~d}^4$\nD $[\\mathrm{Ar}] 3 \\mathrm{~d}^5$"
+      },
+      {
+            "query": "Nguyên tử $\\mathrm{Na}(Z=11)$ có cấu hình electron là:\n\nA $1 \\mathrm{~s}^2 2 \\mathrm{~s}^2 2 p^6 3 \\mathrm{~s}^1$\nB $1 s^2 2 s^2 2 p^6 3 s^2 3 p^6 4 s^1$\nC $1 s^2 2 s^2 2 p^5$\nD $1 s^2 2 s^2 2 p^6 3 s^2$",
+            "pos_similar": "Cấu hình electron của nguyên tử Na là\n\nA [He]2s'.\nB $[\\mathrm{Ne}] 3 s^2$.\nC $[\\mathrm{Kr}] 4 \\mathrm{~s}^1$.\n(D) $[\\mathrm{Ne}] 3 \\mathrm{~s}^1$.",
+            "neg_similar": "Nguyên tử $\\mathrm{Na}(\\mathrm{Z}=11)$ bị mất đi 1e thì cấu hình e tương ứng của nó là\nA $1 s^2 2 s^2 2 p^6 3 s^2 3 p^6 4 s^1$.\nB $1 s^2 2 s^2 2 p^6 3 s^1$.\nC $1 s^2 2 s^2 2 p^6$.\nD $1 s^2 2 s^2 2 p^6 3 s^3$."
+      },
+      {
+            "query": "Có 3 lọ không nhãn đựng 3 dung dịch không màu: hồ tinh bột, glucozơ, ancol etylic.\nHãy nêu cách nhận biết các chất trên bằng phương pháp hóa học.\n ",
+            "pos_similar": "Ba ống nghiệm không nhãn, chứa riêng biệt 3 dung dịch : glucozơ, hồ tinh bột, rượu etylic. Để phân biệt 3 dung dịch người ta dùng thuốc thử nào sau đây?\nA.\nDung dịch iot.           \n\nB.\nDung dịch axit.\n\nC.\nDung dịch iot và dung dịch AgNO3/NH3.\n\nD.\nPhản ứng với Na",
+            "neg_similar": "Có 3 lọ ko nhãn đựng 3 dung dịch ko màu: hồ tinh bột, glucozơ, saccarozơ. Hãy nêu cách nhận biết các chất trên bằng phương pháp hóa học.\n "
+      },
+      {
+            "query": "Bằng phương pháp hóa học hãy tách:\na)  CH4 ra khỏi hỗn hợp với C2H2, C2H4\n ",
+            "pos_similar": "Có thể tách $\\mathrm{CH}_4$ ra khỏi hỗn hợp với $\\mathrm{C}_2 \\mathrm{H}_4, \\mathrm{C}_2 \\mathrm{H}_2$ bằng một lượng dư dung dịch\nA. $\\mathrm{CuSO}_4$;\nB. $\\mathrm{NaOH}$;\nC. $\\mathrm{Br}_2$;\nD. $\\mathrm{H}_2 \\mathrm{SO}_4$;",
+            "neg_similar": "Trình bày phương pháp hóa học để tách CH4 ra khỏi hỗn hợp gồm : CH4, C2H4, C2H2, CO2, SO2\n "
+      },
+      {
+            "query": "Bằng phương pháp hóa học hãy tách:\na)  CH4 ra khỏi hỗn hợp với C2H2, C2H4\n ",
+            "pos_similar": "Có thể tách $\\mathrm{CH}_4$ ra khỏi hỗn hợp với $\\mathrm{C}_2 \\mathrm{H}_4, \\mathrm{C}_2 \\mathrm{H}_2$ bằng một lượng dư dung dịch\nA. $\\mathrm{CuSO}_4$;\nB. $\\mathrm{NaOH}$;\nC. $\\mathrm{Br}_2$;\nD. $\\mathrm{H}_2 \\mathrm{SO}_4$;",
+            "neg_similar": "Để tách $\\mathrm{C}_2 \\mathrm{H}_2$ khỏi hỗn hợp với $\\mathrm{C}_2 \\mathrm{H}_4$ và $\\mathrm{CH}_4$. $\\mathrm{Người} \\mathrm{ta} \\mathrm{phải} \\mathrm{dùng} \\mathrm{các} \\mathrm{hoá} \\mathrm{chất} \\mathrm{nào} \\mathrm{sau} \\mathrm{đây}$ (không kể các phương pháp vật lí) :\n\nA. dung dịch $\\mathrm{AgNO}_3 / \\mathrm{NH}_3$ và dung dịch $\\mathrm{HCl}$\nB. dung dịch $\\mathrm{Br}_2$ và dung dịch $\\mathrm{HCl}$\nC. dung dịch $\\mathrm{AgNO}_3 / \\mathrm{NH}_3$ và dung dịch $\\mathrm{Br}_2$\nD. dung dịch $\\mathrm{Br}_2$ và $\\mathrm{Zn}$"
+      },
+      {
+            "query": "Chất có phần trăm khối lượng cacbon lớn nhất là\nA. $\\mathrm{CH}_4$.\nB. $\\mathrm{CH}_3 \\mathrm{Cl}$.\nC. $\\mathrm{CH}_2 \\mathrm{Cl}_2$.\nD. $\\mathrm{CHCl}_3$.",
+            "pos_similar": "Các chất cho dưới đây, chất nào có phảm trăm khối lượng Cacbon lớn nhất ?\n\nA. $\\mathrm{CH}_4$\nB. $\\mathrm{CH}_3 \\mathrm{Cl}$\nC. $\\mathrm{CH}_2 \\mathrm{Cl}_2$\nD. $\\mathrm{CHCl}_3$",
+            "neg_similar": "Phần trăm khối lượng cacbon trong hiđrocacbon nào sau đây là cao nhất?\n.\nA $\\mathrm{CH}_4$\nB $\\mathrm{C}_2 \\mathrm{H}_4$\nC $\\mathrm{C}_2 \\mathrm{H}_6$.\nD $\\mathrm{C}_2 \\mathrm{H}_2$"
+      },
+      {
+            "query": "Công thức cấu tạo của axetilen là\n\nA $\\mathrm{CH}_2=\\mathrm{CH}_2$.\nB $\\mathrm{CH}_3-\\mathrm{CH}_3$.\nC $\\mathrm{CH}_2=\\mathrm{CH}_2$.\nD $\\mathrm{CH} \\equiv \\mathrm{CH}$.",
+            "pos_similar": "Công thức cấu tạo của axetilen là\n.\nA. $\\mathrm{CH} \\equiv \\mathrm{CH}$.\nB. $\\mathrm{CH}_2=\\mathrm{CH}_2$.\nC. $\\mathrm{CH}_3-\\mathrm{CH}_3$.\nD. $\\mathrm{CH} \\equiv \\mathrm{C}-\\mathrm{CH}_3$",
+            "neg_similar": "Công thức cấu tạo của etilen là\n\nA. $\\mathrm{CH} \\equiv \\mathrm{CH}$.\nB. $\\mathrm{CH}_2=\\mathrm{CH}_2$.\nC. $\\mathrm{CH}_3-\\mathrm{CH}_3$.\nD. $\\mathrm{CH} \\equiv \\mathrm{C}-\\mathrm{CH}_3$."
+      },
+      {
+            "query": "Tiến hành thí nghiệm xà phòng hóa tristearin theo các bước sau:\nBước 1: Cho vào bát sứ khoảng 1 gam tristearin và $2-2,5 \\mathrm{ml}$ dung dịch $\\mathrm{NaOH}$ nồng độ $40 \\%$. Bước 2: Đun sôi nhẹ hỗn hợp khoảng 30 phút và khuấy liên tục bằng đũa thủy tinh, thỉnh thoàng thêm vài giọt nước cất đề giữ cho thể tích của hỗn hợp không đổi.\nBước 3: Rót thêm vào hỗn hợp $4-5 \\mathrm{ml}$ dung dịch $\\mathrm{NaCl}$ bão hòa nóng, khuấy nhẹ, để nguội đến nhiệt độ phòng.\nPhát biểu nào sau đây sai ?\n\nA Sau bước 2, thu được chất lỏng đồng nhất.\nB Sau bước 3 , thấy có lớp chất rắn màu trắng nhẹ nổi lên trên.\nC. Mục đích chính của việc thêm dung dịch $\\mathrm{NaCl}$ là làm tăng tốc độ cho phản úng xà phòng hóa.\nD. Phần chất lỏng sau khi tách hết xà phòng có thể hòa $\\tan \\mathrm{Cu}(\\mathrm{OH})_2$ thành dung dịch màu xanh lam.",
+            "pos_similar": "Tiến hành thí nghiệm xà phòng hoá tristearin theo các bước sau:\nBước 1: Cho vào bát sứ khoảng 1 gam tristearin và 2-2,5 ml dung dịch $\\mathrm{NaOH}$ nồng độ $40 \\%$.\nBước 2: Đun sôi nhẹ hỗn hợp khoảng 30 phút và khuấy liên tục bằng đũa thuỷ tinh, thỉnh thoảng thêm vài giọt nước cất để giữ cho thể tích của hỗn hợp không đổi.\nBước 3: Rót thêm vào hỗn hợp $4-5 \\mathrm{ml}$ dung dịch $\\mathrm{NaCl}$ bão hoà nóng, khuấy nhẹ rồi để nguội. Phát biểu nào sau đây sai?\n\n\nA Sau bước 3 , thấy có lớp chất rắn màu trắng nhẹ nổi lên\nB Sau bước 2, thu được chất lòng đồng nhất\nC Mục đích chính của việc thêm dung dịch $\\mathrm{NaCl}$ là làm tăng tốc độ cho phản ứng xà phòng hoá\nD Phần chất lỏng sau khi tách hết xà phòng hoà $\\tan \\mathrm{Cu}(\\mathrm{OH})_2$ thành dung dịch màu xanh lam.",
+            "neg_similar": "Tiến hành thí nghiệm xà phòng hóa tristearin theo các bước sau:\nBước 1 : Cho vào bát sú khoảng 1 gam tristearin và $2-2,5 \\mathrm{ml}$ dung dịch $\\mathrm{NaOH}$ nồng độ $40 \\%$.\nBước 2 : Đun sôi nhẹ hỗn hợp khoảng 30 phút và khuấy liên tục bằng đũa thủy tinh, thỉnh thoảng thêm vài giọt nước cất để giữ cho thể tích của hỗn hợp không đổi.\nBước 3 : Rót thêm vào hỗn hợp $4-5 \\mathrm{ml}$ dung dịch $\\mathrm{NaCl}$ bão hòa nóng, khuấy nhẹ rồi để nguội. Phát biểu nào sau đây đúng?\n\n\nA. Tách hết natri sterrat ra khỏi hỗn hợp sau bước 3 , thu được chất lỏng có khả năng hòa tan $\\mathrm{Cu}(\\mathrm{OH})_2$ thành dung dịch màu tím.\nB Sau bước 3, hỗn hợp tách thành hai lớp: phía trên là chất rắn màu trắng, phía dưới là chất lòng.\nC. Mục đích chính của việc thêm dung dịch $\\mathrm{NaCl}$ là làm tăng tốc độ cho phản ứng xà phòng hóa.\nD. Sau bước 2, thu được 2 lớp chất lỏng không hòa tan vào nhau."
+      },
+      {
+            "query": "\n\nĐiều chế este $\\mathrm{CH}_3 \\mathrm{COOC}_2 \\mathrm{H}_5$ trong phòng thí nghiệm được mô tả theo hình vẽ sau: ( Hình ảnh) \nCho các phát biểu sau:\n(a) Etyl axetat có nhiệt độ sôi thấp $\\left(77^{\\circ} \\mathrm{C}\\right)$ nên dễ bị bay hơi khi đun nóng.\n(b) $\\mathrm{H}_2 \\mathrm{SO}_4$ đặc vừa làm chất xúc tác, vừa có tác dụng hút nước.\n(c) Etyl axetat qua ống dẫn dưới dạng hơi nên cần làm lạnh bằng nước đá để ngưng tụ.\n(d) Khi kết thúc thí nghiệm, cần tắt đèn cồn trước khi tháo ống dẫn hơi etyl axetat.\n(e) Vai trò của đá bọt là để bảo vệ ống nghiệm không bị vỡ.\n(g) Có thể thêm ít bột $\\mathrm{CaCO}_3$ vào ống nghiệm thay cho đá bọt để tăng hiện tượng đối lưu. Số phát biểu đúng là:\nA. 5\nB. 3\nC. 2\nD. 4",
+            "pos_similar": "Điều chế este $\\mathrm{CH}_3 \\mathrm{COOC}_2 \\mathrm{H}_5$ trong phòng thí nghiệm được mô tả theo hình vẽ sau: ( Hình ảnh) \nCho các phát biểu sau:\n(a) Etyl axetat có nhiệt độ sôi thấp $\\left(77^{\\circ} \\mathrm{C}\\right)$ nên dễ bị bay hơi khi đun nóng.\n(b) $\\mathrm{H}_2 \\mathrm{SO}_4$ đặc vừa làm chất xúc tác, vừa có tác dụng hút nước.\n(c) Etyl axetat qua ống dẫn dưới dạng hơi nên cần làm lạnh bằng nước đá để ngưng tụ.\n(d) Khi kết thúc thí nghiệm, cần tắt đèn cồn trước khi tháo ống dẫn hơi etyl axetat.\n(e) Vai trò của đá bọt là để bảo vệ ống nghiệm không bị vỡ.\n(g) Có thể thêm ít bột $\\mathrm{CaCO}_3$ vào ống nghiệm thay cho đá bọt để tăng hiện tượng đối lưu. Số phát biểu đúng là:\nA. 2\nB. 5\nC. 4\nD. 3",
+            "neg_similar": "Điều chế este $\\mathrm{CH}_3 \\mathrm{COOC}_2 \\mathrm{H}_5$ trong phòng thí nghiệm được mô tả theo hình vẽ sau: ( Hình ảnh) \nCho các phát biểu sau:\n(a) Etyl axetat có nhiệt độ sôi thấp $\\left(77^{\\circ} \\mathrm{C}\\right)$ nên dễ bị bay hơi khi đun nóng.\n(b) $\\mathrm{H}_2 \\mathrm{SO}_4$ đặc vừa làm chất xúc tác, vừa có tác dụng hút nước.\n(c) Etyl axetat qua ống dẫn dưới dạng hơi nên cần làm lạnh bằng nước đá để ngưng tụ.\n(d) Khi kết thúc thí nghiệm, cần tắt đèn cồn trước khi tháo ống dẫn hơi etyl axetat.\n(e) Vai trò của đá bọt là để bảo vệ ống nghiệm không bị vỡ.\n(g) Để nâng cao hiệu suất phản ứng có thể thay hỗn hợp trong ống nghiệm bằng rượu trắng, giấm ăn và $\\mathrm{H}_2 \\mathrm{SO}_4$ đặc.\nSố phát biểu đúng là:\nA. 5\nB. 3\nC. 2\nD. 4"
+      },
+      {
+            "query": "\nChất nào sau đây không phải axit béo?\nA. Axit oleic.\nB. Axit panmitic.\nC. Axit axetic.\nD. Axit stearic.",
+            "pos_similar": "Chất nào sau đây không phải axit béo?\nA. axit panmitic\nB. axit stearic\nC. axit oleic\nD. axit axetic",
+            "neg_similar": "Kể tên 4 loại axit béo thường gặp\n "
+      },
+      {
+            "query": "Cho 10,5g hỗn hợp 2 kim loại Cu và Zn vào dd H2SO4 loãng dư, người ta thu được 2,24 lít khí (đktc). Hãy tính thành phần % theo khối lượng của Cu và Zn .\n ",
+            "pos_similar": "Cho 10,5g hỗn hợp hai kim loại Cu, Zn vào dung dịch H2SO4 loãng dư, người ta thu được 2,24 lít khí (đktc).\na) Viết phương trình hóa học.\nb) Tính khối lượng chất rắn còn lại trong dung dịch sau phản ứng.\n ",
+            "neg_similar": "Cho 12,7 g hợp kim gồm Al, Cu và Mg vào dd HCl dư. Sau phản ứng thu đc 11,2 lít khí H2 ( ở đktc) và 2,5g chất không tan. Xác định thành phần phần trăm khối lượng của hợp kim\n "
+      },
+      {
+            "query": "Ngâm lá sắt có khối lượng 56 gam vào dung dịch AgNO3, sau một thời gian lấy lá sắt ra rửa nhẹ cân được 57,6 gam. Hãy tính khối lượng Ag sinh ra sau phản ứng?\n ",
+            "pos_similar": "Ngâm đinh sắt vào dung dịch AgNO3, sau một thời gian lấy lá sắt ra cạo lấy phần bạc bám bên ngoài rồi đem cân được 21,6 gam. Khối lượng sắt đã phản ứng là\n\n\nA. 10,8 g\nB. 21,6 g\nC. 1,08 g\nD. 2,16 g",
+            "neg_similar": "Cho một lá sắt có khối lượng 4,2 gam vào 40 g dung dịch CuSO4 20% sau một thời gian phẩn ứng lấy lá sắt ra khỏi dung dịch rửa nhẹ làm khô cho lên cân thì được khối lượng 4,5 g hãy tính nồng độ phần trăm các chất sau phản ứng. \n "
+      },
+      {
+            "query": "Cho m gam H2NCH2COOH phản ứng hết với dung dịch KOH, thu được dung dịch chứa 16,95 gam muối. Giá trị của m là\n\n\nA. 16,95.    \nB. 11,25.    \nC, 13,05.    \nD. 22,50.",
+            "pos_similar": "Cho m gam $\\mathrm{H}_2 \\mathrm{NCH}_2 \\mathrm{COOH}$ phản ứng hết với dung dịch $\\mathrm{KOH}$, thu được dung dịch chứa 13,56 gam muối. Giá trị của $\\mathrm{m}$ là\n\nA. 10,68 .\nB. 10,45 .\nC. 9,00 .\nD. 13,56 .",
+            "neg_similar": "Trong phân tử amino axit X có một nhóm amino và một nhóm cacboxyl. Cho 8,9 gam X tác dụng vừa đủ với dung dịch NaOH, cô cạn dung dịch sau phản ứng thu được 11,1 gam muối khan. Công thức của X là\nA. $\\mathrm{H}_2 \\mathrm{NC}_2 \\mathrm{H}_4 \\mathrm{COOH}$\nB. $\\mathrm{H}_2 \\mathrm{NCH}_2 \\mathrm{COOH}$\nC. $\\mathrm{H}_2 \\mathrm{NC}_3 \\mathrm{H}_6 \\mathrm{COOH}$\nD. $\\mathrm{H}_2 \\mathrm{NC}_4 \\mathrm{H}_8 \\mathrm{COOH}$"
+      },
+      {
+            "query": "Hoà tan hoàn toàn 3,25g một kim loại X (hoá trị II) bằng dung dịch HCl thu được 1,12 lít khí H2 (ở đktc). Hãy xác định tên kim loại X ?\n ",
+            "pos_similar": "Hoà tan hết 3,6g một kim loại hoá trị II bằng dung dịch HCl loãng được 3,36 lít H2 (đktc). Kim loại là\n\nA.Ca.\nB.Mg.\nC.Zn.\nD.Fe.",
+            "neg_similar": "Hoà tan một kim loại hoá trị II trong một lượng vừa đủ dung dịch H2SO4 20% thì thu được dung dịch muối có nồng độ 22,6%. Xác định kim loại đó. \n "
+      },
+      {
+            "query": "hoà tan một muối cacbonat của kim loại R ( chưa biết hoá trị ) trong một lượng vừa đủ dung dịch H2SO4 12,25% thu được dung dịch muối sunfat của kim loại R có nồng độ 17,431%. Xác định kim loại R\n ",
+            "pos_similar": "Hòa tan hết muối cacbonat trung hòa của kim loại A bằng dung dịch H2SO4 vừa đủ nồng độ 19,6% thì thu được dung dịch chứa muối sunfat nồng độ 26,57%. Xác định kim loại A\nA. $\\mathrm{Zn}$\nB. Al\nC. $\\mathrm{Fe}$\nD. $\\mathrm{Mg}$",
+            "neg_similar": "Hòa tan hoàn toàn 14,2g hỗn hợp A gồm MgCO3 và muối CO3 của kim loại M vào dung dịch HCl 7,3% vừa đủ thu được dung dịch B và 3,36l khí CO2(đktc). Nồng độ MgCl2 trong dung dịch B bằng 6,028%. Xác định kim loại M, biết hóa trị kim loại M có giá trị từ 1 đến 3\n\n "
+      },
+      {
+            "query": "Cho 7,35 gam axit glutamic phản ứng với 140 ml dung dịch HCl 1M, thu được dung dịch X. Cho 250 ml dung dịch NaOH 1M vào X, thu được dung dịch Y. Cô cạn dung dịch Y, thu được m gam chất rắn khan. Biết các phản ứng xảy ra hoàn toàn, giá trị của m là\nA. 16,64\nB. 19,04\nC. 17,74\nD. 18,14",
+            "pos_similar": "Cho 13,23 gam axit glutamic phản ứng với 200 ml dung dịch HCl 1M, thu được dung dịch X. Cho 400 ml dung dịch NaOH 1M vào X, thu được dung dịch Y. Cô cạn dung dịch Y, thu được m gam chất rắn khan. Biết các phản ứng xảy ra hoàn toàn, giá trị của m là\nA. 28,89 .\nB. 29,69.\nC. 31,31 .\nD. 17,19 .",
+            "neg_similar": "Cho 0,1 mol lysin tác dụng với 100 ml dung dịch HCl 1M, thu được dung dịch X. Dung dịch X tác dụng với 400 ml NaOH 1M, đến phản ứng hoàn toàn thu được dung dịch Y. Cô cạn Y thu được m gam chất rắn khan. Giá trị của m là\n\n\nA. 22,65.\n\nB. 30,65.\n\nC. 34,25.\n\nD. 26,25."
+      },
+      {
+            "query": "Cho 2,8 gam bột sắt và 0,81 gam bột nhôm vào 100 ml dung dịch A chứa Cu(NO3)2 và AgNO3. Khuấy kĩ đến khi phản ứng hoàn toàn, thu được chất rắn B gồm 3 kim loại có khối lượng 8,12 gam. Cho B tác dụng với dung dịch HCl dư thu được 0,672 lít H2 (đktc). Nồng độ mol của Cu(NO3)2 là\n\n\nA.0.3M.    \nB.0,5M.    \nC. 0,6M.    \nD, 1M.",
+            "pos_similar": "Cho 2,8g bột sắt và 0,81g nhôm vào 100ml dd A chứa Cu(NO3)2 và AgNO3, khuấy kĩ đến khi phản ứng kết thúc. Sau phản ứng còn lại chất rắn B gồm 3 kim loại có khối lượng 8,12g, cho rắn B tác dụng với HCl dư đc 0,672 (l) H2 (đktc). Tính CM của từng muối trong dd A.\n\n\n ",
+            "neg_similar": "Cho 1,96 gam bột sắt vào $50 \\mathrm{ml}$ dd chứa $\\mathrm{AgNO3}$ và $\\mathrm{Cu}(\\mathrm{NO} 3) 2$ sau một thời gian đc chất rắn $\\mathrm{A}, \\mathrm{dd} \\mathrm{B}$. Cho $\\mathrm{A}$ tác dụng vs $\\mathrm{dd} \\mathrm{HCl}$ dư thấy thoát ra 112 ml khí H2 ở đktc và còn lại 3,34 chất rắn gổm hai kim loại. Cho dd $\\mathrm{NaOH}$ dư vào dd $\\mathrm{B}$, sau khi phản ứng kết thúc đc kết tủa $\\mathrm{D}$. Lọc tách lấy D, nung nóng trong không khí đến khối lượng không đổi thu đc 3,2 gam hỗn hợp hai oxit. Tính CM các muối trong dd ban đầu\n "
+      },
+      {
+            "query": "Cho 5,6 lít $\\mathrm{CO}_2$ (đktc) đi qua 164 ml dung dịch $\\mathrm{NaOH} 20 \\%$ (có khối lượng riêng 1,22 g/ml) thu được dung dịch $\\mathrm{X}$. Cô cạn dung dịch $\\mathrm{X}$ thì thu được khối lượng chất rắn khan là\n\nA. 26,5 gam.\nB. 15,5 gam.\nC. 46,5 gam.\nD. 31 gam.",
+            "pos_similar": "cho 5,6 lít CO2 (đktc) đi qua 164 ml đ NaOH20% (d=1,22 g/ml) thu được dd X. Cô cạn dd X thì thu được bao nhiêu gam chất rắn ?\n ",
+            "neg_similar": "Hấp thụ hoàn toàn 1,568 lít CO2 (đktc) vào 500 ml dung dịch NaOH 0,16M thu được dung dịch X. Thêm 250 ml dung dịch Y gồm BaCl2 0,16M và Ba(OH)2 aM vào dung dịch X thu được 3,94g kết tủa và dung dịch Z. Giá trị của a là:\nA. 0,015\nB. 0,02 .\nc. 0,03 .\nD. 0,04 ."
+      },
+      {
+            "query": "Xenlulozơ trinitrat được điều chế từ phản ứng giữa axit nitric với xenlulozo (hiệu suất phản ứng 60% tính theo xenlulozơ). Nếu dùng 2 tấn xenlulozơ thì khối lượng xenlulozơ trinitrat điều chế được là\nA. 2,20 tấn.    \nB. 1,10 tấn.     \nC. 2,97 tấn.     \nD. 3,67 tấn.",
+            "pos_similar": "Xenlulozo trinitrat được điều chế từ xenlulozo và axit nitric đặc có xúc tác axit sunfuric đặc, nóng. Để có 29,7 kg xenlulozo trinitrat, cần dựng dùng dịch chứa m kg axit nitric (hiệu suất phản ứng đạt 90%). Giá trị của m là :\nA. $30 \\mathrm{~kg}$\nB. $42 \\mathrm{~kg}$\nC. $21 \\mathrm{~kg}$\nD. $10 \\mathrm{~kg}$",
+            "neg_similar": "Thể tích dung dịch HNO3 67,5% (khối lượng riêng là 1,5 gam/ml) cần dùng để tác dụng với xenlulozơ tạo thành 89,1 kg xenlulozơ trinitrat là (biết lượng HNO3 bị hao hụt là 20%) :\nA. 55 lit\nB. 81 lit\nC. 49 lit\nD. 70 lit."
+      },
+      {
+            "query": " \"Trung hòa $200 \\mathrm{ml}$ dung dịch $\\mathrm{H}_2 \\mathrm{SO}_4 1 \\mathrm{M}$ bằng dung dịch $\\mathrm{NaOH} 20 \\%$. Khối lượng dung dịch $\\mathrm{NaOH}$ cần dùng là:\"\nA. 100 g B. 80 g C. 90 g D. 150 g",
+            "pos_similar": "Trung hòa 200ml dung dịch H2SO4 1M bằng dung dịch NaOH 20%. Khối lượng dung dịch NaOH cần dùng là:\n ",
+            "neg_similar": "Trung hòa hết 200ml dung dịch H2SO4 1M bằng dung dịch NaOH 20%\n\n\na) Tính khối lượng muối thu được và dung dịch NaOH cần dùng\n\nb) Nếu trung hòa dung dịch H2SO4 trên bằng dung dịch KOH 5,6%, có khối lượng riêng là 1,045g/ml , thì cần bao nhiêu ml dung dịch KOH"
+      },
+      {
+            "query": "Hoà tan hết 12g một kim loại ( hoá trị II) bằng dung dịch H2SO4 loãng thu được 6,72 lít khí H2 (đktc). Kim loại này là:\nA. Zn\n\n B. Fe\n\n C. Ca\n\n D. Mg",
+            "pos_similar": "Hoà tan hoàn toàn 3,25g một kim loại X (hoá trị II) bằng dung dịch H2SO4 loãng thu được 1,12 lít khí H2 ở đktc. Vậy X là kim loại nào sau đây:\nA. Fe\t\t\tB. Mg\t\t\tC. Ca\t\t\tD. Zn",
+            "neg_similar": "Hòa tan hoàn toàn 13g một kim loại hóa trị II bằng dd HCl. Cô cạn dd sau phản ứng thu được 27,2g muối khan. Kim loại đã dùng là: \t\nA. Zn.\t\tB. Ca.\t\t\tC. Fe.\t\t\tD. Ba."
+      },
+      {
+            "query": "Dãy gồm các kim loại tác dụng được với dung dịch H2SO4 loãng là:\nA. Fe, Cu, Mg.\n\n B. Zn, Fe, Cu.\n\n C. Zn, Fe, Al.\n\n D. Fe, Zn, Ag",
+            "pos_similar": "Tìm dãy gồm tất cả các kim loại có thể phản ứng được với dung dịch H2SO4 loãng: \nA.Na, K, Fe, Ag.        B.Li, Ca, Mg, Fe.\nC.Mg, Zn, Pb, Cu.      D.Ca, Ba, Sr, Au.",
+            "neg_similar": "Dãy chất nào sau đây H2SO4 đặc tác dụng mà H2SO4 loãng không tác dụng? \n\nA.Cu, S, C, Ag.    B.Au, S, Al, Fe.\nC.Al, Zn, Fe, Cr  D.Cu, Al, Fe, Cr."
+      },
+      {
+            "query": "Nhiệt phân hoàn toàn $\\mathbf{x}$ gam $\\mathrm{Fe}(\\mathrm{OH})_3$ đến khối lượng không đổi thu được $24 \\mathrm{~g}$ chất rắn. Giá trị của $\\mathbf{x}$ là:\nA. 16,05g\n\nB. 32,10g\n\nC. 48,15g\n\nD. 72,25g",
+            "pos_similar": "Nhiệt phân hoàn toàn x g Fe(OH)3 đến khối lượng không đổi thu được 24 gam chất rắn. Giá trị bằng số của x là:\n72,25 gam\n32,10 gam\n48,15 gam\n16,05 gam",
+            "neg_similar": "Nhiệt phân hoàn toàn 48,15 gam Fe(OH)3 đến khối lượng không đổi thu được x gam chất rắn. Giá trị bằng số của x là\n( H=1, O=16, Fe=56)\n "
+      },
+      {
+            "query": "Để có được dung dịch NaCl 32%, thì khối lượng NaCl cần lấy hoà tan vào 200 gam nước là:\nA. 90g.\n\n B. 94,12 g.\n\n C. 100g.\n\n D. 141,18 g.",
+            "pos_similar": "khối lượng nacl cần thêm vào 100g nước để được dung dịch nacl 32%\nA. 90g.\nB. 94,12 g.\nC. 100g.\nD. 141,18 g.",
+            "neg_similar": "Để có được dung dịch CuSO4 32%, thì khối lượng CuSO4 cần lấy hoà tan vào 200 gam nước là:\nA. 90g.\nB. 94,12 g.\nC. 100g.\nD. 141,18 g."
+      },
+      {
+            "query": "Chất nào sau đây có phản ứng tráng bạc?\nA. Xenlulozo\nB. Tinh bột.\nC. Glucozo.\nD. Saccarozo.",
+            "pos_similar": "Chất nào sau đây có phản ứng tráng bạc?\nA. Saccarozơ.\nB. Glucozo.\nC. Xenlulozơ.\nD. Tinh bột.",
+            "neg_similar": "Cho dãy các chất sau : glucozo, xenlulozo, saccarozo, tinh bột, fructozo. Số chất trong dãy tham gia phản ứng tráng bạc là\n\nA. 3\nB. 2\nC. 4\nD. 5"
+      },
+      {
+            "query": "Glucozo không phản ứng với chất (hoặc dung dịch chất) nào sau đây?\n\nA. $\\mathrm{H}_2$ ( $\\left.\\mathrm{Ni}, \\mathrm{to}\\right)$.\nB. $\\mathrm{AgNO}_3 / \\mathrm{NH}_3$.\nC. $\\mathrm{NaCl}$.\nD. $\\mathrm{Cu}(\\mathrm{OH})_2$.",
+            "pos_similar": "Dung dịch glucozo không phản ứng với chất nào sau đây?\n\nA Na.\nB $\\mathrm{Cu}(\\mathrm{OH})_2$.\nC dung dich $\\mathrm{AgNO}_3 / \\mathrm{NH}_3$.\nD $\\mathrm{NaCl}$.",
+            "neg_similar": "Glucozo có thể hiện tính khử khi tác dụng với chất nào\n "
+      },
+      {
+            "query": "Thủy phân 324g tinh bột với hiệu suất phản ứng là 75%. Khối lượng glucozơ thu được là\n\nA. 360g                                        \nB. 480g\nC. 270g\nD. 300g",
+            "pos_similar": "Thủy phân 324g tinh bột thu được glucozo. Tính khối lượng glucozo thu được biết H= 75%\n\nA. 360g                                        \nB. 480g\nC. 270g\nD. 300g",
+            "neg_similar": "Thủy phân 324 gam tinh bột thành glucozo sau đó lên men, khối lượng ancol etylic thu được là n gam. Néu xem các quá trình đều đạt hiệu suất 100\\%. Giá trị của $\\mathrm{m}$ lâ\n\nA 90 .\nB 180\nC 184 .\nD 360 ."
+      },
+      {
+            "query": "Trong thành phần hóa học của polime nào sau đây không có nguyên tố oxi?\nA to nilon-6.\nB to nilon-6,6.\nC cao su Buna.\nD tơ nilon-7.",
+            "pos_similar": "Trong thành phần hóa học của polime nào sau đây không có nguyên tố oxi?\nA. Tơ nilon-7.\nB. Tơ nilon-6.\nC. Cao su buna.\nD. Tơ nilon-6,6.",
+            "neg_similar": "Trong thành phẩn hóa học của polime nào sau đây không có nguyên tố Nitơ?\n\nA. Tơ nilon-7.\nB. Tơ nilon-6.\nC. Cao su buna.\nD. Tơ nilon-6,6."
+      },
+      {
+            "query": "Trong thành phần hóa học của polime nào sau đây không có nguyên tố oxi?\nA to nilon-6.\nB to nilon-6,6.\nC cao su Buna.\nD tơ nilon-7.",
+            "pos_similar": "Trong thành phần hóa học của polime nào sau đây không có nguyên tố oxi?\nA. Tơ nilon-7.\nB. Tơ nilon-6.\nC. Cao su buna.\nD. Tơ nilon-6,6.",
+            "neg_similar": "Trong thành phần hóa học của polime nào sau đây không có nguyên tố oxi?\nA. To capron.\nB. To nilon-6,6.\nC. To xenlulozo axetat.\nD. To nitron (hay olon)."
+      },
+      {
+            "query": "Dung dịch nào sau đây làm quỳ tím chuyển thành màu xanh?\n\nA. Glyxin.\nB. Anilin.\nC. Metylamin.\nD. Phenol.",
+            "pos_similar": "Dung dịch nào sau đây làm quỳ tím chuyển thành màu xanh?\n\nA. Anilin\nB. Metylamin\nC. Phenol\nD. Glyxin ",
+            "neg_similar": "Dung dịch nào sau đây làm quỳ tím chuyển màu đỏ\n\nA Glu\nB Anilin.\nC Glyxin.\nD Alanin."
+      },
+      {
+            "query": "Cho các chất sau: lysin, axit glutamic, valin, glyxin, alanin, trimetylamin, anilin. Số chất làn quỳ tím chuyển màu hồng, màu xanh và không đổi màu lần lượt là\n\nA. $1,2,4$\nB. $3,1,3$\nC. $2,2,3$\nD. $2,1,4$",
+            "pos_similar": "Cho các chất sau: lysin, axit glutamic, valin, glyxin, alanin, trimetylamin, anilin. Số chất làn quỳ tím chuyển màu hồng, màu xanh và không đổi màu lần lượt là những chất nào?\n ",
+            "neg_similar": "Cho các chất sau: axit glutamic; valin, lysin, phenol, axit fomic, glyxin, alanin, trimetylamin, anilin. Số chất làm quỳ tím chuyển màu hồng, màu xanh và không đổi màu lần lượt là\n\nA. 1, 3, 5  \nB. 2, 3, 4\nC. 3, 3, 3  \nD. 2, 2,5"
+      },
+      {
+            "query": "Sục khí CO2 dư vào dung dịch nào sau đây thu được kết tủa?\nA. $\\mathrm{NaNO}_3$\nB. $\\mathrm{NaCl}$\nC. $\\mathrm{NaOH}$\nD. $\\mathrm{NaAlO}_2$",
+            "pos_similar": "Sục khí CO2 dư vào dung dịch nào sau đây thu được kết tủa?\nA. $\\mathrm{NaAlO}_2$.\nB. $\\mathrm{NaOH}$.\nC. $\\mathrm{HCl}$.\nD. $\\mathrm{Al}\\left(\\mathrm{NO}_3\\right)_3$.",
+            "neg_similar": "Viết phương trình khi sục CO2 dư vào AlCl3\n "
+      },
+      {
+            "query": "        \nCó một hỗn hợp gồm: Fe,Ag,Cu. Tách Ag ra khỏi hỗn hợp với khối lượng không đồi người ta dùng dung dịch\nA. $\\mathrm{FeCl}_2$\nB. $\\mathrm{AgNO}_3$\nC. $\\mathrm{Cu}\\left(\\mathrm{NO}_3\\right)_2$\nD. $\\mathrm{FeCl}_3$",
+            "pos_similar": "\"        \nCó một hỗn hợp gồm: Fe,Ag,Cu. Tách Ag ra khỏi hỗn hợp với khối lượng không đồi người ta dùng dung dịch\"\nA. $\\mathrm{AgNO}_3$\nB. $\\mathrm{Cu}\\left(\\mathrm{NO}_3\\right)_2$\nC. $\\mathrm{FeCl}_3$\nD. $\\mathrm{FeCl}_2$",
+            "neg_similar": "Nêu cách tách Ag khỏi hỗn hợp Zn, Ag, Cu\n "
+      },
+      {
+            "query": "Chỉ dùng nước, có thể phân biệt dãy chất nào trong các dãy chất sau\nA $\\mathrm{K}_2 \\mathrm{O}, \\mathrm{Al}, \\mathrm{Al}_2 \\mathrm{O}_3, \\mathrm{Fe}$.\nB $\\mathrm{Na}, \\mathrm{Al}, \\mathrm{Fe}, \\mathrm{MgO}$.\nC $\\mathrm{Ba}, \\mathrm{Al}, \\mathrm{Fe}, \\mathrm{Zn}$.\nD $\\mathrm{Ba}, \\mathrm{Fe}_2 \\mathrm{O}_3, \\mathrm{Al}, \\mathrm{Mg}$.",
+            "pos_similar": "Có thể phân biệt dãy chất nào trong các dãy chất nào sau đây với nước?\nA $\\mathrm{K}_2 \\mathrm{O}, \\mathrm{Al}, \\mathrm{Al}_2 \\mathrm{O}_3, \\mathrm{Fe}$.\nB $\\mathrm{Na}, \\mathrm{Al}, \\mathrm{Fe}, \\mathrm{MgO}$.\nC $\\mathrm{Ba}, \\mathrm{Al}, \\mathrm{Fe}, \\mathrm{Zn}$.\nD $\\mathrm{Ba}, \\mathrm{Fe}_2 \\mathrm{O}_3, \\mathrm{Al}, \\mathrm{Mg}$.",
+            "neg_similar": "Kể tên 4 kim loại tác dụng được với nước ở điều kiện thường \n "
+      },
+      {
+            "query": "Este mùi hoa nhài có công thức là gì\n ",
+            "pos_similar": "Mùi hoa nhài do este nào tạo nên?\n ",
+            "neg_similar": "Este mùi chuối chín có công thức là gì\n "
+      },
+      {
+            "query": "Hoà tan hoàn tan 0.32g Fe2O3 vào dung dịch HCl 10% sau phản ứng thu dc FeCl3 và nước\na) viết pthh\nb) tính mFeCl3\nc) tính mdd/HCl",
+            "pos_similar": "Cho 3,2g Fe2O3 tác dụng với $\\mathrm{HCl}$ 14,6\\%\n\na) tính khối lượng $\\mathrm{HCL}$ đã phản ứng\nb) tính nồng độ phần trăm muối tạo thành",
+            "neg_similar": "Cho Fe2O3 tác dụng với $300 \\mathrm{ml}$ dd $\\mathrm{HCl} 0,2 \\mathrm{M}$\na) tính khối lượng Fe2O3 đã phản ứng\nb) $\\mathrm{Cm}$ của dd muối tạo thành"
+      },
+      {
+            "query": "Hỗn hợp khí B gồm: CO, CO2, H2. Nếu đốt cháy hoàn toàn 4,48 l khí B cần dùng 1,456 lít O2. Biết tỉ khối hơi của B đối với O2 bằng 0,725. tính thành phần phần trăm theo thể tích của mỗi khí trong hh ban đầu\n ",
+            "pos_similar": "Hỗn hợp khí B gồm CO, CO2 và H2. Nếu đốt cháy hoàn toàn 4,48 lít hỗn hợp khí B cần dùng 14,56 lít khí O2. Biết rằng 4,48 lít khí B có khối lượng 46,4g. Hãy tính % thể tích mỗi khí trong B (các thể tích khí đo ở đktc)\n ",
+            "neg_similar": "Đốt cháy hoàn toàn một hỗn hợp khí Z gồm $\\mathrm{CO}$ và H2 cần dùng 4,48 lít khí O2. Hỗn hợp khí sinh ra có 3,36 lít $\\mathrm{CO} 2$. Thể tích $\\mathrm{H} 2$ trong hỗn hợp ban đầu là (biết thể tích các khí đều ở đktc)\n "
+      },
+      {
+            "query": "Cân lấy $21,2 \\mathrm{~g} \\mathrm{Na}_2 \\mathrm{CO}_3$ cho vào cốc chia độ có dung tích $500 \\mathrm{ml}$. Rót từ từ nước cất vào cốc cho đến vạch $200 \\mathrm{ml}$. Khuấy nhẹ cho $\\mathrm{Na}_2 \\mathrm{CO}_3$ tan hết, ta được dung dịch $\\mathrm{Na}_2 \\mathrm{CO}_3$. Biết $1 \\mathrm{ml}$ dung dịch này cho khối lượng là $1,05 \\mathrm{~g}$. Hãy xác định nồng độ phần trăm $(\\mathrm{C} \\%)$ và nồng độ mol của dung dịch vừa pha chế được.\n ",
+            "pos_similar": "Cân $10,6 \\mathrm{~g}$ muối $\\mathrm{Na}_2 \\mathrm{CO}_3$ cho vào cốc chia độ. Rót vào cốc khoảng vài chục ml nước cất, khuấy cho muối tan hết. Sau đó rót thêm nước vào cốc cho đủ $200 \\mathrm{ml}$. Ta được dung dịch $\\mathrm{Na}_2 \\mathrm{CO}_3$ có khối lượng riêng là $1,05 \\mathrm{~g} / \\mathrm{ml}$. Hãy tính nồng độ phần trăm và nồng độ mol của dung dịch vừa pha chế.\n ",
+            "neg_similar": "Để pha dung dịch Na2CO3, người ta cân chính xác 8,25 gam muối Na2CO3 tinh khiết, hòa tan trong bình định mức 1,5 lít và thêm nước đến vạch định mức. Tính độ chuẩn và nồng độ đương lượng của dung dịch thu được?\n\n\n "
+      },
+      {
+            "query": "Nhận biết 4dung dịch HCl,H2SO4,NaOH,NaCl đựng trong các lọ không nhãn\n ",
+            "pos_similar": "có 4 lọ mất nhãn chứa NaOH; NaCl; HCl và H2SO4 hãy nhận biết bằng phương pháp hóa học? viết phương trình hóa học?\n ",
+            "neg_similar": "Bằng phương pháp hoá học hãy nhận biết 4 lọ mất nhãn đựng 4 dung dịch không màu: HCl, NaOH, NaCl, K2SO4\n "
+      },
+      {
+            "query": "Cho 5,4 gam nhôm (aluminium) tác dụng với 14,6 gam hydrochloric acid, sau phản ứng thu được muối aluminium chloride (AlCl3) và khí H2.\na) Viết phương trình hóa học xảy ra.\nb) Chất nào còn dư sau phản ứng và dư bao nhiêu gam?\nc) Sau phản ứng thu được bao nhiêu lít khí H2 (ở đkc).",
+            "pos_similar": "Cho 8,1 gam nhôm tác dụng vừa đủ với axit clohiđric $(\\mathrm{HCl})$ tạo thành muối nhôm clorua $\\left(\\mathrm{AlCl}_3\\right)$ và khí hiđro\n\na. Viết PTHH xảy ra ?\nb. Tính thể tích khí hiđro thu được (đktc) ?\nc. Tính khối lượng muối nhôm clorua tạo thành ?\nd. Cho toàn bộ lượng $\\mathrm{H}_2$ thu được ở trên đi qua $32 \\mathrm{~g}$ sắt(III)oxit nung nóng. Tính khối lượng sắt sinh ra ?",
+            "neg_similar": "Câu 33. Hoà tan 5,4 gam $\\mathrm{Al}$ bằng một lượng dung dịch $\\mathrm{H}_2 \\mathrm{SO}_4$ loãng (dư). $\\mathrm{Sau}$ phản ứng thu được dung dịch $\\mathrm{X}$ và $\\mathrm{V}$ lít khí hydrogen $\\left(\\mathrm{H}_2\\right)$ (ở điều kiện chuẩn). Giá trị của V là\n\nA. 4,48 lit.\nB. 3,36 lit.\nC. 2,24 lit.\nD. 7,437 lít."
+      },
+      {
+            "query": "phản ứng  oxi hóa  khử  có hệ số bằng chữ\n\nM  + HNO3  -->  M(NO3)n  + NO2 + H2O  (Với M là kim loại hoá trị n)\n ",
+            "pos_similar": "Cân bằng phương trình: M + HNO3 => M(NO3)n + NO2 + H2O\n ",
+            "neg_similar": "Cho phản ứng: $\\mathrm{M}+\\mathrm{HNO}_3 \\rightarrow \\mathrm{M}\\left(\\mathrm{NO}_3\\right)_{\\mathrm{n}}+\\mathrm{N}_{\\mathrm{x}} \\mathrm{O}_{\\mathrm{y}}+\\mathrm{H}_2 \\mathrm{O}$. Sau khi cân bằng phương trình hóa học trên với hệ số các chất là những số nguyên tố giảm thì hệ số của HNO $\\mathrm{H}_3$ là\nA. $5 \\mathrm{nx}-2 \\mathrm{ny}$\nB. $5 \\mathrm{nx}-2 \\mathrm{y}$\nC. $6 \\mathrm{nx}-2 \\mathrm{y}$\nD. $6 n x-2 n y$"
+      },
+      {
+            "query": "Cho 20,8 gam hỗn hợp X gồm FeS2, FeS, Fe, S tác dụng với dung dịch $\\mathrm{HNO} 3$ đặc nóng dư thu được $\\mathrm{V}$ lít khí NO2 là sản phẩm khử duy nhất đo ở điều kiện tiêu chuẩn và dung dịch $\\mathrm{A}$. Cho $\\mathrm{A}$ tác dụng với dung dịch $\\mathrm{Ba}(\\mathrm{OH}) 2$ dư thu được 91,3 gam kết tủa. $V$ và số mol khí $\\mathrm{HNO} 3$ cần dùng là\nA. 53,76 lít; $3 \\mathrm{~mol}$\nB. 17,92 lít; $3 \\mathrm{~mol}$\nC. 17,92 lít; $1,5 \\mathrm{~mol}$\nD. 53,76 lít; $2,4 \\mathrm{~mol}$",
+            "pos_similar": "Cho 10,4 gam hỗn hợp X (gồm Fe, FeS, FeS2, S) tác dụng với dung dịch HNO3 đặc nóng, dư thu được V lít khí NO2 (là sản phẩm khử duy nhất, đo ở đktc) và dung dịch A. Cho A tác dụng với dung dịch Ba(OH)2 dư được 45,65 gam kết tủa. Giá trị của V là\nA. 26,88 lit\nB. 13,44 lit\nC. 17,92 lit\nD. 16,8 lit",
+            "neg_similar": "Cho 17,6 gam hỗn hợp X gồm $\\mathrm{S}$, $\\mathrm{FeS}, \\mathrm{FeS}_2$ tan hoàn toàn trong dung dịch $\\mathrm{HNO}_3$ đặc nóng dư thu được $\\mathrm{V}$ lít (đktc) khí $\\mathrm{NO}_2$ duy nhất và dung dịch $\\mathrm{Y}$. Cho $\\mathrm{Y}$ tác dụng với dung dịch $\\mathrm{Ba}(\\mathrm{OH})_2$ dư, lọc và nung kết tủa trong không khí đến khối lượng không đổi thu được 62,6 gam chất rắn. V có giá tri\n\nA. 40,32\nB. 22,4\nC. 47,1\nD. 44,8"
+      },
+      {
+            "query": "Trộn 2,43 gam Al với 9,28 gam Fe3O4 rồi đun nóng cho phản ứng xảy ra một thời gian, làm lạnh được hỗn hợp X gồm Al, Fe, Al2O3, FeO và Fe3O4. Cho toàn bộ X phản ứng với dung dịch HCl dư thu được 2,352 lít H2(đktc) và dung dịch Y. Cô cạn Y được a gam muối khan. Xác định giá trị của a là\n ",
+            "pos_similar": "Trộn 2,43 gam $\\mathrm{Al}$ với 9,28 gam $\\mathrm{Fe}_3 \\mathrm{O}_4$ rồi đun nóng cho phản ứng xảy ra một thời gian, làm lạnh được hỗn hợp $\\mathrm{X}$ gồm $\\mathrm{Al}, \\mathrm{Fe}, \\mathrm{Al}_2 \\mathrm{O}_3$, $\\mathrm{FeO}$ và $\\mathrm{Fe}_3 \\mathrm{O}_4$. Cho toàn bộ $\\mathrm{X}$ phản ứng với dung dịch $\\mathrm{HCl}$ dư thu được 2,352 lít $\\mathrm{H}_2$ (đktc) và dung dịch $\\mathrm{Y}$. Cô cạn $\\mathrm{Y}$ được a gam muối khan. Xác định giá trị của a là\nA. 27,965\nB. 16,605\nC. 18,325\nD. 28,326",
+            "neg_similar": "Nung hỗn hợp T gồm 2,43 gam Al và m gam $\\mathrm{Fe}_3 \\mathrm{O}_4$ ở nhiệt độ cao trong điều kiện không có oxi. Sau một thời gian, làm nguội thu được hỗn hợp rắn $\\mathrm{X}$ gồm $\\mathrm{Al}, \\mathrm{Fe}, \\mathrm{Al}_2 \\mathrm{O}_3, \\mathrm{FeO}$ và $\\mathrm{Fe}_3 \\mathrm{O}_4$. Cho toàn bộ $\\mathrm{X}$ phản ứng với dung dịch $\\mathrm{HCl}$ dư, thu được 2,352 lít $\\mathrm{H}_2$ và dung dịch $Y$. Cô cạn Y được 27,965 gam hỗn hợp muối khan. Giá trị của m là\nA. 9,28 .\nB. 9,71 .\nC. 7,87 .\nD. 4,64 ."
+      },
+      {
+            "query": "Cho 20 gam hồn hợp gồm 3 amin no, đơn chức, là đồng đẩng liên tiếp của nhau tác dụng vừa đủ với dung dịch $\\mathrm{HCl}$, cô cạn dung dịch thu được 31,68 gam hô̄n hợp muối. Nếu 3 amin trên được trộn theo tí lệ mol 1: 10: 5 theo thứ tự phân tứ khối tăng dần thì CTPT của 3 amin là\n\nA $\\quad \\mathrm{C}_2 \\mathrm{H}_2 \\mathrm{~N} ; \\mathrm{C}_{\\underline{3}} \\mathrm{H}_9 \\mathrm{~N} ; \\mathrm{C}_4 \\mathrm{H}_{\\underline{11}} \\mathrm{~N}$.\nB $\\mathrm{C}_3 \\mathrm{H}_9 \\mathrm{~N} ; \\mathrm{C}_4 \\mathrm{H}_{11} \\mathrm{~N} ; \\mathrm{C}_5 \\mathrm{H}_{13} \\mathrm{~N}$.\nC $\\quad \\mathrm{C}_3 \\mathrm{H}_7 \\mathrm{~N} ; \\mathrm{C}_4 \\mathrm{H}_9 \\mathrm{~N} ; \\mathrm{C}_5 \\mathrm{H}_{11} \\mathrm{~N}$.\nD $\\mathrm{CH}_5 \\mathrm{~N} ; \\mathrm{C}_2 \\mathrm{H}_7 \\mathrm{~N} ; \\mathrm{C}_3 \\mathrm{H}_9 \\mathrm{~N}$.",
+            "pos_similar": "Cho 20 gam hỗn hợp gồm 3 amin no, đơn chức, đồng đẳng kế tiếp nhau tác dung vựa đủ với dưng dịch $\\mathrm{HCl} 1 \\mathrm{M}$ rồi cô can dung dịch thì thu được 31,68 gam hốn hợp muối. Nếu trộn 3 amin trên theo tỉ lệ mol (và thứ tự phân tử khối tăng dần) bằng $1: 10: 5$ thì CTCT của 3 amin đó là:\n\nA. $\\mathrm{CH}_3 \\mathrm{NH}_2, \\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{NH}_2, \\mathrm{C}_3 \\mathrm{H}_7 \\mathrm{NH}_2$.\nB. $\\mathrm{C}_2 \\mathrm{H}_7 \\mathrm{~N}, \\mathrm{C}_3 \\mathrm{H}_9 \\mathrm{~N}, \\mathrm{C}_4 \\mathrm{H}_{11} \\mathrm{~N}$.\nC. $\\mathrm{C}_3 \\mathrm{H}_9 \\mathrm{~N}, \\mathrm{C}_4 \\mathrm{H}_{11} \\mathrm{~N}, \\mathrm{C}_5 \\mathrm{H}_{13} \\mathrm{~N}$.\nD. $\\mathrm{C}_2 \\mathrm{H}_7 \\mathrm{~N}, \\mathrm{C}_3 \\mathrm{H}_9 \\mathrm{~N}, \\mathrm{C}_4 \\mathrm{H}_{11} \\mathrm{~N}$ hoặc $\\mathrm{C}_3 \\mathrm{H}_9 \\mathrm{~N}, \\mathrm{C}_4 \\mathrm{H}_{11} \\mathrm{~N}, \\mathrm{C}_5 \\mathrm{H}_{13} \\mathrm{~N}$.",
+            "neg_similar": "Cho 20 gam hỗn hợp 3 amin no đơn chức là đồng đẳng kế tiếp có tỉ lệ mol tương ứng là 1 : 10 : 5 , tác dụng vừa đủ với dung dịch $\\mathrm{HCl}$ thu được 31,68 gam hỗn hợp muối. Tổng số đồng phân của 3 amin trên là\nA. 7\nB. 14\nC. 16\nD. 28"
+      },
+      {
+            "query": "Cho 200 ml dd CuSO4  1,5 M tác dụng vừa đủ với 300 ml dd NaOH nồng độ CM tạo dd X và kết tủa Y. Tính khối lượng chất kết tủa Y\n ",
+            "pos_similar": "Cho 200ml dung dịch CuSO4 1,5M vào 200 ml dung dịch NaOH1,5M. Khối lượng kết tủa thu được là:\n ",
+            "neg_similar": "cho dung dịch CuSO4 tác dụng vừa đủ với 200ml dung dịch NaOH thu được 9,8 g kết tủa\n\na, viết phương trình hóa học\nb, tính khối lượng CuSO4 đã dùng\nc, tính nồng độ mol dung dịch NaOH đã dùng"
+      },
+      {
+            "query": "Nhận định nào sau đây không đúng?\nA. Tất cả các hạt nhân nguyên tử đều chứa neutron và proton\nB. Nguyên tử có kích thước vô cùng nhỏ và trung hòa về điện tích\nC. Lớp nguyên tử chứa các electron mang điện tích âm\nD. Khối lượng nguyên tử hầu hết tập trung ở hạt nhân\n ",
+            "pos_similar": "Nhận định nào sau đây không đúng?\nA. Tất cả các hạt nhân nguyên tử đều chứa proton và notron\nB. Nguyên tử là hạt vô cùng nhỏ và trung hòa về điện\nC. Vỏ electron mang điện tích âm và chuyển động xung quanh hạt nhân\nD. Khối lượng nguyên tữ tập trung ở hạt nhân",
+            "neg_similar": "Phát biểu nào dưới đây không đúng?\n\nA. Nguyên tử được cấu thành từ các hạt cơ bản là proton, neutron và electron.\n\nB. Hầu hết hạt nhân nguyên tử được cấu thành từ các hạt proton và neutron.\n\nC. Vỏ nguyên tử được cấu thành bởi các hạt electron.\n\nD. Nguyên tử có cấu trúc đặt khít, gồm vỏ nguyên tử và hạt nhân nguyên tử.\n"
+      },
+      {
+            "query": "Đốt cháy hoàn toàn $2,7 \\mathrm{gam} \\mathrm{Al}$ trong khí $\\mathrm{O}_2$ thu được $\\mathrm{Al}_2 \\mathrm{O}_3$.\na,Tính $V_{\\mathrm{O} 2}$ tham gia phản ứng( đktc)\nb, Tính khối lượng $\\mathrm{Al}_2 \\mathrm{O}_3$ thu được sau phản ứng?",
+            "pos_similar": "đốt cháy 13,5 g Al trong bình chứa khí oxi thu được Al2O3\n\na) Viết PTHH\nb) tính khối lượng Al2O3 thu được sau phản ứng\nc) Tính thể tích khí oxi tham gia phản ứng (đktc)",
+            "neg_similar": "Đốt cháy 2,7 g Al trong 9,916 lít O2 điều kiện chuẩn thu được Al2O3\n a) Tính khối lượng dư \nb) Tính khối lượng Al2O3 H bằng 75%"
+      },
+      {
+            "query": "Cho hỗn hợp khí so2 và o2 có tỉ khối so với h2 là 24. Nung nóng hh trên với chất xúc tác trg bình khí kín dc hh có tỉ khối hơi so với H2 là 30\n\na. Xác định tp hh trc pu\nb. Xác định thành phần hh sau pu",
+            "pos_similar": "Hỗn hợp khí $X$ gồm $\\mathrm{SO}_2$ và $\\mathrm{O}_2$ có tỉ khối đối với $\\mathrm{H}_2$ bẳng 24. Sau khi đun nóng hỗn hợp trên với chất xúc tác thu được hỗn hợp khí $\\mathrm{Y}$ gồm $\\mathrm{SO}_2, \\mathrm{O}_2$ và $\\mathrm{SO}_3$ có tỉ khối đối với $\\mathrm{H}_2$ bằng 30 . Phần trăm số mol của $\\mathrm{SO}_2$, trong hỗn hợp $\\mathrm{Y}$ là:\n\nA. $50 \\%$\nB. $12,5 \\%$\nC. $25 \\%$\nD. $37,5 \\%$",
+            "neg_similar": "hỗn hợp x gồm SO2 và O2 có tỉ khối so với H2 là 24\n\na) tính \\% thề tích khí trong hỗn hợp\nb) đun nóng 8,961 khí (đktc) hỗn hợp khí x trong điều kiện thích họp để tổng họp so3 . hỗn họp sau pu cho hấp thụ vào nước thi đc $100 \\mathrm{ml}$ dd h2so4 1M. tính hiệt suất phản ứng tồng hợp so3"
+      },
+      {
+            "query": "Cho 6,84g Al2(SO4)3 tác dụng vừa đủ với 250ml dung dịch xút được 1,56g kết tủa. Nồng độ mol của xút\n ",
+            "pos_similar": "Cho 3,42 gam $\\mathrm{Al}_2\\left(\\mathrm{SO}_4\\right)_3$ tác dụng với $25 \\mathrm{ml}$ dung dịch $\\mathrm{NaOH}$ tạo ra được 0,78 gam kết tủa. Nồng độ mol của $\\mathrm{NaOH}$ đã dùng là\n\nA. $1,2 \\mathrm{M}$\nB. $2,8 \\mathrm{M}$\nC. $1,2 \\mathrm{M}$ và $4 \\mathrm{M}$\nD. 1,2M hoặc $2,8 \\mathrm{M}$",
+            "neg_similar": "Cho 0,5 lít dung dịch NaOH tác dụng với 300ml dung dịch Al2(SO4)3 0,2M thu được 1,56g kết tủa. Tính nồng độ mol/lít của dung dịch NaOH. Biết các phản ứng xảy ra hoàn toàn.\n "
+      },
+      {
+            "query": "Hợp chất khí vs H của nguyên tố R thuộc nhóm VA chứa 17,65% khối lượng H . Xác định R?\n ",
+            "pos_similar": "Hợp chất RH3, trong đó Hidro chiếm 17,65% về khối lượng. Vậy R là ? \n ",
+            "neg_similar": "Oxit cao nhất của nguyên tố R có công thức là R2O5. Trong hợp chất với H thì có 17,65% H về khối lượng. Xác định R\n "
+      },
+      {
+            "query": "Cho 200ml dung dịch Ba(OH)2 0,4M vào 300ml dung dịch H2SO4 0,3M. Khối lượng kết tủa thu được là:\n ",
+            "pos_similar": "Cho 200ml dung dịch $\\mathrm{Ba}(\\mathrm{OH})_2$ 0,4M vào $250 \\mathrm{ml}$ dung dịch $\\mathrm{H}_2 \\mathrm{SO}_4$ 0,3M. Khối lượng kết tủa thu được là:\nA. $17,645 \\mathrm{~g}$\nB. $16,475 \\mathrm{~g}$\nC. $17,475 \\mathrm{~g}$\nD. $18,645 \\mathrm{~g}$",
+            "neg_similar": "Cho từ từ $200 \\mathrm{ml}$ dung dịch $\\mathrm{Ba}(\\mathrm{OH}) 2 \\mathrm{aM}$ vào bình chứa $200 \\mathrm{ml}$ dung dịch gồm $\\mathrm{H} 2 \\mathrm{SO} 40,3 \\mathrm{M}$ và $\\mathrm{Al} 2(\\mathrm{SO} 4) 3$ 0,4M thu được 39,63 gam kết tủa. Lọc bỏ kết tủa, thêm tiếp vào bình $240 \\mathrm{ml}$ dung dịch $\\mathrm{Ba}(\\mathrm{OH}) 2 \\mathrm{aM}$, thu được $\\mathrm{x}$ gam kết tủa. Các phản ứng xảy ra hoàn toàn. Giá trị của $\\mathrm{x}$ là.\n\nA. 40,41 gam. B. 42,75 gam.\nC. 38,07 gam. D. 36,51 gam."
+      },
+      {
+            "query": "Trung hòa 300 ml dung dịch H2SO4 1M bằng dung dịch NaOH 20%. Khối lượng dung dịch NaOH cần dùng là:\n ",
+            "pos_similar": "Trung hòa $200 \\mathrm{ml}$ dung dịch $\\mathrm{H}_2 \\mathrm{SO}_4 1 \\mathrm{M}$ bằng dung dịch $\\mathrm{NaOH} 20 \\%$. Khối lượng dung dịch $\\mathrm{NaOH}$ cần dùng là:\n\nA. $100 \\mathrm{~g}$\nB. $80 \\mathrm{~g}$\nC. $90 \\mathrm{~g}$\nD. $150 \\mathrm{~g}$",
+            "neg_similar": "Trung hòa $500 \\mathrm{ml}$ dung dịch $\\mathrm{H}_2 \\mathrm{SO}_4 1 \\mathrm{M}$ cần vừa đủ 160 gam dung dịch $\\mathrm{NaOH}$. Tính nồng độ phần trăm dung dịch $\\mathrm{NaOH}$ đã dùng.\n\nA. $25 \\%$\nB. $30 \\%$\nC. $35 \\%$\nD. $40 \\%$"
+      },
+      {
+            "query": "Nhỏ từ từ dd $\\mathrm{NaOH} 2 \\mathrm{M}$ vào $100 \\mathrm{ml}$ dd $Y$ chứa các ion: $\\mathrm{Zn}^{2+}, \\mathrm{Fe}^{3+}, \\mathrm{SO}_4{ }^{2-}$ cho đến khi kết tủa hết các ion $\\mathrm{Zn}^{2+}, \\mathrm{Fe}^{3+}$ thì thấy thể tích của dd $\\mathrm{NaOH}$ đã dùng là $350 \\mathrm{ml}$. Tiếp tục thêm $200 \\mathrm{ml}$ dd NaOH $2 \\mathrm{M}$ vào hệ trên thì một chất kết tủa vừa tan hết. Tính nồng độ mol/l của các muối trong dd $Y$.\n ",
+            "pos_similar": "Một dd Y chứa các ion $\\mathrm{Zn}^2+, \\mathrm{Fe}^3+, \\mathrm{SO4}^2+$. Biết tằng dùng hết $350 \\mathrm{ml}$ dd $\\mathrm{NaOH}_2 \\mathrm{M}$ thì làm kết tủa hết ion $\\mathrm{Zn}^2+$ và Fe3+ trong $100 \\mathrm{ml}$ dd Y, nếu đổ tiếp $200 \\mathrm{ml}$ đ NaOH thì 1 kết tủa tan vừa tan hết, còn lại 1 kết tủa màu nâu đỏ. Tính $\\mathrm{Cm}$ mỗi muối trong dd $\\mathrm{Y}$\n ",
+            "neg_similar": "Dung dịch chứa các ion Zn2+, Fe3+, SO42-. Biết rằng nếu dùng 350ml dung dịch NaOH 2M thì vừa đủ trong 100ml X, còn nếu dùng 550ml NaOH trên thì kết tủa chỉ còn một chất màu nâu đỏ. Tính nồng độ 2 ion dương lần lượt là\n\n "
+      }
+]

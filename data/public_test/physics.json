@@ -1,0 +1,522 @@
+[
+      {
+            "query": "Một thùng cao 2m đựng một lượng nước cao 1,2m. Áp suất của nước tác dụng lên đáy thùng là:\nA. 12000 Pa\nB. 1200 Pa\nC. 120 Pa\nD. 20000 Pa",
+            "pos_similar": "Một thùng cao 2 m đựng một lượng nước cao 1,2 m. Áp suất của nước tác dụng lên đáy thùng là bao nhiêu? Biết trọng lượng riêng của nước là 10000 N/m3.\nA. 12000 Pa\nB. 1200 Pa\nC. 120 Pa\nD. 20000 Pa",
+            "neg_similar": "Một thùng cao 1,4m đựng đầy nước. Tính áp suất của nước tác dụng lên đáy thùng và lên một điểm cách ở đáy 60cm, biết trọng lượng riêng của nước là 10000 N/m3\n "
+      },
+      {
+            "query": "Một động cơ làm việc ở hiệu điện thế 220V, dòng điện chạy qua động cơ là 3A. Hiệu suất của động cơ là 85%. Công có ích mà động cơ đã thực hiện được trong thời gian 1 giờ là bao nhiêu?\n\n\nA. 2190.6kJ    B. 2109,6kJ    C. 2019,6kJ    D. 2016,9kJ",
+            "pos_similar": "Một động cơ làm việc ở hiệu điện thế 220V, dòng điện chạy qua động cơ là 5A. Hiệu suất của động cơ là 85%. Công có ích mà động cơ đã thực hiện là bao nhiêu? Công hao phí của động cơ trong thời gian trên là bao nhiêu?\n ",
+            "neg_similar": "Một động cơ làm việc ở hiệu điện thế 220V, dòng điện chạy qua động cơ đó là 4,5A.\na) tính điện trở của động cơ đó\nb) tính công của dòng điện sinh ra trong 5,2 giờ\nc) nếu động cơ làm việc 10 giờ mỗi ngày thì số tiền điện phải trả là bao nhiêu?\n "
+      },
+      {
+            "query": "Một bóng đèn dây tóc có ghi 12V – 6W.\na) Các thông số trên có ý nghĩa gì?\nb) Tính điện trở của bóng đèn và cường độ dòng điện chạy qua bóng đèn khi sáng bình thường?\n ",
+            "pos_similar": "Một bóng đèn ghi 120V - 20W\na) Nêu ý nghĩa của các con số ghi trên bóng đèn\nb) Tính cường độ dòng điện định mức và điện trở của bóng đèn\n ",
+            "neg_similar": "Cho hai đèn Đ1 (3V - 3W); Đ2 (6V - 6W) mắc nối tiếp với nhau vào hiệu điện thế 18V.\n\na) Xác định các giá trị định mức của bóng đèn?\n\nb) Tính cường độ dòng điện qua bóng đèn và hiệu điện thế hai đầu mỗi bóng đèn?\n\nc) Các đèn sáng như thế nào?\n "
+      },
+      {
+            "query": "Một máy biến thế có cuộn sơ cấp 1000 vòng dây được mắc vào mạng điện xoay chiều có hiệu điện thế hiệu dụng 220 V. Khi đó hiệu điện thế hiệu dụng ở hai đầu cuộn thứ cấp để hở là 484 V. Bỏ qua mọi hao phí của máy biến thế. Số vòng dây của cuộn thứ cấp là\n\nA. 2500.\n\nB. 1100.\n\nC. 2000.\n\nD. 2200.",
+            "pos_similar": "Một máy biến áp có cuộn sơ cấp gồm 1000 vòng dây được mắc vào mạng điện xoay chiều có điện áp hiệu dụng 220 V. Khi đó điện áp hiệu dụng ở hai đầu cuộn thứ cấp để hở là 484 V. Bỏ qua mọi hao phí của máy biến áp. Số vòng dây của cuộn thứ cấp là\nA:  2200 vòng.  \n\nB:  1100 vòng.     \n\nC:  2000 vòng. \n\nD:  2500 vòng.",
+            "neg_similar": "Một máy biến áp lí tưởng có cuộn sơ cấp gồm 1000 vòng, cuộn thứ cấp gồm 50 vòng. Ðiện áp hiệu dụng giữa hai đầu cuộn sơ cấp là 220 V. Bỏ qua hao phí. Ðiện áp hiệu dụng giữa hai đầu cuộn thứ cấp để hở là:\nA. 440 V.          B. 44 V.          C. 110 V.          D. 11 V"
+      },
+      {
+            "query": "Trong thí nghiệm I-âng về giao thoa ánh sáng, khoảng cách giữa hai khe sáng là 0,2 mm, khoảng cách từ hai khe sáng đến màn ảnh là D = 1 m, khoảng vân đo được là i = 2 mm. Bước sóng của ánh sáng là:\n\nA. 0,4 μm.       B. 4 μm.\n\nC. 0,4.10-3 μm.       D. 0,4.10-4 μm.",
+            "pos_similar": "Trong thí nghiệm Young về giao thoa ánh sáng, khoảng cách giữa hai khe sáng là 0,2mm, khoảng cách từ hai khe sáng đến màn ảnh là 1m, khoảng vân đo được là 2mm.  Bước sóng của ánh sáng là:\n\nA: 0,4 µ m \n\nB: 4µm \n\nC: 0,4 .10-3 µm \n\nD: 0,4 .10-4µ m ",
+            "neg_similar": " Trong thí nghiệm I-âng về giao thoa ánh sáng, biết a = 0,4 mm, D = 1,2 m, nguồn S phát ra bức xạ đơn sắc có λ = 600 nm. Khoảng cách giữa 2 vân sáng liên tiếp trên màn là:\nA. 1,6 mm.       B. 1,2 mm.\n\nC. 1,8 mm.       D. 1,4 mm."
+      },
+      {
+            "query": "Một vật sáng nhỏ được đặt trước thấu kính phân kì L và cách thấu kính 30cm. Biết tiêu cự của thấu kính là 20cm. Hệ số phóng đại của ảnh là:\nA. 0,1\n\nB. 0,2\n\nC. 0,3\n\nD. 0,1",
+            "pos_similar": "Một vật sáng AB đặt thẳng góc với trục chính và cho ảnh cách thấu kính phân kì một đoạn 4cm. Biết thấu kính này có tiêu cự 5cm. Xác định vị trí đặt vật và độ phóng đại của ảnh.\n ",
+            "neg_similar": "Vật sáng được đặt trước một thấu kính hội tụ có tiêu cự f=20cm .ảnh của vật qua thấu kính có số phóng đại ảnh k=-2. Khoảng cách từ vật đến thấu kính là. \nA: 212V \nB: 220V \nC: 100V \nD: 110V "
+      },
+      {
+            "query": "Người ta dùng một mặt phẳng nghiêng để kéo một vật có khối lượng 50 kg lên cao 2 m. Nếu không có ma sát thì lực kéo là 125 N. Thực tế có ma sát và lực kế là 175 N. Hiệu suất của mặt phẳng nghiêng dùng trên là bao nhiêu?\nA. 81,33 % B. 83,33 % C. 71,43 % D. 77,33%",
+            "pos_similar": "Người ta dùng một mặt phẳng nghiêng để kéo một vật có khối lượng 50kg lên cao 2m.\n\na) Nếu không có ma sát thì lực kéo là 125N. Tính chiều dài của mặt phẳng nghiêng.\n\nb) Thực tế có ma sát và lực kéo vật là 150N. Tính hiệu suất của mặt phẳng nghiêng.\n ",
+            "neg_similar": "Một vật nặng 55kg được kéo lên cao 3,0m, bằng mặt phẳng nghiêng daì 10m.\nNếu không có ma sát. Tìm lực F kéo vật lên bằng mặt phẳng nghiêng.\nThực tế kéo vật lên bằng mặt phẳng nghiêng với lực F1 = 175N. Tìm hiệu suất của mặt phẳng nghiêng.\nNếu mặt phẳng nghiêng có hiệu suất 90% thì phải dùng lực kéo F2 bằng bao nhiêu.\n "
+      },
+      {
+            "query": " Trường THCS Lê Quý Đôn đi ô tô từ Nam Định đến một xã miền núi để làm từ thiện. Trong 1 giờ đầu tiên ô tô đi với vận tốc 50km/h. Trong 2 giờ tiếp theo ô tô đi vận tốc với 40km/h. 3 giờ cuối ô tô đi với vận tốc 20km/h. Vận tốc trung bình của ô tô trên cả đoạn đường là:\n\nA. 31,7km/h B. 32,3km/h C. 31,4km/h D. 32,1km/h",
+            "pos_similar": "Cho một xe ô tô chạy trên một quãng đường trong 5 giờ. Biết 2 giờ đầu xe chạy với tốc độ trung bình 50km/h và 3 giờ sau xe chạy với tốc độ trung bình 40km/h. Vận tốc trung bình của xe trong suốt thời gian chuyển động là:\n\nA. 45km/h B. 44km/h C. 43km/h D. 42km/h",
+            "neg_similar": "Trung Tâm Bồi Dưỡng Kiến Thức A đi ô tô từ Hà Nam đến Bắc Giang làm từ thiện . Đầu chặng ô tô đi một phần tư tổng thời gian với v=50 km/h. Giữa chặng ô tô đi một phần hai thời gian với v=40 km/h. Cuối chặng ô tô đi một phần tư tổng thời gian với v=20km/h. Tính vận tốc trung bình của ô tô?\n "
+      },
+      {
+            "query": "Tính lượng dầu cần để đun sôi 2 lít nước ở 20°c đựng trong ống bằng nhôm có khối lượng 200g. Cho biết nhiệt dung riêng của nhôm là 880J/kg.K; của nước là 4200J/Kg.K, năng suất toả nhiệt của dầu là q = 44. 106 J/kg.K và hiệu suất của bếp là 30%.\n ",
+            "pos_similar": "Người ta dùng bếp dầu hỏa để đun sôi 2 lít nước từ $20^{\\circ} \\mathrm{C}$ đựng trong một ấm nhôm có khối lượng $0,5 \\mathrm{~kg}$. Tính lượng dầu hỏa cần thiết, biết chỉ có $30 \\%$ nhiệt lượng do dầu tỏa ra làm nóng nước và ấm.\n ",
+            "neg_similar": "Trong một bình nhôm với khối lượng 0,5 kg có chưa 4kg nước ở nhiệt độ 20 oC. Người ta đã thả vào bình một miếng sắt với khối lượng 0,2 kg đã được đun nóng tới 500 oC. Hãy xác định nhiệt độ của nước khi bắt đầu sự cân bằng nhiệt. Biết được nhiệt dung riêng của nhôm là 896 J/kg.K, của nước là 4,18.103 J/kg.K và của sắt là 0,46.103 J/kg.K\n "
+      },
+      {
+            "query": "Một quả cầu bằng sắt treo vào 1 lực kế ở ngoài không khí lực kế chỉ 2,7N. Nhúng chìm quả cầu vào nước thì lực kế chỉ 2,2N. Lực đẩy Acsimét có độ lớn là:\n\nA. 2,7N B. 2,2N C. 4,9N D. 0,5N",
+            "pos_similar": "Một quả cầu bằng sắt treo vào 1 lực kế ở ngoài không khí lực kế chỉ 2,4N. Nhúng chìm quả cầu vào nước thì lực kế chỉ 1,2N. Lực đẩy Acsimét có độ lớn là\n ",
+            "neg_similar": "Một vật móc vào 1 lực kế. Khi treo vật ngoài không khí thì lực kế chỉ 2,2N. Khi nhúng chìm vật vào trong nước lực kế chỉ 1,9N. Biết trọng lượng riêng của nước là 10000N/m3. Tính thể tích của vật?\n "
+      },
+      {
+            "query": "Cho đoạn mạch gồm $\\left\\{R_1 n t\\left(R_2 / / R_3\\right)\\right\\}$. Biết $R_1=6 \\Omega, R_2=30 \\Omega, R_3=15 \\Omega$ và hiệu điện thế giữa hai đầu đoạn mạch điện bằng $24 \\mathrm{~V}$. Cường độ dòng điện chạy qua điện trở $\\mathrm{R}_2$ có độ lớn là:\nA. 0,5 A                       \nB. 1,0 A                       \nC. 1,5 A                       \nD. 2,0 A",
+            "pos_similar": "Cho biết R1 = 6Ω, R2 = 3Ω, R3 = 2Ω. Ba điện trở được mắc [(R1 // R2) nt R3]. Hiệu điện thế giữa hai đầu đoạn mạch là 12V. Cường độ dòng điện chạy qua điện trở R2 là\n ",
+            "neg_similar": "Cho đoạn mạch điện như sau: R1 nt ( R2 // R3­ ). Biết: R1 = 6Ω ; R2 = 30Ω ; R3 = 15Ω ; UAB = 12V. Cường độ dòng điện chạy qua R1 là:\nA.0,8A. B.0,4A. C.2A. D.0,75A."
+      },
+      {
+            "query": "Dây điện trở của một bếp làm bằng nicrom có điện trở suất 1,1.10-6 Ω.m, chiều dài 3m, tiết diện 0,05 mm2.\n\na) Tính điện trở của dây.\n\nb) Bếp sử dụng ở hiệu điện thế U = 220V. Hãy tính công suất của bếp điện, từ đó suy ra nhiệt lượng tỏa ra của bếp trong 30 phút.\n ",
+            "pos_similar": "Dây điện trở của một bếp làm bằng nicrom có điện trở suất 0,4.10-6 Ω.m, dài 2m, tiết diện 0,05 mm2.\n\na) Tính điện trở của dây.\n\nb) Bếp sử dụng ở hiệu điện thế U = 220V. Hãy tính công suất của bếp điện, từ đó suy ra nhiệt lượng tỏa ra của bếp trong 25 phút.\n ",
+            "neg_similar": "Điện trở của bếp điện làm bằng nikêlin có chiều dài 3m, tiết diện 0,068 mm2 và điện trở suất 1,1.10-6 ôm.m được đặt vào hiệu điện thế U = 220V và sử dụng trong thời gian 15 phút.\n\ta. Tính điện trở của dây.\n\tb. Xác định công suất của bếp?\n\tc. Tính nhiệt lượng tỏa ra của bếp trong khoảng thời gian trên?\n "
+      },
+      {
+            "query": "Xe đạp của 1 vận động viên chuyển động thẳng đều với v = 36 km/h. Biết bán kính của lốp bánh xe đạp là 40 cm. Tính tốc độ góc và gia tốc hướng tâm tại một điểm trên lốp bánh xe.\n ",
+            "pos_similar": "xe đạp của 1 vận động viên chuyển động thẳng đều với v=36km/h.biết bán kính của lốp xe đạp là 32,5cm.Tính tốc độ góc và gia tốc hướng tâm tại một điểm trên lốp bánh xe\n ",
+            "neg_similar": "một xe đạp của vận động viên chuyển động thẳng đều với vận tốc 36km/h.Biết bán kính của lớp xe là 32,5km. Tính gia tốc hướng tâm tại 1 điểm trên lớp xe và 1 điểm cách vành lớp xe 10cm\n "
+      },
+      {
+            "query": "Một xe ôtô có khối lượng m1 = 6 tấn chuyển động thẳng với vận tốc v1 = 3 m/s, đến tông và dính vào một xe gắn máy đang đứng yên có khối lượng m2 = 200 kg. Tính vận tốc của các xe.\n ",
+            "pos_similar": "Một xe ôtô có khối lượng m1 = 3 tấn chuyển động thẳng với vận tốc v1 = 1,5m/s, đến tông và dính vào một xe gắn máy đang đứng yên có khối lượng m2 = 100kg. Tính vận tốc của các xe.\n ",
+            "neg_similar": "Bài 1: Viên bi thứ nhất đang chuyển động với vận tốc $v_1=10 \\mathrm{~m} / \\mathrm{s}$ thì va vào viên bi thứ hai đang đứng yên. Sau va chạm, hai viên bi đều chuyển động về phía trước. Tính vận tốc của mỗi viên bi sau va chạm nếu hai viên bi chuyển động trên cùng một đường thẳng và sau va chạm viên bi thứ nhất có vận tốc là $v_1=5 \\mathrm{~m} / \\mathrm{s}$. Biết khối lượng của hai viên bi bằng nhau.\n "
+      },
+      {
+            "query": "Một chai chứa không khí được nút kín bằng một nút có trọng lượng không đáng kể, tiết diện 2,5cm2. Hỏi phải đun nóng không khí trong chai lên tới nhiệt độ tối thiểu bằng bao nhiêu để nút bật ra ? Biết lực ma sát giữa nút và chai có độ lớn là 12 N, áp suất ban đầu của không khí trong chai bằng áp suất khí quyển và bằng 9,8.104Pa, nhiệt độ ban đầu của không khí trong chai là -3°C.\n ",
+            "pos_similar": "Một cái chai chứa không khí được nút kín bằng một cái nút có trọng lượng không đáng kể, tiết diện của nút là S=2.5cm2.Hỏi phải đun nóng không khí trong chai tới nhiệt độ bao nhiêu để nút bật ra. Biết lực ma sát giữa nút và chai có độ lớn là 16N, áp suất ban đầu của chai và của khí quyển là 9,8*10^4 N/m2 và nhiệt độ ban đầu của không khí trong chai là 23.\n ",
+            "neg_similar": "Câu 18. Một binh thuỷ tinh chứa không khi được đậy kin bằng một nút có khối lượng $\\mathrm{m}$. Tiết diện của miệng binh là $s=1,5 \\mathrm{~cm}^2$. Khi ở nhiệt độ phòng $\\left(27^{\\circ} \\mathrm{C}\\right)$ người ta xác định được áp suất của khối khi trong bình bằng với áp suất khi quyển và bằng $1 \\mathrm{~atm}$. Đun nóng bình tới nhiệt độ $87^{\\circ} \\mathrm{C}$ thì người ta thấy nút bị đầy lên. Tính khối lượng $\\mathrm{m}$ của nút, cho gia tốc trọng trường $\\mathrm{g}=10 \\mathrm{~m} / \\mathrm{s}^2$\n\nA. $1,82 \\mathrm{~kg}$\nB. $0,54 \\mathrm{~kg}$\nC. $0,304 \\mathrm{~kg}$\nD. $1,26 \\mathrm{~kg}$"
+      },
+      {
+            "query": "Một lượng khí ở áp suất 2.104 N/m2 có thể tích 6 lít. Được đun nóng đẳng áp khí nở ra và có thể tích 8 lít. Tính:\n\na. Công do khí thực hiện.\n\nb. Độ biến thiên nội năng của khí. Biết khi đun nóng khí nhận được nhiệt lượng 100J.\n ",
+            "pos_similar": "Một lượng khí ở áp suất 3.10^5 N/m2 có thể tích 6 lít. Sau khi đun nóng chất khí nở ra và có thể tích 8 lít\na. Tính công khi thực hiện được\nb. Tính độ biến thiên nội năng của khí, biết trong khi đun nóng khí nhận được nhiệt lượng 1000J \n ",
+            "neg_similar": "Một khối khí có áp suất p = 100 N/m2, thể tích V1 = 4m3, nhiệt độ t1 = 27°C được nung nóng đẳng áp đến nhiệt độ t2 = 87°C. Tính công do khí thực hiện.\n "
+      },
+      {
+            "query": "Treo vật có khối lượng 300 g vào một lò xo thẳng đứng có độ dài 25 cm. Biết lò xo có độ cứng 100 N/m, gia tốc trọng trường g = 10 m/s2. Chiều dài của lò xo khi vật đứng cân bằng là:\n\nA. 25 cm.\n\nB. 26 cm.\n\nC. 27 cm.\n\nD. 28 cm.",
+            "pos_similar": "Treo 1 vật khối lượng 250g vào lò xo có độ cứng k=100N/m, chiều dài tự nhiên 25cm, tại nơi có gia tốc trọng trường bằng 10m/s^2 thì chiều dài lò xo khi vật ở ví trí cân bằng là bao nhiêu?\n ",
+            "neg_similar": "Một lò xo có chiều dài tự nhiên $l_0$ được treo thẳng đứng. Treo vào đầu dưới của một lò xo một quả cân có khối lượng $200(\\mathrm{~g})$ thì chiều dài của lò xo là $28(\\mathrm{~cm})$. Biết lò xo có độ cứng là $100(\\mathrm{~N} / \\mathrm{m})$ và gia tốc trọng trường $\\mathrm{g}=10\\left(\\mathrm{~m} / \\mathrm{s}^2\\right)$. Chiều dài $l_0$ bằng\n\nA. $l_{\\mathrm{o}}=24(\\mathrm{~cm})$.\nB. $l_{\\mathrm{o}}=26(\\mathrm{~cm})$.\nC. $l_{\\mathrm{o}}=29(\\mathrm{~cm})$.\nD. $l_{\\mathrm{o}}=32(\\mathrm{~cm})$."
+      },
+      {
+            "query": "Một máy ảnh có vật kính là một thấu kính hội tụ có tiêu cự 7cm. Người ta dùng máy ảnh này để chụp ảnh một cái cây cách máy 21m. Sau khi chụp xong, người ta thấy ảnh của cái cây trên phim cao 4,2cm. Chiều cao thực của cái cây là:\nA. 11,652m\n\nB. 12,558m\n\nC. 13,045m\n\nD. 14,502m",
+            "pos_similar": "Một máy ảnh có vật kính là thấu kính hội tụ có tiêu cự là 7cm . người ta dùng máy ảnh này để chụp ảnh một cái cây cách máy 21m. Sau khi chụp xong người ta thấy ảnh của cây hiện trên phim cao 4,2cm . tính chiều cao thực của cây\n ",
+            "neg_similar": "Người ta chụp ảnh một chậu cây cao 1m, đặt cách máy ảnh 2m. Phim cách cách vật kính của máy ảnh 6cm.Tính chiều cao của ảnh trên phim \n "
+      },
+      {
+            "query": "Một khung dây phẳng có diện tích 10 cm2 đặt trong từ trường đều cảm ứng từ B = 2.10-2T, mặt phẳng khung dây hợp với đường cảm ứng từ một góc 300. Tính độ lớn từ thông qua khung?\n\n\nA: 10-5Wb B: 2.10-5Wb C: 2.10-6Wb D: 10-6Wb",
+            "pos_similar": "Một khung dây phẳng có diện tích 12cm2 đặt trong từ trường đều cảm ứng từ B = 5.10-2T, mặt phẳng khung dây hợp với đường cảm ứng từ một góc 300. Độ lớn từ thông qua khung là :\n\nA: 4.10-5Wb \n\nB: 2.10-5Wb \n\nC: 5.10-5Wb \n\nD: 3.10-5Wb ",
+            "neg_similar": "Một khung dây phẳng có diện tích 10 cm2 đặt trong từ trường đều, mặt phẳng khung dây hợp với đường cảm ứng từ một góc 30°. Độ lớn từ thông qua khung là 3.10-5 Wb. Cảm ứng từ có giá trị\n\n\nA. B = 3.10-2 T        B. B = 4.10-2 T        C. B = 5.10-2 T        D. B = 6.10-2 T"
+      },
+      {
+            "query": "Chất điểm chuyển động trên trục $0 x$, bắt đầu chuyển động tại thời điểm $t=0$, có phương trình chuyển động là $x=t^2+10 t+8$. Phương trình vận tốc của vật là:\nA. 10 – 2t               \n\n B. 10 + 2t        \n\n C. 10 – t            \n\n D. 10 + t",
+            "pos_similar": "Chất điểm chuyển động trên trục Ox, bắt đầu chuyển động lúc t = 0, có phương trình chuyển động là x = - t2 + 10t + 8 (m). Viết phương trình vận tốc của chất điểm\n ",
+            "neg_similar": "Phương trình chuyển động của một chất điểm dọc theo trục ox có dạng x = 4 t + 10 (x đo bằng km và t do bằng h ).quãng đường đi đc của chất điểm sau 3600s chuyển động là bao nhiêu?\n "
+      },
+      {
+            "query": "Thả một vật rơi tự do ở độ cao 200 m so với mặt đất. Lấy g = 9.8 m/s2, một giây sau cũng tại nơi đó một vật khác được ném thẳng đứng hướng xuống với vận tốc vo. Hai vật chạm đất cùng lúc xác định vo\n ",
+            "pos_similar": "Thả một vật rơi tự do ở độ cao 80m so với mặt đất. Lấy g = 10 m/s2, một giây sau cũng tại nơi đó một vật khác được ném thẳng đứng hướng xuống với vận tốc vo. Hai vật chạm đất cùng lúc xác định vo\n\n\nA. 27.4 m/s\n\nB. 35.8 m/s\n\nC. 57.3 m/s\n\nD. 11.7 m/s",
+            "neg_similar": "Một vật được thả rơi tự do từ độ cao 9.8 m xuống mặt đất. Bỏ qua lực cản của không khí. Lấy gia tốc rơi tự do g = 9,8 m/s2. Vận tốc của vật khi chạm đất là:\n "
+      },
+      {
+            "query": "Bánh xe đạp có đường kính 0,3m. Xe đạp chuyển động thẳng đều với vận tốc 12km/h. Tính tốc độ dài và tốc độ góc của 1 điểm trên vành bánh đối với người ngồi trên xe.\n ",
+            "pos_similar": "Bánh xe đạp có đường kính 0,66 m. Xe đạp chuyển động thẳng đều với vận tốc 12 km/h. Tính tốc độ dài và tốc độ góc của một điểm trên vành bánh đối với người ngồi trên xe .\n ",
+            "neg_similar": "Bánh xe đạp có đường kính 0,66 m. Xe đạp chuyển động thẳng đều với vận tốc 12 km/h. Tính tốc độ dài và tốc độ góc của một điểm trên vành bánh đối với trục bánh xe là:\n\nA: 10,1 cm/s \n\nB: 20,2 rad/s \n\nC: 10,1 rad/s \n\nD: 20,2 cm/s "
+      },
+      {
+            "query": "Trên mặt nằm ngang không ma sát xe một chuyển động với độ lớn vận tốc 5 m/s đến va chạm vào xe hai đang đứng yên. Sau va chạm xe một bật lại với vận tốc 150 cm/s; xe hai chuyển động với vận tốc 200 cm/s. Biết khối lượng xe hai là 400g; tính khối lượng xe một?\n ",
+            "pos_similar": "Một bi A đang chuyên động với vận tốc 3,6 km/h đến đụng vào bi B đang đứng yên. Sau va chạm bi A dội lại với vận tốc 0,1 m/s; còn bi B chạy với vận tốc 0,55m/s. Cho m_B=200 g. Tìm m_A. \n ",
+            "neg_similar": "Một quả bóng khối lượng 0,5kg đang bay theo phương ngang với vận tốc $20 \\mathrm{~m} / \\mathrm{s}$ thì va theo phương vuông góc vào bức tường thẳng đứng và bay ngược trở lại với vận tốc 15 $\\mathrm{m} / \\mathrm{s}$. Thời gian va chạm giữa bóng và tường là $0,02 \\mathrm{~s}$. Lực của quả bóng tác dụng vào tường là bao nhiêu?\n "
+      },
+      {
+            "query": "Một lò xo treo thẳng đứng có độ dài tự nhiên 30 cm. Treo 150 g vào đầu dưới lò xo thì thấy lò xo dài 33 cm. Hỏi nếu treo vật 0,1 kg thì lò xo dài bao nhiêu?\nA. 30cm               B. 20 cm               C. 23 cm               D. 32 cm",
+            "pos_similar": "một lò xo treo thẳng đứng có độ dài tự nhiên 30cm treo vật 150g vào đầu dưới lò xo thì thấy lò xo dài 33cm hỏi nếu treo vật 0,1kg thì thấy lò xo dài bao nhiêu \n ",
+            "neg_similar": "Người ta treo một vật có khối lượng $0,3 \\mathrm{~kg}$ vào đầu dưới của một lò xo (đầu trên cố định), thì lò xo dài $31 \\mathrm{~cm}$. Khi treo thêm một vật $200 \\mathrm{~g}$ nữa thì lò xo dài $33 \\mathrm{~cm}$. Lấy $g=10 \\mathrm{~m} / \\mathrm{s}^2$. Độ cứng của lò xo là:\nA. $9,7 N / m$\nB. $1 N / m$\nC. $100 N / m$\nD. $50 \\mathrm{~N} / \\mathrm{m}$."
+      },
+      {
+            "query": "Một xe tải khối lượng 2,5 tấn, bắt đầu chuyển động nhanh dần đều sau khi đi được quãng đường 144 m thì vận tốc đạt được 12 m/s. Hệ số ma sát giữa xe và mặt đường là μ = 0,04. Tính công của các lực tác dụng lên xe trên quãng đường 144m đầu tiên. Lấy g = 10 m/s2.\n ",
+            "pos_similar": "Một xe tải khối lượng 2 tấn, bắt đầu chuyển động nhanh dần đều sau khi đi được quãng đường 144m thì vận tốc đạt được 12m/s. Hệ số ma sát giữa xe và mặt đường là μ = 0,05. Tính công của các lực tác dụng lên xe trên quãng đường 144m đầu tiên. Lấy g = 10m/s2. \n\n ",
+            "neg_similar": "Một xe tải khối lượng 2,5 tấn ban đầu đứng yên, bắt đầu chuyển động nhanh dần nhờ có lực kéo hướng theo phương ngang. Sau khi đi được quãng đường 144m thì đạt vận tốc 12m/s. Hệ số ma sát giữa xe và mặt đường là μ = 0,04. Tính công của các lực tác dụng lên xe và công suất trung bình của lực kéo trên quãng đường 144m đầu tiên. Lấy g = 10 m/s2.\n "
+      },
+      {
+            "query": "Một vật có khối lượng 1000 g chuyển động không vận tốc đầu xuống một mặt phẳng nghiêng, cao 1m dài 10 m, hệ số ma sát trên toàn bộ quãng\nđường là 0,05, lấy g = 10 m/s 2 . Động năng của vật ở cuối mặt phẳng nghiêng là.\n ",
+            "pos_similar": "Một vật có khối lượng 1kg chuyển động không vận tốc đầu xuống mặt phẳng nghiêng, cao 1m dài 10m, hệ số ma sát trên toàn bộ quảng đường là 0,05, cho g=10m/s^2. Tính động năng của vật ở cuối mặt phẳng nghiêng.\n ",
+            "neg_similar": "Một vật khối lượng $\\mathrm{m}=1 \\mathrm{~kg}$ trượt từ đỉnh của mặt phẳng nghiêng cao $1 \\mathrm{~m}$, dài $10 \\mathrm{~m}$. Lấy $g=9,8 \\mathrm{~m} / \\mathrm{s}^2$, hệ số ma sát là 0,05 .Tính vận tốc của vật tại chân mặt phẳng nghiêng.\n "
+      },
+      {
+            "query": "Một lượng khí Họ đựng trong bình có V=2 lít ở áp suất 1,5atm, t = 27°C. Đun nóng khi đến nhiệt độ 127°C do bình hở nên một nửa lượng khí thoát ra ngoài. Tính áp suất khí trong bình.\n ",
+            "pos_similar": "Câu 40 (ch5 - M4). Một lượng khí đựng trong bình ở áp suất 3atm, nhiệt độ $27^{\\circ} \\mathrm{C}$. Đun nóng khi đển $127^{\\circ} \\mathrm{C}$. Do binh hở nên $75 \\%$ lượng khi thoát ra. Áp suát khi trong binh bây giờ là bao nhiêu ?\nA. $2 \\mathrm{~atm}$.\nB. $0,75 \\mathrm{~atm}$.\nC. $1 \\mathrm{~atm}$.\nD. 4atm",
+            "neg_similar": "Một bình chứa khí hiđro nén, thể tích 10 lit, nhiệt độ $7^{\\circ} \\mathrm{C}$, áp suất $50 \\mathrm{~atm}$. Khi nung nóng bình, vì bình hở nên một phần khí thoát ra ngoài, phần khí còn lại có nhiệt độ $17^{\\circ} \\mathrm{C}$ và áp suất như cũ. Tính lượng khí thoát ra ngoài.\n "
+      },
+      {
+            "query": "Hai thanh kim loại, Một bằng sắt và một bằng kẽm ở 0°C có chiều dài bằng nhau, còn ở 100°C thì chiều dài chênh lệch nhau 1mm. Cho biết hệ số nở dài của sắt là α1 = 1,14.10-5k-1 và của kẽm là α2 = 3,4.10-5k-1. Chiều dài của hai thanh ở 0°C là:\n\nA. l0 = 0,442mm             B. l0 = 4,42mm.            C. l0 = 44,2mm            D. l0 = 442mm.",
+            "pos_similar": "Hai thanh một bằng sắt, một bằng kẽm dài bằng nhau ở 0oC, còn ở 100oC thì chênh lệch nhau 10mm. Tìm chiều dài của hai thanh đó ở 00C. Biết hệ số nở dài của sắt là 11,4.10-6K-1, của kẽm là 34.10-6K-1.\n\n\nA: 424,5m. \n\nB: 4,425m. \n\nC: 442,5mm. \n\nD: 342mm. ",
+            "neg_similar": "Hai thanh kim loại, một bằng đồng và 1 bằng kẽm ở 0°C có chiều dài 0,5m. Ở nhiệt độ bao nhiêu thì chiều dài chênh lệch nhau 1mm. Biết hệ số nở dài của đồng và kẽm là 1,6.10-5K-1 và 3,5.10-5K-1\n "
+      },
+      {
+            "query": "Một căn phòng có thể tích 60m3, ở nhiệt độ 20°C và có độ ẩm tương đối là 80%. Tính lượng hơi nước có trong phòng, biết độ ẩm cực đại ở 20°C là 17,3 g/m3.\n ",
+            "pos_similar": "Tính khối lượng hơi nước có trong phòng thể tích 100 m3 ở nhiệt độ 25 0C và độ ẩm tương đối là 65%. Biết độ ẩm cực đại ở 25 0C là 23 g/m3.\n\n\nA: 0,230 kg. \n\nB: 2,300 kg \n\nC: 1,495 kg \n\nD: 14,95 kg.",
+            "neg_similar": "Một phòng có kích thước 3x4x4m chứa 0,8kg hơi nước a.Tính độ ẩm tuyệt đối \nb.Tính độ ẩm tương đối \nBiết nhiệt độ phòng là 27oC và độ ẩm cực đại tương ứng là A=25,8g/m3 \n "
+      },
+      {
+            "query": "Một con lắc lò xo, lò xo có độ cứng 20 (N/m), vật nặng M = 100 (g) có thể trượt không ma sát trên mặt phẳng nằm ngang. Hệ đang ở trạng thái cân bằng, dùng một vật m = 100 (g) bắn vào M theo phương nằm ngang với tốc độ 3 (m/s). Sau va chạm hai vật dính vào nhau và cùng dao động điều hoà theo phương ngang trùng với trục của lò xo với biên độ là\n\n\nA. 15 cm     B. 10 cm.\n\nC. 4 cm     D. 8 cm",
+            "pos_similar": "Một con lắc lò xo lò xo có khối lượng không đáng kể, độ cứng 40 N/m vật nặng khối lượng M=300g có thể trượt không ma sát trên mp ngang. Hệ đang ở trạng thái cân bằng, dùng vật m=100g bắn vào M theo phương nằm ngang với vận tốc 1m/s. Sau khi va chạm, hai vật dính vào nhau và cùng dao động theo phương ngang trùng với trục lò xo với biên độ ???\n ",
+            "neg_similar": "Một con lắc lò xo có độ cứng 100 N/m, vật nặng có M = 100 g dao động điều hòa trên mặt phẳng nằm ngang với biên độ 3 cm. Giả sử M đang dao động thì có một vật khối lượng m = 300 g bắn vào M theo phương ngang với vận tốc 2 m/s, giả thiết va chạm là mềm và xảy ra tại thời điểm lò xo có độ dài lớn nhất. Sau va chạm, hai vật gắn chặt vào nhau và cùng dao động điều hòa. Tính cơ năng của hệ (M + m)\nA: 1,15 J    \n\nB: 0,65 J    \n\nC: 4,95 J      \n\nD: 0,495 J "
+      },
+      {
+            "query": "Một sợi dây căng giữa hai điểm cố định cách nhau 75cm. Người ta tạo sóng dừng trên dây. Hai tần số gần nhau nhất cùng tạo ra sóng dừng trên dây là 150Hz và 200Hz. Vận tốc truyền sóng trên dây đó bằng:\n\n\nA. 7,5m/s    B. 300m/s    C. 225m/s     D. 75m/s",
+            "pos_similar": "Một sợi dây căng giữa hai điểm cố định cách nhau 80cm. Hai sóng có tần số gần nhau liên tiếp cùng tạo ra sóng dừng trên dây là f1=70 Hz và f2=84 Hz. Tìm tốc độ truyền sóng trên dây. Biết tốc độ truyền sóng trên dây không đổi.\n\nA: 11,2m/s  \n\nB: 26,9m/s    \n\nC: 22,4 m/s \n\nD: 18,7m/s ",
+            "neg_similar": "Một sóng truyền trên sợi dây đàn hồi rất dài với tần số 500hz người ta thấy khoảng cách giữa hai điểm gần nhau nhất dao động cùng pha là 80 cm vận tốc sóng truyền trên dây là\n\n "
+      },
+      {
+            "query": "Khi nói về quang phổ vạch phát xạ, phát biểu nào sau đây là sai?\n\n\nA: Quang phổ vạch phát xạ của nguyên tố hóa học khác nhau thì khác nhau \nB: Quang phổ vạch phát xạ của một nguyên tố là hệ thống những vạch sáng riêng lẻ, ngăn cách nhau bởi những khoảng tối. \nC: Quang phổ vạch phát xạ do chất rắn hoặc chất lỏng phát ra khi bị nung nóng \nD: Trong quang phổ vạch phát xạ của nguyên tử hidro, ở vùng ánh sáng nhìn thấy có 4 vạch đặc trưng là vạch đỏ, lam, chàm, tím",
+            "pos_similar": "Phát biểu nào sau đây là sai khi nói về quang phổ vạch phát xạ:\n\n\nA: Quang phổ vạch phát xạ do các chất khí hay hơi ở áp suất thấp bị kích thích phát ra. \n\nB: Quang phổ vạch phát xạ của các nguyên tố khác nhau phát ra thì khác nhau về số lượng vạch, vị trí, màu sắc các vạch và độ sáng tỉ đối của các vạch. \n\nC: Quang phổ vạch phát xạ là một hệ thống những vạch màu riêng rẽ nằm trên một nền tối. \n\nD: Quang phổ vạch phát xạ bao gồm một hệ thống những dãi màu biến thiên liên tục nằm trên một nền tối. ",
+            "neg_similar": "Phát biểu nào sau đây sai?\nA: \n\nCó hai loại quang phổ vạch: quang phổ vạch hấp thụ và quang phổ vạch phát xạ.\n\n \nB: \n\nQuang phổ vạch hấp thụ có những vạch sáng nằm trên nền quang phổ liên tục.\n\n \nC: \n\nQuang phổ vạch phát xạ do các khí hay hơi ở áp suất thấp bị kích thích phát.\n\n \nD: Quang phổ vạch phát xạ có những vạch màu riêng rẽ nằm trên nền tối. "
+      },
+      {
+            "query": "Ban đầu có N0 hạt nhân của một chất phóng xạ. Giả sử sau 4 giờ, tính từ lúc ban đầu, có 75% số hạt nhân N0 bị phân rã. Chu kỳ bán rã của chất đó là\n\n\nA: 2 giờ.         \n\nB: 3 giờ.     \n\nC: 4 giờ.      \n\nD: 8 giờ. ",
+            "pos_similar": "Ban đầu có N0 hạt nhân của một chất phóng xạ. Giả sử sau 4 giờ, tính từ lúc ban đầu, có 50% số hạt nhân N0 bị phân rã. Chu kỳ bán rã của chất đó là\n\nA: 2 giờ.  \n\nB: 3 giờ.    \n\nC: 4 giờ.         \n\nD: 8 giờ. ",
+            "neg_similar": "Chất phóng xạ X có chu kì bán rã T. Ban đầu (t = 0), một mẫu chất phóng xạ X có số hạt là N0. Sau khoảng thời gian t = 3T (kể từ lúc t = 0), số hạt nhân X đã bị phân rã là\n\n\nA: 0,25N0 \n\nB: 0,75N0 \n\nC: 0,875N0 \n\nD: 0,125N0 "
+      },
+      {
+            "query": "Cho bốn ánh sáng đơn sắc: đỏ, tím, cam và lục. Chiết suất của thủy tinh có giá trị lớn nhất đối với ánh sáng  \n\nA: lục.    \n\nB: cam \n\nC: đỏ  \n\nD: tím ",
+            "pos_similar": "Cho bốn ánh sáng đơn sắc: đỏ, lục; lam và tím. Chiết suất của thủy tinh có giá trị lớn nhất đối với ánh sáng\n\nA: lam.   \n\nB: đỏ.    \n\nC: tím. \n\nD: lục. ",
+            "neg_similar": "Cho bốn ánh sáng đơn sắc: đỏ, tím, cam và lục. Chiết suất của thủy tinh có giá trị nhỏ nhất đối với ánh sáng: \n\nA. Lục\nB. Tím\nC. Cam\nD. Đỏ."
+      },
+      {
+            "query": "Ba điện tích điểm q1 = -10-7 C, q2 = 5.10-8 C, q3 = 4.10-8 C lần lượt tại A, B, C trong không khí. Biết AB = 5 cm, BC = 1 cm, AC = 4 cm. Tính lực tác dụng lên mỗi điện tích.\n ",
+            "pos_similar": "Ba điện tích điểm q1 = 2.10-7 C, q2 = -4.10-8 C, q3 = 5.10-8 C lần lượt tại A, B, C trong không khí. Biết AB = 5 cm, BC = 9 cm, AC = 4 cm. Tính lực tác dụng lên mỗi điện tích.\n ",
+            "neg_similar": "Ba điện tích điểm q1 = -10-7C, q2 = 5.10-8C, q3 = 4.10-8C lần lượt đặt tại A, B, C trong không khí, AB = 5cm. Tính lực tác dụng lên  điện tích q1 khi ? \na. AC = 4cm, BC = 1 cm;     \nb. AC = 10cm, BC = 5cm \nc. Tam giác ABC vuông cân tại A. \n "
+      },
+      {
+            "query": "Một nguồn điện có suất điện động là 6 V, điện trở trong là 2 Ω, mạch ngoài có điện trở R. Để công suất tiêu thụ ở mạch ngoài đạt giá trị lớn nhất thì điện trở R phải có giá trị là\n3 Ω.\n2 Ω.\n4 Ω.\n1 Ω.",
+            "pos_similar": "Một nguồn điện có suất điện động E= 6V, điện trở trong r=2 ôm , mạch ngoài có điện trở R. Để công suất tiêu thụ mạch ngoài đạt giá trị lớn nhất thì điện trở R phải có giá trị\n ",
+            "neg_similar": "Một nguồn điện có suất điện động E = 6 (V), điện trở trong r = 2 (Ω), mạch ngoài có điện trở R. Để công suất tiêu thụ ở mạch ngoài là 4 (W) thì điện trở R phải có giá trị\nA: R = 3 (Ω). \n\nB: R = 4 (Ω). \n\nC: R = 5 (Ω). \n\nD: R = 6 (Ω). "
+      },
+      {
+            "query": "Khi xe ô tô đang chuyển động trên đường đột ngột phanh (thắng gấp). Hành khách trên xe bị xô về phía trước là do\n\n\nA. ma sát        \nB. quán tính\n\nC. trọng lực        \nD. lực đẩy",
+            "pos_similar": "Khi xe ô tô đang chuyển động trên đường thì đột ngột phanh, hành khách trên xe bị xô vê phía trước là do \nA. lực ma sát. \nB. trọng lực.  \nC. quán tính. \nD. lực đàn hồi",
+            "neg_similar": "tại sao người ngồi trên xe ô tô đang chuyển động trên dường thẳng nếu ô tô đột ngột rẽ phải thì hành khách trên xe bị nghiêng mạnh về bên trái\n "
+      },
+      {
+            "query": "Một dây nhôm dạng hình trụ tròn được quấn thành cuộn có khối lượng 0,81 kg, tiết diện thẳng của dây là 0,1 mm2. Tìm điện trở của dây đó biết rằng nhôm có khối lượng riêng và điện trở suất lần lượt là 2,7 g/cm3 và 2,8.10-8 Ω.m.\n ",
+            "pos_similar": "Một dây nhôm dạng hình trụ tròn được quấn thành cuộn có khối lượng 0,81 kg , tiết diện thẳng của cuộn dây là 0,15mm . Tìm điện trở của cuộn dây đó biết rằng nhôm có khối lượng riêng là 2,7g/cm3 ; điện trở suất của nhôm là 2,8.10^-2 Ôm.m\n ",
+            "neg_similar": "Một cuộn dây bằng đồng có khối lượng m = 1kg, tiết diện đều 1 mm2. Biết khối lượng riêng và điện trở suất của đồng là 8,9g/cm3 và 1,7.10-8 m. a)Tính điện trở của dây. b) Người ta dùng dây này đẻ quấn một biến trở. Biết lõi biến trở hình trụ tròn, đường kính 6cm. Tìm số vòng dây quấn của biến trở\n "
+      },
+      {
+            "query": "Một ống dây dài 50 cm có 2500 vòng dây. Đường kính của ống bằng 2 cm. Cho một dòng điện biến đổi đều theo thời gian chạy qua ống dây. Sau thời gian 0,01 s dòng điện tăng từ 0 đến 1,5 A. Tính suất điện động tự cảm trong ống dây.\n ",
+            "pos_similar": "Một ống dây dài 50 cm có 5000 vòng dây, đường kính ống dây bằng 2 cm. Cho một dòng điện biến đổi đều theo thời gian chạy qua ống dây. Sau thời gian 0,01 s dòng điện tăng từ 0 đến 3A. Suất điện động tự cảm trong ống dây khi đó có độ lớn là\n ",
+            "neg_similar": "Dòng điện qua một ống dây không có lõi sắt biến đổi đều theo thời gian. Trong thời gian 0,01s cường độ dòng điện tăng từ 1A đến 2A, suất điện động tự cảm trong ống dây có độ lớn bằng 20 V.\nTính hệ số tự cảm của ống dây.\n "
+      },
+      {
+            "query": "Dòng điện trong chất khí là dòng dịch chuyển có hướng của các\n\n\nA. electron theo chiều điện trường\n\nB. ion dương theo chiều điện trường và ion âm ngược chiều điện trường\n\nC. ion dương theo chiều điện trường, ion âm và electron ngược chiều điện trường\n\nD. ion dương ngược chiều điện trường, ion âm và electron theo chiều điện trường",
+            "pos_similar": "Dòng điện trong chất khí là dòng chuyển dời có hướng của các hạt:\n\n \nA: Electron, ion âm và ion dương dưới tác dụng của điện trường. \n\nB: Các hạt electron, dưới tác dụng của điện trường. \n\nC: Các  ion âm và ion dương dưới tác dụng của điện trường. \n\nD: Các hạt electron và ion dương dưới tác dụng của điện trường.",
+            "neg_similar": "Tìm phát biểu sai\nA. Các hạt điện dẫn trong chất khí là các ion dương, âm và electron\n\nB. Tác nhân ion hoá là điều kiện cho sự dẫn điện của chất khí khi hiệu điện thế thấp.\n\nC. Sự phóng điện tự do không cần tác nhân ion hoá khi hiệu điện thế rất cao.\n\nD. Dòng điện trong chất khí tuân theo định luật Ohm."
+      },
+      {
+            "query": "Chọn câu sai. Đặt một hiệu điện thế U vào một điện trở R thì dòng điện chạy qua có cường độ dòng điện I. Công suất tỏa nhiệt trên điện trở là:\nA. $P=1^2 R$\nB. $P=U I^2$.\nC. $P=U I$\nD. $P=U^2 / R$",
+            "pos_similar": "Đặt một hiệu điện thế U vào hai dầu một điện trở R thì dòng điện chạy qua điện trở có cường độ I. Công suất toả nhiệt trên điện trở này không thế tính bằng công thức:\n\nA: $P=I^2 \\cdot R$\n$B: P=U I$\nC: $P=U^2 / R$\n$D: P=R^2 \\cdot 1$",
+            "neg_similar": "Đặt vào hai đầu vật dẫn có điện trở R một hiệu điện thế U, cường độ dòng điện chạy qua vật dẫn là I thì công suất tỏa nhiệt trên vật dẫn là:\nA. P=I.R\nB. P=U^2.R\nC. P=U.R\nD. P=I^2.R"
+      },
+      {
+            "query": "Lúc trời không gió, một máy bay bay từ địa điểm M đến N theo 1 đường thẳng với v = 120 m/s mất thời gian 2 giờ. Khi bay trở lại, gặp gió nên bay mất thời gian 2 giờ 20 phút. Xác định vận tốc gió đối với mặt đất.\n ",
+            "pos_similar": "Lúc trời không gió, một máy bay bay từ địa điểm M đến địa điểm N theo một đường thẳng với vận tốc không đổi 180 m/s mất thời gian 2 h. Khi bay trở lại, gặp gió nên bay từ N đến M mất thời gian 2h 15 phút. Xác định vận tốc của gió.\n ",
+            "neg_similar": "Một máy bay chở hành khách bay giữa hai thành phố A và B. Khi xuôi gió thời gian bay là 1h30’, còn khi ngược gió thời gian bay là 1h45’. Biết vận tốc gió luôn không đổi là 10 m/s. Vận tốc của máy bay lúc không có gió là:\n "
+      },
+      {
+            "query": "Một ô tô 2 tấn khởi hành sau 10s đặt 54 km/h, chuyển động trên đường ngang co hệ số ma sát 0,05. Xác định lực kéo động cơ\n ",
+            "pos_similar": "Một ô tô 2 tấn khởi hành sau 10s đặt 54 km/h, chuyển động trên đường ngang co hệ số ma sát 0,05. Xác định lực kéo động cơ? Lất g=10m/s^2\nA. 6000N\nB. 3000N\nC. 5000N\nD. 4000N",
+            "neg_similar": "một xe có khối lượng 2 tấn, khởi hành sau 10s đạt vận tốc 36km/h, chuyển động trên đường ngang có hệ số ma sát 0,05\na) tính lực kéo của động cơ xe \nb) tính công và công suất trong thời gian đó\n "
+      },
+      {
+            "query": "Bến A, bến B cùng nằm trên một con sông và cách nhau 15km. Một ca nô xuất phát từ bến A thì sau 45 phút đến bến B. Ca nô khi đến B thì ca nô quay trở lại bến A và đến bến A sau 1 giờ 15 phút. Một cụm bèo được thả từ bến A và trôi theo dòng nước đến bến B. Hỏi cụm bèo này trôi trong bao lâu thì đến bến B?\n ",
+            "pos_similar": "Bến A, bến B cùng nằm trên một con sông và cách nhau 15km. Một ca nô xuất phát từ bến A thì sau 40' đến bến B. Ca nô khi đến B thì ca nô quay trở lại bến A và đến bến A sau 1h15'. Một cụm bèo được thả từ bến A và trôi theo dòng nước đến bến B. Hỏi cụm bèo này trôi trong bao lâu thì đến bến B?\n\n ",
+            "neg_similar": "Trên một con sông, bến A cách bến B 24 km. Một ca nô xuất phát từ bến A lúc 7 giờ 30 phút, xuôi dòng đến bến B lúc 8 giờ 6 phút và nghỉ tại bến B 15 phút, sau đó quay về đến bến A lúc 9 giờ 9 phút.\na) Tính vận tốc xuôi dòng và vận tốc ngược dòng của ca nô.\nb) Một bè gỗ được thả trôi theo dòng nước. Hỏi bè gỗ trôi trong bao lâu từ bến A đến bến B?\n "
+      },
+      {
+            "query": "Sóng âm có thể truyền qua các môi trường nào?\n\n\n\n\n\nA. Chất rắn, chất lỏng, chất khí.\n\nB. Chất rắn, chất lỏng, chất khí, chân không.\n\nC. Chất rắn, chất khí, chân không.\n\nD. Chất lỏng, chất khí, chân không.",
+            "pos_similar": "Sóng âm truyền được trong môi trường nào?\nA. Chỉ trong chất lỏng và chất rắn.\nB. Chỉ trong chất khí.\nC. Trong mọi chất để cả chân không.\nD. Trong chất rắn, chất lỏng và chất khí. ",
+            "neg_similar": "Sóng âm không truyền được trong môi trường nào?\nA. Chất rắn\n\nB. Chất lỏng\n\nC. Chất khí \n\nD. Chân không."
+      },
+      {
+            "query": " Để đo tốc độ chuyển động ta cần sử dụng các dụng cụ gì?\nA. Dụng cụ đo độ dài.\n\nB. Dụng cụ đo thời gian.\n\nC. Dụng cụ đo khối lượng.\n\nD. Cả A và B.",
+            "pos_similar": "Để xác định tốc độ chuyển động, người ta phải đo những đại lượng nào và dùng các dụng cụ nào để đo?\nA. Đo độ dài dùng thước và đo thời gian dùng đồng hồ.\n\nB. Đo độ dài dùng đồng hồ.\n\nC. Đo thời gian dùng thước.\n\nD. Đo độ dài dùng đồng hồ và đo thời gian dùng thước.",
+            "neg_similar": "Dùng dụng cụ gì để đo quãng đường và thời gian chuyển động của vật?\n "
+      },
+      {
+            "query": "Tia hồng ngoại được ứng dụng\nA. Để tiệt trùng trong bảo quản thực phẩm.\nB. Trong điều khiển từ xa của ti vi.\nC. Trong công nghiệp để tìm khuyết tật của sản phẩm.\nD. Trong y tế để chụp điện.",
+            "pos_similar": "Tia hồng ngoại được ứng dụng:\nA. Để tiệt trùng trong bảo quản thực phẩm.\nB. Trong điều khiển từ xa của ti vi.\nC. Trong công nghiệp để tìm khuyết tật của sản phẩm.\nD. Trong y tế để chụp điện.",
+            "neg_similar": "Tia tử ngoại ứng dụng để \nA. tìm khuyết tật bên trong các vật đúc.\nB. chụp điện, chuẩn đoán gãy xương\nC. Kiểm tra hành lí của khách đi máy bay\nD. tìm vết nứt trên bề mặt các vật."
+      },
+      {
+            "query": "Vật liệu nào không được dùng làm thấu kính?\nA. Thủy tinh trong\n\nB. Nhựa trong\n\nC. Nhôm\n\nD. Nước",
+            "pos_similar": "Vật liệu nào không được dùng làm thấu kính?\nA. Thủy tinh trong\n\nB. Nhựa\n\nC. Nhôm\n\nD. Nước",
+            "neg_similar": "Thấu kính có thể được làm từ chất nào trong những chất sau đây?\nA. Sắt                                     \nB. Nhôm                                 \nC. Đồng                       \nD. Thủy tinh"
+      },
+      {
+            "query": "Chuyển động nào sau đây không phải là dao động cơ học?\nA. Chuyển động đung đưa của con lắc đồng hồ.\nB. Chuyển động đung đưa của lá cây.\nC. Chuyển động nhấp nhô của phap trên mặt nước.\nD. Chuyển động của ô tô trên đường",
+            "pos_similar": "Trong các chuyển động sau đây chuyển động nào không được coi là dao động?\nA. Xe ô tô đang chạy thẳng trên đường.\n\nB. Một người ngồi trên võng đu đưa.\n\nC. Chuyển động của quả lắc treo trên trần tàu hỏa đang chạy.\n\nD. Chuyển động của hai nhánh âm thoa khi ta gõ vào nó.",
+            "neg_similar": " Trong các trường hợp sau đây vật nào đang dao động? Chọn câu trả lời đúng nhất.\nA. Cành cây đu đưa trong gió nhẹ.\n\nB. Gió nhẹ quả lắc đồng hồ đang chạy.\n\nC. Mặt trống rung lên khi người ta gõ vào nó.\n\nD. Các vật nêu trên đều đang dao động."
+      },
+      {
+            "query": "Thông thường, tai người có thể nghe được âm có tần số\nA. Nhỏ hơn 20 Hz\n\nB. Lớn hơn 20000 Hz\n\nC. Trong khoảng 20Hz - 20000 Hz\n\nD. Kết hợp cả A, B, C.",
+            "pos_similar": "Tai con người có thể nghe được những âm có tần số nằm trong khoảng\nA. Từ 16 kHz đến 20 000Hz\nB. Từ 16 Hz đến 20 000 kHz\nC. Từ 16 kHz đến 20 000 kHz\nD. Từ 16 Hz đến 20 000 Hz",
+            "neg_similar": " Tai con người có thể nghe được những âm có mức cường độ âm trong khoảng nào?\nA. Từ 0 dB đến 1000 dB.\n\nB. Từ 10 dB đến 100 dB.\n\nC. Từ -10 dB đến 100dB.\n\nD. Từ 0 dB đến 130 dB."
+      },
+      {
+            "query": " Một vật dao động điều hòa với biên độ A = 5cm, Trong 10 giây vật thực hiện được 20 dao động. Xác định phương trình dao động của vật biết rằng tại thời điểm ban đầu vật tại ví trí cân bằng theo chiều dương.\n ",
+            "pos_similar": " Một vật dao động điều hòa với biên độ A = 5cm, Trong 10 giây vật thực hiện được 20 dao động. Xác định phương trình dao động của vật biết rằng tại thời điểm ban đầu vật tại ví trí cân bằng theo chiều dương.\nA. x=5cos(4πt+π/2)cm\nB. x=5cos(4πt-π/2)cm\nC.x=5cos(2πt+π/2)cm\nD.x=5cos(2πt+π/2)cm",
+            "neg_similar": "Một vật dao động điều hòa trên quỹ đạo dài 6cm, Biết cứ 2s vật thực hiện được một dao động, tại thời điểm ban đầu vật đang ở vị trí biên dương. Xác định phương trình dao động của vật.\n "
+      },
+      {
+            "query": "Một người quan sát trên mặt biển thấy khoảng cách giữa 10 ngọn sóng liên tiếp bằng 45 m và có 4 ngọn sóng truyền qua trước mắt trong 12 s. Tốc độ truyền sóng trên mặt biển là\nA. 1,125 m/s.\nB. 2 m/s\nC. 1,67 m/s\nD. 1,25 m/s",
+            "pos_similar": "Một người quan sát trên mặt biển thấy khoảng cách giữa 5 ngọn sóng liên tiếp bằng 12 m và có 9 ngọn sóng truyền qua trước mắt trong 5 (s). Tốc độ truyền sóng trên mặt biển là\nA. v = 4,5 m/s.\nB. v = 5 m/s.\nC. v = 5,3 m/s.\nD. v = 4,8 m/s.",
+            "neg_similar": "Một người ngồi ở bờ biển trông thấy có 10 ngọn sóng qua mặt trong 36 giây, khoảng cách giữa hai ngọn sóng là 10m. Tính tần số sóng biển và vận tốc truyền sóng biển.\n "
+      },
+      {
+            "query": "Một mạch dao động gồm một cuộn cảm có độ tự cảm L = 1mH và một tụ điện có điện dung là C = 0,1μF. Tần số riêng của mạch có giá trị nào sau đây?\nA. 1,6.10^4 Hz\n\nB. 3,2.10^4 Hz\n\nC. 1,6.10^4 Hz\n\nD. 3,2.10^4 Hz",
+            "pos_similar": "Một mạch dao động gồm một cuộn cảm có độ tự cảm L = 1mH và một tụ điện có điện dung là C = 0,1μF. Tần số riêng của mạch có giá trị nào sau đây?\nA. 1,6.10^4 Hz\n\nB. 3,2.10^3 Hz\n\nC. 3,2.10^4 Hz\n\nD. 1,6.10^3 Hz",
+            "neg_similar": "Trong mạch dao động điện từ tự do LC, cuộn cảm có  L=1mH và tụ điện có điện dung C = 16 nF. Khi đó chu kì dao động riêng của mạch có giá trị là bao nhiêu?\n "
+      },
+      {
+            "query": "Trong miền ánh sáng nhìn thấy, chiết suất của thủy tinh có giá trị lớn nhất đối với ánh sáng đơn sắc nào sau đây?\nA. Ánh sáng đỏ\nB. Ánh sáng lục\nC. Ánh sáng tím\nD. Ánh sáng lam",
+            "pos_similar": "Trong miền ánh sáng nhìn thấy, chiết suất của thủy tinh có giá trị lớn nhất đối với ánh sáng đơn sắc nào sau đây?\nA. ÁNh sáng tím.\nB. Ánh sáng đỏ.\nC. Ánh sáng lam.\nD. Ánh sáng lục.",
+            "neg_similar": "Trong miền ánh sáng nhìn thấy, chiết suất của thủy tinh có giá trị nhỏ nhất đối với ánh sáng đơn sắc nào sau đây?\nA. Ánh sáng tím \nB. Ánh sáng đỏ\nC. Ánh sáng lục \nD. Ánh sáng lam "
+      },
+      {
+            "query": " Một con lắc đơn có chu kỳ $\\mathrm{T}=2 \\mathrm{~s}$ khi treo vào thang máy đứng yên. Khi thang máy đi lên nhanh dần đều với gia tốc $0,1 \\mathrm{~m} \\cdot \\mathrm{s}^{-2}$ thì chu kỳ dao động của con lắc là\nA. 2,00s      B. 2,10s      C. 1,99s      D.1,87s",
+            "pos_similar": "Một con lắc đơn có chu kì $\\mathrm{T}=2 \\mathrm{~s}$ khi treo vào thang máy đứng yên. Chu kì của con lắc đơn dao động điều hòa khi thang máy đi lên nhanh dần đều với gia tốc có độ lớn $0,1 \\mathrm{~m} / \\mathrm{s}^2$ là\n\nA. $2,1 \\mathrm{~s}$\nB. $2,02 \\mathrm{~s}$.\nC. $1,99 \\mathrm{~s}$.\nD. 1,87 s.v",
+            "neg_similar": "một con lắc đơn có chu kì T=1.5s khi treo vào thang máy đứng yên. Lấy g=9.8m/s2. Chu kì của con lắc khi m hang máy đi lên chậm dần đều với gia tốc a=1m/s2 bằng\n "
+      },
+      {
+            "query": "Biết cường độ âm chuẩn là $10^{12} \\mathrm{~W} / \\mathrm{m}^2$. Khi cường độ âm tại một điểm là $10^{-5} \\mathrm{~W} / \\mathrm{m}^2$. thì mức cường độ âm tại điếm đó là\n A.9B.\n\n B. 7 B.\n\n C. 12 B.\n\n D.5B.",
+            "pos_similar": "Cường độ âm tại một điểm trong môi trường truyền âm là $10^{-5} \\mathrm{~W} / \\mathrm{m}^2$. Biết cường độ âm chuẩn là $10^{-}$ ${ }^{12} \\mathrm{~W} / \\mathrm{m}^2$. Mức cường độ âm tại điểm đó bằng\nA: 70B \n\nB: 0,7dB \n\nC: 0,7B \n\nD: 70dB ",
+            "neg_similar": "Một nguồn âm xem như một nguồn điểm, phát âm trong môi trường đăng hướng và không hấp thụ âm. Biết cường độ âm chuẩn là $\\mathrm{I}_0=10^{-12} \\mathrm{~W} / \\mathrm{m}^2$. Tại một điểm $\\mathrm{A}$ ta đo được mức cường độ âm là $\\mathrm{L}=70 \\mathrm{~dB}$. Cường độ âm tại $\\mathrm{A}$ là\nA: $10^{-7} \\mathrm{~W} / \\mathrm{m}^2$\nB: $10^7 \\mathrm{~W} / \\mathrm{m}^2$\nC: $10^{-5} \\mathrm{~W} / \\mathrm{m}^2$\nD: $70 \\mathrm{~W} / \\mathrm{m}^2$"
+      },
+      {
+            "query": "Mạch điện xoay chiều gồm cuộn dây mắc nối tiếp với tụ điện. Các điện áp hiệu dụng ở hai đầu đoạn mạch 120 V, ở hai đầu cuộn dây 120 V và ở hai đầu tụ điện 120 V. Hệ số công suất của mạch là\nA 0,125\nB 0,87\nC 0,5\nD 0,75",
+            "pos_similar": "Cho mạch điện xoay chiều gồm cuộn dây mắc nối tiếp với tụ điện. Biết các điện áp hiệu dụng ở hai đầu đoạn mạch, hai đầu cuộn dây và hai đầu tụ điện đều bằng 120V. Hệ số công suất của mạch là\nA 0,125\nB 0,87\nC 0,5\nD 0,75",
+            "neg_similar": "Mạch điện xoay chiều gồm một cuộn dây có điện trở R, độ tự cảm L nối tiếp với một tụ điện có điện dung C. Các điện áp hiệu dụng ở hai đầu đoạn mạch U=120V, ở hai đầu cuộn dây Ud=120V, ở hai đầu tụ điện UC=120V. Xác định hệ số công suất của mạch.\n "
+      },
+      {
+            "query": "Trong thí nghiệm Young về giao thoa ánh sáng, biết D = 2m; a = 2mm. Hai khe được chiếu bằng ánh sáng trắng (có bước sóng từ 0,4 μm đến 0,75 μm). Tại điểm trên màn quan sát cách vân trắng chính giữa 3,3mm có bao nhiêu bức xạ cho vân sáng tại đó ?\nA. 3        B. 4       C. 5       D. 6",
+            "pos_similar": "Trong thí nghiệm Y-âng về giao thoa ánh sáng, biết khoảng cách từ hai khe đến màn là D = 2m; khoảng cách giữa hai khe là a = 2mm. Hai khe được chiếu bằng ánh sáng trắng có bước sóng từ 0,38μm đến 0,76μm. Tại điểm M trên màn cách vân trung tâm 3,3mm có bao nhiêu bức xạ cho vân sáng tại đó?\nA: 4 \n\nB: 6 \n\nC: 5 \n\nD: 3 ",
+            "neg_similar": "Thực hiện thí nghiệm giao thoa Young với ánh sáng trắng có bước sóng từ 0,38 µm đến 0,769 µm, hai khe cách nhau 2(mm) và cách màn quan sát 2(m). Tại M cách vân trắng trung tâm 2,5(mm) có bao nhiêu bức xạ cho vân sáng và bước sóng của chúng:\nA: 4 vân sáng; bước sóng tương ứng: 0,625(µm); 0,604(µm); 0,535(µm); 0,426(µm). \n\nB: 2 vân sáng; bước sóng tương ứng: 0,625(µm); 0,535(µm) \n\nC: 3 vân sáng; bước sóng tương ứng: 0,625(µm); 0,500(µm); 0,417(µm) \n\nD: 5 vân sáng; bước sóng tương ứng: 0,625(µm); 0,573(µm); 0,535(µm); 0,426(µm); 0,417(µm) "
+      },
+      {
+            "query": "Một ngọn đèn phát ra ánh sáng đỏ với công suất P = 2W, bước sóng của ánh sáng λ = 0,7 μm. Xác định số phôtôn đèn phát ra trong 1s.\nA. $7,04 \\cdot 10^{18}$ hat\nB. $5,07 \\cdot 10^{20}$ hạt\nC. $7.10^{19}$ hạt\nD. 7.10 $10^{21}$ hat",
+            "pos_similar": "Một đèn laze phát ánh sáng đơn sắc có bước sóng 0,7μm, có công suất phát sáng là P = 1W. Số photon đền laze đó phát ra trong 1 giây bằng\nA: $3,52.10^{18}$\nB: $2,84.10^{19}$\nC: $2,84 \\cdot 10^{-19}$\n$\\mathrm{D}: 3,52.10^{19}$",
+            "neg_similar": "Một bóng đèn có công suất phát xạ là $1 W$, phát ra bức xạ đơn sắc có bước sóng $\\lambda$. Biết rằng trong mối giây bóng đèn đó phát ra $25.10^{18}$ phôtôn, ánh sáng do đèn phát ra là\nA: Bức xạ hồng ngoại  \n\nB: Bức xạ màu tím   \n\nC: Bức xạ từ ngoại     \n\nD: Bức xạ màu đỏ "
+      },
+      {
+            "query": "Giới hạn quang điện của canxi là $\\lambda_0=0,45 \\mu \\mathrm{m}$. Tim công thoát electron ra khỏi bề mặt canxi:\n\nA. $3,12 \\cdot 10^{-19} \\mathrm{~J}$.\nB. $4,5 \\cdot 10^{-19} \\mathrm{~J}$.\nC. $4,42 \\cdot 10^{-19} \\mathrm{~J}$.\nD. $5,51 \\cdot 10^{-19} \\mathrm{~J}$",
+            "pos_similar": "Câu hỏi: giới hạn quang điện của canxi là $\\lambda_0$ $=0,45 \\mu \\mathrm{m}$. Lấy $\\mathrm{h}=6,625 \\cdot 10^{-34} \\mathrm{~J} \\cdot \\mathrm{s} ; \\mathrm{c}=$ $3.10^8 \\mathrm{~m} / \\mathrm{s}$. Công thoát electrôn ra khỏi bề mặt canxi là\n\nA $5,51 \\cdot 10^{-19} \\mathrm{~J}$\nB $4,42 \\cdot 10^{-19} \\mathrm{~J}$.\nC $3,12 \\cdot 10^{-19} \\mathrm{~J}$.\nD $4,53 \\cdot 10^{-19} \\mathrm{~J}$.",
+            "neg_similar": "Công thoát êlectron khỏi mặt kim loại canxi là $2,76 \\mathrm{eV}$. Biết $\\mathrm{h}=6,625 \\cdot 10^{-34} \\mathrm{~J} . \\mathrm{s} ; \\mathrm{c}=3 \\cdot 10^8 \\mathrm{~m} / \\mathrm{s}$ và $1 \\mathrm{eV}=1,6 \\cdot 10^{-}$ ${ }^{19} \\mathrm{~J}$. Giới hạn quang điện của kim loại này là\nA: 0,72μm                   \nB:  0,36μm                      \nC: 0,66μm\nD: 0,45μm"
+      },
+      {
+            "query": "Chất phóng xạ $X$ có chu kì bán rã là $T$. Ban đầu $(t=0)$, một mẫu có $N_0$ hạt nhân $X$. Tại thời điểm $t=3 T$, số hạt nhân $X$ còn lại trong mẫu là\nA. $\\frac{N_0}{9}$.\nB. $\\frac{N_0}{8}$.\nC. $\\frac{N_0}{6}$.\nD. $\\frac{N_0}{3}$.",
+            "pos_similar": "Ban đầu một mẫu chất phóng xạ nguyên chất có $\\mathrm{N}_0$ hạt nhân. Biết chu kỳ bán rã của chất phóng xạ này là $\\mathrm{T}$. Sau thời gian $4 \\mathrm{~T}$, kể từ thời điểm ban đầu, số hạt nhân chưa phân rã của mầu chất phóng xạ này là\n\nA: $(15 / 16) N_0$\n$\\mathrm{B}:(1 / 16) \\mathrm{N}_0$\n$\\mathrm{C}:(1 / 4) \\mathrm{N}_0$\n$D:(1 / 8) N_0$",
+            "neg_similar": "Chất phóng xạ $X$ có chu kì bán rã $\\mathrm{T}$. Ban đầu $(\\mathrm{t}=0)$, một mẫu chất phóng $x a ̣$ X có số hạt là $\\mathrm{N}_0$. Sau khoảng thời gian $\\mathrm{t}=$ $3 \\mathrm{~T}$ (kể từ lúc $\\mathrm{t}=0$ ), số hạt nhân $\\mathrm{X}$ đã bị phân rã là\nA. $0,25 \\mathrm{~N}_0$.\nB. $0,875 \\mathrm{~N}_0$.\nC. $0,75 \\mathrm{~N}_0$.\nD. $0,125 \\mathrm{~N}_0$."
+      },
+      {
+            "query": "Người ta cần truyền một công suất điện 200 kW từ nguồn điện có điện áp 5000 V trên đường dây có điện trở tổng cộng 20 Ω và hệ số công suất bằng 1. Độ giảm thế trên đường dây truyền tải là:\nA. 40 V        B. 400 V        C. 80 V        D. 800 V",
+            "pos_similar": "Người ta cần truyền một công suất điện 200kW từ nguồn điện có điện áp 5000V trên đường dây có điện trở tổng cộng 20 Ω. Tính độ giảm điện thế trên đường dây.\n ",
+            "neg_similar": "Người ta cần truyền tải một công suất 200kw từ nguồn điện có hiệu điện thế 5000V trên đường dây có điện trở suất là 20 Ôm \na, Tính độ giảm thế trên đường dây truyền tải \nb, Tính công suất hao phí trên đường dây\n "
+      },
+      {
+            "query": "Hai điện tích điểm có độ lớn bằng nhau được đặt trong không khí cách nhau 12 cm. Lực tương tác giữa hai điện tích đó bằng 10 N. Đặt hai điện tích đó trong dầu và đưa chúng lại cách nhau 8 cm thì lực tương tác giữa chúng vẫn là 10 N. Tính độ lớn của các điện tích và hằng số điện môi của dầu.\n ",
+            "pos_similar": "Hai điện tích có độ lớn bằng nhau đặt trong không khí cách nhau r = 12 cm thì lực tương tác giữa chúng là F = 10 N. Nếu nhúng chúng vào dầu và đưa chúng cách nhau 8 cm thì lực tương tác giữa chúng vẫn là F’ = 10 N.\na. Xác định độ lớn của hai điện tích đó.\nb. Xác định hằng số điện môi của dầu\n ",
+            "neg_similar": "Hai điện tích điểm đặt cách nhau 2cm trong không khí thì lực hút giữa chúng 7,2.10^-3(N). Nếu đưa vào trong dầu có hằng số điện môi bằng 6 và đồng thời giảm khoảng cách giữa hai điện tích xuống còn 1,5cm thì lực điện bằng bao nhiêu? Tính giá trị mỗi điện tích biết q2=-2q1?\n "
+      },
+      {
+            "query": " Xe khối lượng 2 tấn chuyển động thẳng đều trên mặt đường nằm ngang. Tính lực kéo động cơ biết hệ sô ma sát là 0,01\nA. 1000 N               B. 2000 N               C. 100 N               D. 200 N",
+            "pos_similar": "Xe khối lượng 1 tấn chuyển động thẳng đều trên mặt đường nằm ngang. Tính lực kéo động cơ biết lực ma sát có độ lớn bằng 0,2 lần trọng lượng\nA. 1000 N               B. 2000 N               C. 100 N               D. 200 N",
+            "neg_similar": "Một xe khối lượng m = 1 tấn bắt đầu chuyển động thẳng nhanh dần đều, sau 10s đạt vận tốc 10 m/s. Lực ma sát bằng 0,1 lần trọng lượng xe, lấy g = 10 m/s2. Tính lực kéo động cơ\n "
+      },
+      {
+            "query": "Hai điện tích điểm q1=3.10-8C và q2=-4.10-8C được đặt cách nhau tại hai điểm A,B trong chân không cách nhau 10cm. Hãy tìm các điểm mà tại đó cường độ điện trường bằng không.\n ",
+            "pos_similar": "Hai điện tích điểm q1 = + 3.10-8 C và q2 = -4.10-8 C được đặt cách nhau 10cm trong chân không. Hãy tìm các điểm mà tại đó cường độ điện trường bằng không. Tại các điểm đó có điện trường hay không?\n ",
+            "neg_similar": "Có hai điện tích điểm $q_1=10^{-8} \\mathrm{C}$ và $\\mathrm{q}_2=4 \\cdot 10^{-8}$ đặt cách nhau $\\mathrm{r}=12 \\mathrm{~cm}$. Tính điện thế của điện trường gây ra bởi hai điện tích trên tại điểm có cường độ điện trường bằng không.\n "
+      },
+      {
+            "query": "Một tụ điện phẳng được mắc vào hai cực của một nguồn điện có hiệu điện thế 50 V. Ngắt tụ điện ra khỏi nguồn rồi kéo cho khoảng cách giữa hai bản tụ tăng lên gấp hai lần. Tìm hiệu điện thế của tụ khi đó.\n ",
+            "pos_similar": "Một tụ điện phẵng mắc vào hai cực của một nguồn điện có hiệu điện thế 50 V. Ngắt tụ điện ra khỏi nguồn rồi kéo cho khoảng cách  giữa hai bản tụ tăng lên gấp 2 lần. Hiệu điện thế của tụ điện khi đó là\nA: 50V \n\nB: 100V \n\nC: 200V \n\nD: 400V ",
+            "neg_similar": "Một tụ điện phẳng không khí được tích điện tởi hiệu điện thế U=400V. Tách tụ ra khỏi nguồn nhúng tụ vào trong một điện môi lỏng có $\\varepsilon=4$. Hiệu điện thế giửa hai bản tụ lúc này có giá trị bàng nhiêu:\n A. $25 \\mathrm{~V}$\nB. $100 \\mathrm{~V}$\nC. $300 \\mathrm{~V}$\nD. $1600 \\mathrm{~V}$"
+      },
+      {
+            "query": "Công của lực lạ làm dịch chuyển điện lượng 4C từ cực âm đến cực dương bên trong nguồn điện là 28J. Suất điện động của nguồn là:\nA. 4 V                                      \n\nB. 5 V                                        \n\nC. 6 V                              \n\nD. 7 V",
+            "pos_similar": "Công thức lực lạ làm dịch chuyển điện lượng  4C từ cực âm đến cực dương bên trong nguồn điện là 24J. Suất điện động của nguồn là\n ",
+            "neg_similar": "Suất điện động của acquy là 6V. Tính công của lực lạ khi làm dịch chuyến một điện tich,8C bên trong một nguồn điện từ cực âm đến cực dương \n "
+      },
+      {
+            "query": "Một dây kim loại dài 1 m, đường kính 1 mm, có điện trở 0,4 Ω. Chiều dài của một dây cùng chất đường kính 0,4 mm khi dây này có điện trở 125 Ω là\nA. 40 m.             B. 50 m.\n\nC. 60 m.             D. 70 m.",
+            "pos_similar": "Một dây kim loại dài 1m, tiết diện 1,5 mm2 có điện trở 0,3Ω. Tính chiều dài của một dây đồng chất  đường kính tiết diện 0,4 mm có điện trở 125Ω.\n ",
+            "neg_similar": "Một sợi dây làm bằng kim loại dài ℓ1 = 300m, có tiết diện S1= 0,4mm2 và có điện trở R1= 60Ω. Hỏi một dây khác làm bằng kim loại đó có chiều dài ℓ2= 60m, có điện trở R2= 30Ω thì có tiết diện S2 là bao nhiêu?\nA.S2= 0,8mm2.\nB.S2= 0,16mm2.\nC.S2= 1,6mm2.\nD.S2= 1,8mm2."
+      },
+      {
+            "query": "Một bình điện phân dung dịch CuSO4 có anốt làm bằng đồng, điện trở của bình điện phân R = 8 (Ω), được mắc vào hai cực của bộ nguồn E = 9 (V), điện trở trong r =1 (Ω). Khối lượng Cu bám vào catốt trong thời gian 5 h có giá trị là:\nA. 5 (g).              B. 10,5 (g).\n\nC. 5,97 (g).             D. 11,94 (g).",
+            "pos_similar": "Một bình điện phân chứa dung dịch CuSO4 có anot làm bằng đồng được mắc vào hai cực của một nguồn điện có suất điện động E = 9V, điện trở trong $\\mathrm{r}=1 \\Omega$. Biết binh điện phân có điện trở là $\\mathrm{R}_{\\mathrm{p}}=8 \\Omega, \\mathrm{F}=96500 \\mathrm{C} / \\mathrm{mol}, \\mathrm{A}_{\\mathrm{Cu}}=64, \\mathrm{n}_{\\mathrm{Cu}}=2$. Xác định khối lượng Cu bạm vào catốt sau khoảng thời gian là 5 giờ.\n ",
+            "neg_similar": "Một bộ nguồn điện gồm 10 pin, mỗi pin có suất điện động 1,5V , điện trở trong 0,2 ôm ghép nối tiếp với nhau. Một bình điện phân dung dịch CuSO4 có điện trở R=29 ôm được mắc vào hai cực của bộ nguồn điện trên. Tính lượng đồng bám vào catot của bình điện phân trong thời gian 16 phút 5 giây.\n\n "
+      },
+      {
+            "query": "Một đoạn dây dẫn dài 5cm đặt trong từ trường đều và vuông góc với vecto cảm ứng từ. Dòng điện chạy qua dây có cường độ 0,75A. Lực từ tác dụng lên dây có giá trị 3.10-2 N. Hãy xác định cảm ứng từ của từ trường.\n ",
+            "pos_similar": "Một đoạn dây dẫn dài 10 cm đặt trong từ trường đều và vuông góc với vectơ cảm ứng từ. Dòng điện chạy qua dây dẫn có cường độ 1,5 A. Lực từ tác dụng lên đoạn dây đó là 3.10-2 N. Tính độ lớn cảm ứng từ?\n ",
+            "neg_similar": "Một đoạn dây dẫn thẳng MN dài 6 (cm) có dòng điện I = 5 (A) đặt trong từ trường đều có cảm ứng từ B = 0,5 (T). Lực từ tác dụng lên đoạn dây có độ lớn F = 7,5.10-2(N). Tính góc   hợp bởi dây MN và đường cảm ứng từ.\n "
+      },
+      {
+            "query": " Một dòng điện chạy trong dây dẫn thẳng, dài. Tại điểm A cách dây 10 $(\\mathrm{cm})$ cảm ứng từ do dòng điện gây ra có độ lớn $2 \\cdot 10^{-5}(\\mathrm{~T})$. Cường độ dòng điện chạy trên dây là:\nA. 10 (A).\n\nB. 20 (A).\n\nC. 30 (A).\n\nD. 50 (A).",
+            "pos_similar": "Một dòng điện chạy trong dây dẫn thẳng, dài. Tại điểm A cách dây $10(\\mathrm{~cm})$ cảm ứng từ do dòng điện gây ra có độ lớn $2 \\cdot 10^{-5}(\\mathrm{~T})$. Cường độ dòng điện chạy trên dây là?\n ",
+            "neg_similar": "Một dòng điện có cường độ I = $5(\\mathrm{~A})$ chạy trong một dây dẫn thắng, dài. Cảm ứng từ do dòng điện này gây ra tại điểm $\\mathrm{M}$ có độ lớn $\\mathrm{B}=4 \\cdot 10^{-5}(\\mathrm{~T})$. Điểm $\\mathrm{M}$ cách dây một khoảng ?\n "
+      },
+      {
+            "query": "Một hình vuông cạnh $5 \\mathrm{~cm}$ đặt trong từ trường đều có cảm ứng từ $\\mathrm{B}=$ $8.10^{-4} \\mathrm{~T}$. Từ thông qua hình vuông đó bằng $10^{-6} \\mathrm{~Wb}$. Góc hợp bởi véc - tơ cảm ứng từ với mặt phẳng của hình vuông đó là\n\nA. $30^{\\circ}$.\nB. $45^{\\circ}$.\nC. $60^{\\circ}$.\nD. $0^{\\circ}$",
+            "pos_similar": "Một hình vuông cạnh 5cm đặt trong từ trường đều có cảm ứng từ B = 4.10–4 T, từ thông qua hình vuông đó bằng 5.10–7 WB. Tính góc hợp bởi véctơ cảm ứng từ và véc tơ pháp tuyến của hình vuông đó\n ",
+            "neg_similar": "Một khung dây phẳng có diện tích 10cm2 đặt trong từ trường đều, mặt phẳng khung dây hợp với đường cảm ứng từ một góc 30o. Độ lớn từ thông qua khung là 3.10-5 Wb. Cảm ứng từ có giá trị\n "
+      },
+      {
+            "query": " Tính độ tự cảm của cuộn dây biết sau thời gian Δt = 0,01 s, dòng điện trong mạch tăng đều từ 2 đến 2,5 A và suất điện động tự cảm là 0,10 V?\nA. $10^{-3} \\mathrm{H}$.\nB. $2 \\cdot 10^{-3} \\mathrm{H}$.\nC. $2,5 \\cdot 10^{-3} \\mathrm{H}$.\nD. $3 \\cdot 10^{-3} \\mathrm{H}$.",
+            "pos_similar": "Tính độ tự cảm của ống dây, biết sau khoảng thời gian ∆t=0.01s, dòng điện trong mạch tăng từ 1A đến 2.5A và suất điện động cảm ứng là 30V\n ",
+            "neg_similar": "Câu 1: Trong thời gian $\\Delta t=0,01 s$, dòng điện trong một mạch kín tăng đều từ $2 A$ đến $2,5 A$, độ tự cảm của cuộn dây là $2 \\cdot 10^{-3} H$, suất điện động cảm tự cảm xuất hiện trong mạch có độ lớn là:\n\nA. $0,05 \\mathrm{~V}$\nB. $0,2 \\mathrm{~V}$\nC. $0,1 \\mathrm{~V}$\nD. $0,5 \\mathrm{~V}$"
+      },
+      {
+            "query": "Bài 6: Khi chiếu ánh sáng đơn sắc từ một không khí vào một khối chất trong suốt với góc tới $60^{\\circ}$ thì góc khúc xạ là $30^{\\circ}$. Khi chiếu cùng ánh sáng đơn sắc đó từ khối chất đã cho ra không khí với góc tới $30^{\\circ}$ thì góc khúc xạ\n\nA. nhỏ hơn $30^{\\circ}$.\nB. lớn hơn $60^{\\circ}$.\nC. bằng $60^{\\circ}$.\nD. không xác định được.",
+            "pos_similar": "Nếu tia sáng truyền từ môi trường 1 qua môi trường 2 với góc tới 60 thì góc khúc xạ là 30. Nếu ánh sáng truyền từ môi trường 2 qua môi trường 1 với góc tới 30 thì góc khúc xạ bằng\n ",
+            "neg_similar": "Một tia sáng truyền từ môi trường $\\mathrm{A}$ vào môi trường $\\mathrm{B}$ dưới góc tới $9^{\\circ}$ thì góc khúc xạ là $8^{\\circ}$. Khi góc tới là $60^{\\circ}$ thì góc khúc xạ là?\n\nA. $47,3^{\\circ}$.\nB. $56,4^{\\circ}$.\nC. $50,4^{\\circ}$.\nD. $58,7^{\\circ}$."
+      },
+      {
+            "query": "Một viên bi chuyển động thẳng nhanh dần đều không vận tốc đầu trên máng nghiêng và trong giây thứ năm nó đi được quãng đường bằng 1,8m. Gia tốc của viên bi chuyển động trên máng nghiêng là:\nA. $0,4 \\mathrm{~m} / \\mathrm{s}^2$\nB. $0,5 \\mathrm{~m} / \\mathrm{s}^2$\nC. $2 \\mathrm{~m} / \\mathrm{s}^2$\nD. $2,5 \\mathrm{~m} / \\mathrm{s}^2$",
+            "pos_similar": "Một viên bi chuyển động thẳng nhanh dần đều không vận tốc đầu trên máng nghiêng và trong giây thứ 5 nó đi được quãng đường bằng 1,8 m gia tốc của viên bi chuyển động trên máng nghiêng là\n ",
+            "neg_similar": "một viên bi chuyển động thẳng nhanh dần đều không vận tốc đầu trên máng nghiêng và trong giây thứ năm nó đi được quãng đường bằng 36cm.\na) Tính gia tốc của viên bi?\nb)tính quãng đường viên bi đi được sau 5s kể từ khi nó  bắt đầu chuyển động?\n\n "
+      },
+      {
+            "query": "Một hợp lực 1,0 N tác dụng vào một vật có khối lượng 2,0 kg lúc đầu đứng yên , trong khoảng thời gian 2,0 s. Quãng đường mà vật đi được trong khoảng thời gian đó là\nA. 0.5 m.\n\nB. 2.0 m.\n\nC. 1.0 m.\n\nD. 4.0 m.",
+            "pos_similar": "Một hợp lực 2 N tác dụng vào một vật có khối lượng 2 kg lúc đầu đứng yên, trong khoảng thời gian 2 s. Đoạn đường mà vật đó đi được trong khoảng thời gian đó là\n ",
+            "neg_similar": "một hợp lực 1N tác dụng vào một vật có khối lượng 2kg lúc đầu đứng yên trong khoảng thời gian 2s tính gia tốc và quãng đường vật đi trong 2s vẽ vecto hợp lực tác dụng lên vật vecto gia tốc\n "
+      },
+      {
+            "query": "Một gàu nước có khối lượng 15 kg được kéo cho chuyển động thẳng đều lên độ cao 5m trong khoảng thời gian 1 phút 15 giây. Tính công suất trung bình của lực kéo. Lấy g = 10 m/s2.\n ",
+            "pos_similar": "một gàu nước có khối lượng 6kg được kéo cho chuyển động đều lên độ cao 5m trong khoảng thời gian là 1p40s ( lấy g=10m/s ²). công suất trung bình của lực kéo là bao nhiêu ?\n\n ",
+            "neg_similar": "Một gàu nước khối lượng 12 kg được kéo cho chuyển động đều lên độ cao 5 m trong khoảng thời gian t giây (lấy g = 10 m/s2). Công suất trung bình của lực kéo là 6 W. Thời gian t là\nA: 120s\nB. 100ms\nC. 100s\nD. 50s"
+      },
+      {
+            "query": "Một vật có khối lượng m = 2kg đang nằm yên trên một mặt phẳng nằm ngang không ma sát. Dưới tác dụng của lực 10 N vật chuyển động và đi được 10 m. Vận tốc của vật ở cuối chuyển dời ấy:\nA. v = 25 m/s               B. v = 7,07 m/s               C. v = 10 m/s               D. v = 50 m/s",
+            "pos_similar": "Một vật khối lượng m = 2 kg đang nằm yên trên một mặt phẳng ngang không ma sát. Dưới tác dụng của lực nằm ngang 5 N, vật chuyển động và đi được 10 m. Tính vận tốc của vật ở cuối chuyển dời ấy.\n ",
+            "neg_similar": "Một vật có khối lượng m = 2kg đang nằm yên trên mặt phẳng ngang không ma sát. Dưới tác dụng của lực nằm ngang 5N vật chuyển động và đi được  10m. Tính động năng và vận tốc của vật ở cuối chuyển dời ấy.\n\n "
+      },
+      {
+            "query": "Một khối khí lí tưởng xác định có áp suất 1 atm được làm tăng áp suất lên 4 atm ở nhiệt độ không đổi thì thể tích biến đổi một lượng là 3 lít. Thể tích ban đầu của khối khí là:\nA. 4 lít.\n\nB. 8 lít.\n\nC. 12 lít.\n\nD. 16 lít.",
+            "pos_similar": "Một khối lượng khí lí tưởng xác định có áp suất 2atm được làm tăng áp suất lên đến 8atm ở nhiệt độ không đổi thì thể tích biến đổi một lượng là 3 lít. Thể tích ban đầu của khối khí là\nB. 8 lít\n\n C. 12 lít\n\n D. 16 lít",
+            "neg_similar": "Một khối khí ban đầu có thể tích 6 lít ở áp suất 4,5 atm. Người ta để khối khí dãn ra ở nhiệt độ không đổi sao cho thể tích tăng thêm 2 lít. Tính áp suất của khối khí.\n "
+      },
+      {
+            "query": " Nếu tăng hiệu điện thế giữa hai đầu một dây dẫn lên 3 lần thì cường độ dòng điện chạy qua dây dẫn này thay đổi như thế nào?\nA. Giảm 3 lần\n\nB. Tăng 3 lần\n\nC. Không thay đổi\n\nD. Tăng 1,5 lần",
+            "pos_similar": "Nếu tăng hiệu điện thế giữa hai đầu một dây dẫn lên 4 lần thì cường độ dòng điện chạy qua dây dẫn này thay đổi như thế nào?\nA. Tăng 4 lần \n2. Giảm 4 lần \n3. Tăng 2 lần \n4. Giảm 2 lần ",
+            "neg_similar": "Khi thay đổi hiệu điện thế giữa hai đầu dây dẫn thì cường độ dòng điện chạy qua dây dẫn đó có mối quan hệ:\nA. tỉ lệ thuận với hiệu điện thế giữa hai đầu dây dẫn đó.\n B. tỉ lệ nghịch với hiệu điện thế giữa hai đầu dây dẫn đó.\nC. chỉ tỉ lệ khi hiệu điện thế giữa hai đầu dây dẫn đó tăng.\nD. chỉ tỉ lệ khi hiệu điện thế giữa hai đầu dây dẫn đó giảm.\n"
+      },
+      {
+            "query": "Một bóng đèn dây tóc ở nhiệt độ 20 độ C có điện trở 11Ω. Tính chiều dài dây tóc biết tiết diện tròn của dây có bán kính 0,02 mm và dây làm bằng vonfram có điện trở suất 5,5.10^-8.\n ",
+            "pos_similar": "Một sợi dây tóc bóng đèn làm bằng vonfram ở nhiệt độ trong phòng có điện trở 25Ω, có tiết diện tròn bán kính 0,01mm. Biết vonfram có điện trở suất 5,510^−8Ωm? Hỏi chiều dài của dây tóc này là bao nhiêu?\n ",
+            "neg_similar": "Người ta dùng dây đồng tiết diện tròn bán kính 0,4 mm để cuốn thành một cuộn dây. Khi mắc cuộn dây vào hiệu điện thế 12V thì cường độ dòng điện chạỵ qua cuộn dây là 2 A. Biết điện trở suất của đồng là ρ=1,7.10^−8Ω.m. Tính chiều dài đoạn dây đã sử dụng để quấn cuộn dây?\n "
+      },
+      {
+            "query": " Thấu kính hội tụ là loại thấu kính có\nA. phần rìa dày hơn phần giữa.\n\nB. phần rìa mỏng hơn phần giữa.\n\nC. phần rìa và phần giữa bằng nhau.\n\nD. hình dạng bất kì.",
+            "pos_similar": " Thấu kính hội tụ là loại thấu kính có\nA. Phần rìa và phần giữa bằng nhau\nB. Phần rìa dày hơn phần giữa\nC. Phần rìa mỏng hơn phần giữa\nD. Hình dạng bất kì.",
+            "neg_similar": "Thấu kính phân kì là thấu kính có \nA. Có phần rìa dày hơn phần giữa\nB. Có phần rìa mỏng hơn phần giữa \nC. Biến chùm tia tới song song thành chùm tia ló hội tụ \nD. Có thể làm bằng chất rắn không trong suốt "
+      },
+      {
+            "query": "Nếu đồng thời tăng cường độ dòng điện và thời gian dòng điện qua một dây dẫn lên 2 lần thì nhiệt lượng tỏa ra trên dây dẫn đó \nA. tăng 16 lần.\nB.tăng 2 lần.\nC.tăng 4 lần.\nD.tăng 8 lần..",
+            "pos_similar": "Nếu đồng thời tăng cường độ dòng điện và thời gian dòng điện qua một dây dẫn lên 2 lần thì nhiệt lượng tỏa ra trên dây dẫn đó\nA. Tăng 2 lần.           \n\nB. Tăng 4 lần        \n\nC. Tăng 8 lần      \n\nD. Tăng 16 lần ",
+            "neg_similar": "Phát biểu nào sau đây là không đúng? Nhiệt lượng tỏa ra trên vật dẫn \nA. Tỉ lệ thuận với điện trở của vật.\n\nB. Tỉ lệ thuận với thời gian dòng điện chạy qua vật.\n\nC. Tỉ lệ với bình phương cường độ dòng điện chạy qua vật.\n\nD. Tỉ lệ nghịch với hiệu điện thế giữa hai đầu vật dẫn."
+      },
+      {
+            "query": "Đặt nguồn điện một chiều có hiệu điện thế U=3,6V\n vào hai đầu một điện trở có R=6Ω. Tính cường độ dòng điện chạy trong mạch.\n ",
+            "pos_similar": "Đặt vào hai đầu điện trở R= 10  một hiệu điện thế  U= 6V thì cường độ dòng điện chạy qua điện trở là:\nA. 60A.                          \nB. 12A.                   \nC. 9A.                  \nD. 0,6A.",
+            "neg_similar": " Đặt một hiệu điện thế U = 3,6V vào hai đầu một điện trở thì có dòng điện I = 0,6A đi qua điện trở. Tính giá trị của điện trở.\n "
+      },
+      {
+            "query": "Một máy biến thế hạ thế cần hạ hiệu điện thế từ 15kV xuống 220V. Cuộn sơ cấp của máy biến thế có 300000 vòng. Hỏi số vòng dây của cuộn thứ cấp là bao nhiêu?\n ",
+            "pos_similar": "Một máy biến thế trong nhà cần hạ HĐT từ 220V xuống còn 30V. Cuộn sơ cấp có 2200 vòng. Hỏi thứ cấp có bao nhiêu vòng?\n ",
+            "neg_similar": "Cuộn sơ cấp của máy biến thế có 4400 vòng, cuộn thứ cấp có 240 vòng. Khi đặt vào hai đầu cuộn sơ cấp một hiệu điện thế xoay chiều 220V thì ở hai đầu dây cuộn thứ cấp có hiệu điện thế là bao nhiêu?\n "
+      },
+      {
+            "query": "Để truyền tải một công suất điện bằng 200MW đi xa bằng dây tải điện có điện trở tổng cộng là 20Ω và hiệu điện thế đặt vào hai đầu dây tải điện là 500kV thì công suất hao phí điện do tỏa nhiệt trên đường dây là bao nhiêu?\n ",
+            "pos_similar": "Truyền tải công suất điện 200Mw từ nguồn đến nơi tiêu thụ bằng cách dùng dây dẫn có điện trở tổng cộng 20 Ω. Hiệu điện thế ở hai đầu đường trước khi truyền tải là 400kV. Tính công suất hao phí do toả nhiệt trên đường dây.\n ",
+            "neg_similar": "Người ta truyền tải một công suất điện 100kW bằng một đường dây dẫn có điện trở R thì công suất hao phí trên đường dây truyền tải điện là 0,5kW. Hiệu điện thế giữa hai đầu dây tải điện là 10kV. Điện trở của dây dẫn là bao nhiêu?\n "
+      },
+      {
+            "query": "Hiện tượng khúc xạ ánh sáng là hiện tượng tia sáng tới khi gặp mặt phân cách giữa hai môi trường\nA. bị hắt trở lại môi trường cũ.\n\nB. tiếp tục đi vào môi trường trong suốt thứ hai \n\nC. tiếp tục đi thẳng vào môi trường trong suốt thứ hai \n\nD. bị gãy khúc tại mặt phân cách giữa hai môi trường và đi vào môi trường trong suốt thứ hai.",
+            "pos_similar": "Hiện tượng khúc xạ ánh sáng là hiện tượng tia sáng tới khi gặp mặt phân cách giữa hai môi trường:\nA. bị hắt trở lại môi trường cũ.\n\nB. bị hấp thụ hoàn toàn và không truyền đi vào môi trường trong suốt thứ hai.\n\nC. tiếp tục đi thẳng vào môi trường trong suốt thứ hai.\n\nD. bị gãy khúc tại mặt phân cách giữa hai môi trường và đi vào môi trường trong suốt thứ hai.",
+            "neg_similar": "Hiện tượng khúc xạ là hiện tượng\nA. ánh sáng bị gãy khúc khi truyền xiên góc qua mặt phân cách giữa hai môi trường trong suốt.\n\nB. ánh sáng bị giảm cường độ khi truyền qua mặt phân cách giữa hai môi trường trong suốt.\n\nC. ánh sáng bị hắt lại môi trường cũ khi truyền tới mặt phân cách giữa hai môi trường trong suốt.\n\nD. ánh sáng bị thay đổi màu sắc khi truyền qua mặt phân cách giữa hai môi trường trong suốt."
+      },
+      {
+            "query": "Bộ phận quan trọng nhất của mắt là:\nA. thể thủy tinh và thấu kính.\n\nB. thể thủy tinh và màng lưới.\n\nC. màng lưới và võng mạc.\n\nD. con ngươi và thấu kính.",
+            "pos_similar": "Xét về mặt quang học, hai bộ phận quan trọng nhất của mắt là:\nA. Giác mạc và lông mi.                          \nB. Thể thủy tinh và màng lưới.\nC. Thể thủy tinh                                       \nD. Giác mạc và con ngươi.",
+            "neg_similar": "Xét về mặt quang học, hai bộ phận quang trọng nhất của mắt là gì? Hai bộ phận đó tương tự những bộ phận nào trong máy ảnh?\n "
+      },
+      {
+            "query": "Thấu kính hội tụ có tiêu cự nào dưới đây không thể dùng làm kính lúp được \nA. 10cm\nB. 15 cm\nC. 20 cm\nD. 25 cm ",
+            "pos_similar": "Thấu kính hội tụ có tiêu cự nào dưới đây không thể dùng làm kính lúp được \nA. 25 cm\nB. 14 cm\nC. 3 cm\nD. 9 cm ",
+            "neg_similar": "Thấu kính có tiêu cự nào sau đây có thể dùng làm kính lúp \nA. 25cm\nB. 15cm\nC. 35 cm\nD. 30 cm"
+      },
+      {
+            "query": "Nguồn sáng nào sau đây không phải nguồn cho ánh sáng trắng?\nA. Ánh sáng Mặt Trời \nB. Ánh sáng đèn dây tóc\nC. Ánh sáng đèn măng - sông\nD. Ánh sáng đèn LED",
+            "pos_similar": "Trong số các nguồn sáng sau, nguồn sáng nào không phát ra ánh sáng trắng?\nA. Bóng đèn pin đang sáng.   \nB. Bóng đèn ống thông dụng.\nC. Một đèn LED.                                          \nD. Một ngôi sao.",
+            "neg_similar": "Nguồn sáng nào dưới đây phát ánh sáng màu?\nA. Đèn led\n\nB. Đèn ống thường dùng\n\nC. Đèn pin\n\nD. Ngọn nến"
+      },
+      {
+            "query": " Đơn vị nào dưới dây là đơn vị đo điện trở?\nA. Ôm  (Ω)                                                     \n\nB. Oát (W)\n\nC. Ampe (A)                                                  \n\nD. Vôn (V)",
+            "pos_similar": "Đơn vị nào dưới đây là đơn vị đo điện trở?\nA. Ampe (A)\nB. Oát (W)\nC. Ôm (Ω)   \nD. Vôn (V) ",
+            "neg_similar": "\nĐiện trở không thể đo bằng đơn vị nào dưới đây?\nA. Ôm (Ω)\nB. Kiloôm (kΩ)\nC. Ampe (A)\nD. Mêgaôm (MΩ)"
+      },
+      {
+            "query": " Một đoạn mạch AB điện gồm 3 điện trở R1= 2Ω, R2= 5Ω, R3= 3Ω mắc nối tiếp. Cường độ dòng điện chạy qua mạch là 1,2A. Hiệu điện thế hai đầu mạch AB là:\nA. 10V\n\nB. 11V\n\nC. 12V\n\nD. 13V",
+            "pos_similar": "Một mạch điện gồm 3 điện trở R1= 2Ω, R2= 5Ω, R3= 3Ω mắc nối tiếp. Cường độ dòng điện chạy qua mạch là 1,2A. Hiệu điện thế hai đầu mạch U là:\nA. 10V\n\nB. 11V\n\nC. 12V\n\nD. 13V",
+            "neg_similar": "Một mạch điện gồm 3 điện trở R1= 2Ω, R2= 5Ω, R3= 3Ω được mắc nối tiếp với nhau. HIệu điện thế giữa hai đầu đoạn mạch là 6V.\na. Tinhd điện trở của đoạn mạch \nb. Tính cường độ dòng điện chạy qua mạch \n "
+      },
+      {
+            "query": "Việc làm nào dưới đây không cần dùng tới lực?\nA. Cầm bút viết bài\n\nB. Chơi nhảy dây\n\nC. Bế em bé\n\nD. Đọc một trang sách",
+            "pos_similar": "Công việc nào dưới đây không cần dùng đến lực?\nA. Xách 1 xô nước.\n\nB. Nâng một tấm gỗ.\nC. Đẩy 1 chiếc xe.\nD. Đọc một trang sách.",
+            "neg_similar": "Hoạt động nào dưới đây cần dùng đến lực?\nA. Nâng một tấm gỗ.\nB. Đọc một trang sách.\nC. Nhìn một vật cách xa 10m.\nD. Nghe một bài hát."
+      },
+      {
+            "query": "Trong các trường hợp sau đây, trường hợp nào xuất hiện lực tiếp xúc?\nA. Hai thanh nam châm hút nhau.\n\nB. Hai thanh nam châm đẩy nhau.\n\nC. Mặt Trăng quay quanh Trái Đất.\n\nD. Mẹ em ấn nút công tắc bật đèn.",
+            "pos_similar": "Trường hợp nào sau đây liên quan đến lực tiếp xúc?\nA. Một hành tinh trong chuyển động xung quanh một ngôi sao.\n\nB. Một vận động viên nhảy dù rơi trên không trung.\n\nC. Thủ môn bắt được bóng trước khung thành.\n\nD. Quả táo rơi từ trên cây xuống.",
+            "neg_similar": "Trong các trường hợp sau đây, trường hợp nào xuất hiện lực không tiếp xúc?\nA. Em bé đẩy cho chiếc xe đồ chơi rơi xuống đất \nB. Gió thổi làm thuyền chuyển động \nC. Cầu thủ đá quả bóng bay vào gôn \nD. Quả táo rơi từ trên cây xuống "
+      },
+      {
+            "query": "Bạn A chạy 120 m hết 35 s. Bạn B chạy 140 m hết 40 s. Ai chạy nhanh hơn?\n ",
+            "pos_similar": "Bạn A chạy 120m hết 35 giây. Bạn B chạy 140m hết 40 giây. Ai chạy nhanh nhất?\n ",
+            "neg_similar": "Trong cuộc thi chạy 80m, Nam chạy hết 13\n phút, Bình chạy hết 14\n phút. Hỏi ai chạy nhanh hơn và nhanh hơn mấy giây?\nA.Bình chạy nhanh hơn Nam 5 giây\n\nB.Bình chạy nhanh hơn Nam 8 giây\n\nC.Nam chạy nhanh hơn Bình 8 giây\n\nD.Nam chạy nhanh hơn Bình 5 giây\n\n"
+      },
+      {
+            "query": "Trong những vật dưới đây, vật nào phản xạ âm tốt, phản xạ âm kém: Ghế đệm mút; mặt gương; tấm xốp; rèm nhung; mặt đá hoa; mặt tường gạch; tấm kim loại; tấm bìa; mặt nước.\n ",
+            "pos_similar": "Trong những vật sau đây, vật nào phản xạ âm tốt, vật nào phản xạ âm kém? Miếng xốp, mặt gương, áo len, mặt đá hoa, ghế đệm mút, tấm kim loại, cao su xốp, tường gạch\n ",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Những vật có khả năng hấp thụ âm tốt là những vât:\nA. Phản xạ âm tốt.\nB. Có bề mặt nhẵn, cứng \nC. Phản xạ âm kém \nD. Mềm và phẳng ",
+            "pos_similar": "Những vật hấp thụ âm tốt là vật\nA. có bề mặt nhắn, cứng.\n\nB. sáng, phẳng.\n\nC. phản xạ âm kém.\n\nD. phản xạ âm tốt.",
+            "neg_similar": "Những vật nào sau đây hấp thụ âm tốt ?\n  A. Thép, gỗ, vải\n\n   B. Bêtông, sắt, bông\n\n   C. Đá, sắt, thép\n\n   D. Vải, nhung, dạ"
+      },
+      {
+            "query": "Chọn câu trả lời đúng. Ảnh của một một vật qua một gương phẳng luôn là:\nA. Ảnh thật, cùng chiều và nhỏ hơn vật\n\nB. Ảnh thật cùng chiều và bằng vật, đối xứng nhau qua gương\n\nC. Ảnh ảo, cùng chiều, bằng vật, đối xứng nhau qua gương\n\nD. Ảnh ảo, ngược chiều, lớn hơn vật",
+            "pos_similar": "Chọn câu trả lời đúng. Ảnh của một một vật qua một gương phẳng luôn là:\nA. Ảnh ảo, bằng vật, đối xứng nhau qua gương \n\nB. Ảnh ảo, cùng chiều, bằng vật, đối xứng nhau qua gương\nC. Ảnh thật, cùng chiều, nhỏ hơn vật\nD. Ảnh thật, cùng chiều và bằng vật, đối xứng nhau qua gương ",
+            "neg_similar": "Một gương phẳng đặt vuông góc với mặt sàn. Một người cao 1,5m đứng trước gương. Hỏi ảnh của người đó có chiều cao bao nhiêu.\n\nA. 1m\nB. 1,5 m\nC. 2 m\nD. 3m"
+      },
+      {
+            "query": "Nói về tính chất ảnh của một vật tạo bởi gương phẳng, câu phát biểu nào dưới đây là đúng?\nA. Hứng được trên màn và lớn bằng vật\nB. Không hứng được trên màn và bé hơn vật\nC. Không hứng được trên màn và lớn bằng vật..\nD. Hứng được trên màn và lớn hơn vật",
+            "pos_similar": "Ảnh của một vật tạo bởi gương phẳng có tính chất nào dưới đây?\nA. Hứng được trên màn và lớn bằng vật\nB. Không hứng được trên màn\nC. Không hứng được trên màn và lớn bằng vật\nD. Cách gương một khoảng bằng khoảng cách từ vật đến gương.\n\n",
+            "neg_similar": "Ảnh của một vật tạo bởi gương cầu lồi là:\nA. Ảnh ảo hứng được trên màn\n\nB. Ảnh thật hứng được trên màn \n\nC. Ảnh ảo không hứng được trên màn\n\nD. Ảnh thật không hứng được trên màn"
+      },
+      {
+            "query": "Bề mặt nào dưới đây không thể xảy ra hiện tượng phản xạ ánh sáng?\nA. Mặt vải thô.\n\nB. Nền đá hoa.\n\nC. Giấy bạc.\n\nD. Mặt bàn thủy tinh.",
+            "pos_similar": "Hiện tượng phản xạ ánh sáng không thể xảy ra trên bề mặt nào?\nA. Mặt gương phẳng \nB. Nền đá hoa \nC. Mặt hồ phẳng lặng \nD. Mặt giấy bìa ",
+            "neg_similar": "Trường hợp nào dưới đây xảy ra hiện tượng phản xạ ánh sáng?\nA. Ánh sáng chiếu tới mặt gương \nB. Ánh sáng chiếu tới tờ giấy\nC. Ánh sáng chiếu tới tầm thảm len \nD. Ánh sáng chiếu tới bức tường \n"
+      },
+      {
+            "query": "Vật phát ra âm cao hơn khi nào?\nA. Khi vật dao động mạnh hơn.\nB. Khi vật dao động chậm hơn.\nC. Khi vật bị lệch ra khỏi vị trí cân bằng nhiều hơn.\nD. Khi tần số dao động lớn hơn.",
+            "pos_similar": "Vật phát ra âm cao hơn khi nào?\nA. Khi vật lêch ra vị trí cân bằng nhiều hơn \nB. Khi tần số dao động lớn hơn \nC. Khi vật dao động chậm hơn \nD. Khi vật dao động mạnh hơn ",
+            "neg_similar": "Vật phát ra âm to hơn khi nào?\n  A. Khi vật dao động nhanh hơn.\n\n   B. Khi vật dao động mạnh hơn.\n\n   C. Khi tần số dao động lớn hơn.\n\n   D. Cả 3 trường hợp trên."
+      },
+      {
+            "query": "Trong 20s một lá thép thực hiện được 5000 dao động. Hỏi tần số dao động của lá thép là bao nhiêu?\nA. 500 Hz.\n\nB. 20 Hz.\n\nC. 250 Hz.\n\nD. 100 000 Hz.",
+            "pos_similar": "Trong (20 ) giây, một lá thép thực hiện được (5000 ) dao động. Tần số dao động của lá thép có giá trị là:\nA. 20 Hz\n\nB. 250 Hz\n\nC. 5000 Hz\n\nD.10000 Hz",
+            "neg_similar": "Một vật thực hiện dao động với tần số 8 Hz. Hỏi trong 15 giây vật thực hiện được bao nhiêu dao động?\nA. 15 dao động.\n\nB. 20 dao động.\n\nC. 12 dao động.\n\nD. 120 dao động."
+      },
+      {
+            "query": "Nam châm có thể hút được các vật liệu nào sau đây?\nA. NIken \nB. Đồng\nC. Nhôm\nD. Thủy tinh",
+            "pos_similar": "Nam châm có thể hút vật nào sau đây?\nA. Nhôm \nB. Đồng \nC. Gỗ \nD. Thép ",
+            "neg_similar": "Vật liệu bị nam châm hút gọi là vật liệu gì?\nA. Vật liệu bị hút.\n\nB. Vật liệu có từ tính.\n\nC. Vật liệu có điện tính.\n\nD. Vật liệu bằng kim loại."
+      },
+      {
+            "query": "Cân một túi gạo, kết quả là 2089 g. ĐCNN của cân đã dùng là?\nA. 1 g\n\nB. 2 g\n\nC. 3 g\n\nD. 5 g",
+            "pos_similar": "Cân một túi hoa quả, kết quả là 14533 g. Độ chia nhỏ nhất của cân đã dùng là: \nA. 1g\nB. 5g\nC. 10g\nD. 100g ",
+            "neg_similar": "Khi đo khối lượng của một vật bằng một cái cân có ĐCNN là 10g. Kết quả nào sau đây là đúng?\nA. 298 g      \nB. 302 g      \nC. 3000 g      \nD. 305 g"
+      }
+]

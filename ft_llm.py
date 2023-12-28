@@ -288,11 +288,18 @@ def train(
     ddp = world_size != 1
     if ddp:
         device_map = {"": int(os.environ.get("LOCAL_RANK") or 0)}
-        gradient_accumulation_steps = gradient_accumulation_steps // world_size
-
+        gradient_accumulation_steps = gradient_accumulation_steps // world_size    
     set_seed(seed)
 
     config = None
+    
+    auth_config = {}
+    if "PhoGPT" in base_model:
+        auth_config = {
+            # "token": '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',
+            "trust_remote_code": True,
+            "use_auth_token": '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'
+        }
 
     if load_kbit == 4:
         from transformers import BitsAndBytesConfig
@@ -304,14 +311,15 @@ def train(
                 load_in_4bit=True,
                 llm_int8_threshold=6.0,
                 llm_int8_has_fp16_weight=False,
-                #bnb_4bit_compute_dtype=torch.bfloat16,
-                bnb_4bit_compute_dtype=torch.float32,
+                bnb_4bit_compute_dtype=torch.bfloat16,
+                # bnb_4bit_compute_dtype=torch.float32,
                 bnb_4bit_use_double_quant=True,
                 bnb_4bit_quant_type='nf4',
             ),
-            #torch_dtype=torch.bfloat16,
-            torch_dtype=torch.float32,
+            torch_dtype=torch.bfloat16,
+            # torch_dtype=torch.float32,
             device_map=device_map,
+            **auth_config
         )
     else:
         model = AutoModelForCausalLM.from_pretrained(
@@ -319,22 +327,26 @@ def train(
             load_in_8bit=load_kbit == 8 ,
             torch_dtype=torch.float16 if load_kbit == 16 else torch.float32,
             device_map=device_map,
+            **auth_config
         )
 
     if 'opt' in base_model:
         tokenizer = AutoTokenizer.from_pretrained(base_model)
+        tokenizer.pad_token_id = 0  # unk. we want this to be different from the eos token
+    elif 'PhoGPT' in base_model:
+        tokenizer = AutoTokenizer.from_pretrained(base_model, **auth_config)
     else:
         tokenizer = LlamaTokenizer.from_pretrained(base_model)
+        tokenizer.pad_token_id = 0  # unk. we want this to be different from the eos token
 
         if tokenizer.bos_token_id == 0:
             # fix bos token id
             tokenizer.bos_token_id = 1
             tokenizer.eos_token = '</s>'
 
-    tokenizer.pad_token_id = 0  # unk. we want this to be different from the eos token
-    tokenizer.padding_side = "left"  # Allow batched inference
+    tokenizer.padding_side = "right"  # Allow batched inference
 
-    def tokenize(prompt, add_eos_token=True, label_prompt=None, neg_prompt=None):
+    def tokenize_input(prompt, add_eos_token=False, label_prompt=None, neg_prompt=None):
         # there's probably a way to do this with the tokenizer settings
         # but again, gotta move fast
         result = tokenizer(
@@ -368,41 +380,46 @@ def train(
 
         return result
 
-    def generate_and_tokenize_prompt(data_point):
+    def tokenize(data_point, use_prompt=True):
         if NIL_DATASET:
             data_point['input'] = data_point['sent0']
             data_point['output'] = data_point['sent1']
             if use_neg_sentence:
                 data_point['neg'] = data_point['hard_neg']
+        if use_prompt:
+            full_prompt = generate_sentemb_prompt(data_point, tokenizer, cutoff_len,
+                                                mask_embedding_sentence_template,
+                                                prefix='input')
+            if NIL_DATASET:
+                pos_full_prompt = generate_sentemb_prompt(data_point, tokenizer, cutoff_len,
+                                                        mask_embedding_sentence_template,
+                                                        prefix='output')
+                if use_neg_sentence:
+                    neg_full_prompt = generate_sentemb_prompt(data_point, tokenizer, cutoff_len,
+                                                            mask_embedding_sentence_template,
+                                                            prefix="neg")
 
-        full_prompt = generate_sentemb_prompt(data_point, tokenizer, cutoff_len,
-                                              mask_embedding_sentence_template,
-                                              prefix='input')
-        if NIL_DATASET:
-            pos_full_prompt = generate_sentemb_prompt(data_point, tokenizer, cutoff_len,
-                                                      mask_embedding_sentence_template,
-                                                      prefix='output')
-            if use_neg_sentence:
-                neg_full_prompt = generate_sentemb_prompt(data_point, tokenizer, cutoff_len,
-                                                          mask_embedding_sentence_template,
-                                                          prefix="neg")
+            tokenized_full_prompt = tokenize_input(full_prompt, False,
+                                            label_prompt=None if not NIL_DATASET else pos_full_prompt,
+                                            neg_prompt=neg_full_prompt if NIL_DATASET and use_neg_sentence else None)
+            if not train_on_inputs and not NIL_DATASET:
+                user_prompt = generate_sentemb_prompt({**data_point, "output": ""}, tokenizer, cutoff_len,
+                                                    mask_embedding_sentence_template,
+                                                    prefix='input')
+                tokenized_user_prompt = tokenize_input(user_prompt, add_eos_token=False)
+                user_prompt_len = len(tokenized_user_prompt["input_ids"])
 
-        tokenized_full_prompt = tokenize(full_prompt, False,
-                                         label_prompt=None if not NIL_DATASET else pos_full_prompt,
-                                         neg_prompt=neg_full_prompt if NIL_DATASET and use_neg_sentence else None)
-        if not train_on_inputs and not NIL_DATASET:
-            user_prompt = generate_sentemb_prompt({**data_point, "output": ""}, tokenizer, cutoff_len,
-                                                  mask_embedding_sentence_template,
-                                                  prefix='input')
-            tokenized_user_prompt = tokenize(user_prompt, add_eos_token=False)
-            user_prompt_len = len(tokenized_user_prompt["input_ids"])
-
-            tokenized_full_prompt["labels"] = [
-                -100
-            ] * user_prompt_len + tokenized_full_prompt["labels"][
-                user_prompt_len:
-            ]  # could be sped up, probably
-        return tokenized_full_prompt
+                tokenized_full_prompt["labels"] = [
+                    -100
+                ] * user_prompt_len + tokenized_full_prompt["labels"][
+                    user_prompt_len:
+                ]  # could be sped up, probably
+            return tokenized_full_prompt
+        else:
+            tokenized = tokenize(data_point['input'], False,
+                                            label_prompt=None if not NIL_DATASET else data_point['output'],
+                                            neg_prompt=data_point['neg'] if NIL_DATASET and use_neg_sentence else None)
+            return tokenized
 
     if load_kbit == 4:
         model = prepare_model_for_kbit_training(model)
@@ -432,14 +449,14 @@ def train(
         from peft.tuners.lora import LoraLayer
         for name, module in model.named_modules():
             if isinstance(module, LoraLayer):
-                #module = module.to(torch.bfloat16)
-                module = module.to(torch.float32)
+                module = module.to(torch.bfloat16)
+                # module = module.to(torch.float32)
             if 'norm' in name:
                 module = module.to(torch.float32)
             if 'lm_head' in name or 'embed_tokens' in name:
                 if hasattr(module, 'weight'):
-                    #module = module.to(torch.bfloat16)
-                    module = module.to(torch.float32)
+                    module = module.to(torch.bfloat16)
+                    # module = module.to(torch.float32)
     else:
         if load_kbit == 8:
             model = prepare_model_for_int8_training(model)
@@ -454,13 +471,16 @@ def train(
         model = get_peft_model(model, config)
 
     if 'csv' in data_path:
+        # data = load_dataset("csv", data_files=data_path, split='train[:1%]')
         data = load_dataset("csv", data_files=data_path)
     else:
         data = load_dataset("json", data_files=data_path)
 
     model.print_trainable_parameters()  # Be more transparent about the % of trainable params.
 
-    train_data = data["train"].shuffle().map(generate_and_tokenize_prompt, num_proc=25)
+    train_data = data.shuffle().map(lambda x: tokenize(x, use_prompt=False) , num_proc=25)
+    print(data[:10])
+    # train_data = data["train"].shuffle()
 
     DC_FUN = DataCollatorForSeq2SeqForNeg if NIL_DATASET and use_neg_sentence else transformers.DataCollatorForSeq2Seq
     trainer = SentembTrainer(

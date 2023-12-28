@@ -78,12 +78,22 @@ def main():
 
 
     args = parser.parse_args()
+    
+    auth_config = {}
+    print(args.model_name_or_path)
+    if "PhoGPT" in args.model_name_or_path:
+        auth_config = {
+            "trust_remote_code": True,
+            "use_auth_token": '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'
+        }
 
     if args.tensor_parallel:
         import tensor_parallel as tp
         n_gpus = len(os.environ['CUDA_VISIBLE_DEVICES'].split(','))
         model = AutoModelForCausalLM.from_pretrained(args.model_name_or_path,
-                                                     low_cpu_mem_usage = True, torch_dtype=torch.float16)
+                                                     low_cpu_mem_usage = True, 
+                                                     torch_dtype=torch.float16,
+                                                     **auth_config)
         model = tp.tensor_parallel(model, [i for i in range(n_gpus)])
     elif args.load_kbit == 4:
         from transformers import BitsAndBytesConfig
@@ -94,19 +104,21 @@ def main():
                 load_in_4bit=True,
                 llm_int8_threshold=6.0,
                 llm_int8_has_fp16_weight=False,
-                bnb_4bit_compute_dtype=torch.float16,
+                bnb_4bit_compute_dtype=torch.bfloat16,
                 bnb_4bit_use_double_quant=True,
                 bnb_4bit_quant_type='nf4',
             ),
-            torch_dtype=torch.float16,
-            device_map='auto',
+            torch_dtype=torch.bfloat16,
+            device_map="auto",
+            **auth_config
         )
     else:
         model = AutoModelForCausalLM.from_pretrained(args.model_name_or_path,
                                                      device_map='auto',
                                                      output_hidden_states=True,
                                                      trust_remote_code=True,
-                                                     load_in_8bit=args.load_kbit == 8,)
+                                                     load_in_8bit=args.load_kbit == 8,
+                                                     **auth_config)
 
     if args.lora_weight is not None:
         from peft import PeftModel
@@ -137,11 +149,11 @@ def main():
         tokenizer = LlamaTokenizer.from_pretrained(args.model_name_or_path, use_fast=True)
         tokenizer.bos_token_id = 1
         tokenizer.eos_token = '</s>'
+        tokenizer.pad_token_id = 0  # unk. we want this to be different from the eos token
     else:
-        tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path)
+        tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path, **auth_config)
 
-    tokenizer.pad_token_id = 0  # unk. we want this to be different from the eos token
-    tokenizer.padding_side = "left"  # Allow batched inference
+    tokenizer.padding_side = "right"  # Allow batched inference
 
 
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
@@ -183,22 +195,21 @@ def main():
             batch = [[word.decode('utf-8') for word in s] for s in batch]
 
         sentences = [' '.join(s) for s in batch]
-        input_sentences = [' '.join(s) for s in batch]
-        if max_length == 500:
-            sentences = [tokenizer.decode(tokenizer.encode(s, add_special_tokens=False)[:max_length]) for s in sentences]
-            max_length = 512
+        # if max_length == 500:
+        #     sentences = [tokenizer.decode(tokenizer.encode(s, add_special_tokens=False)[:max_length]) for s in sentences]
+        #     max_length = 512
 
-        if args.mask_embedding_sentence and args.mask_embedding_sentence_template is not None:
-            # *cls*_This_sentence_of_"*sent_0*"_means*mask*.*sep+*
-            template = args.mask_embedding_sentence_template
-            template = template.replace('_', ' ').replace('*sep+*', '')\
-                                                    .replace('*cls*', '')
+        # if args.mask_embedding_sentence and args.mask_embedding_sentence_template is not None:
+        #     # *cls*_This_sentence_of_"*sent_0*"_means*mask*.*sep+*
+        #     template = args.mask_embedding_sentence_template
+        #     template = template.replace('_', ' ').replace('*sep+*', '')\
+        #                                             .replace('*cls*', '')
 
-            for i, s in enumerate(sentences):
-                if len(s) > 0 and s[-1] not in '.?"\'': s += '.'
-                s = s.replace('"', '\'')
-                if len(s) > 0 and '?' == s[-1]: s = s[:-1] + '.'
-                sentences[i] = template.replace('*sent 0*', s).strip()
+        #     for i, s in enumerate(sentences):
+        #         if len(s) > 0 and s[-1] not in '.?"\'': s += '.'
+        #         s = s.replace('"', '\'')
+        #         if len(s) > 0 and '?' == s[-1]: s = s[:-1] + '.'
+        #         sentences[i] = template.replace('*sent 0*', s).strip()
 
         batch = tokenizer.batch_encode_plus(
             sentences,
@@ -369,5 +380,6 @@ def main():
         scores.append("%.2f" % (sum([float(score) for score in scores]) / len(scores)))
         print_table(task_names, scores)
 
+    
 if __name__ == "__main__":
     main()

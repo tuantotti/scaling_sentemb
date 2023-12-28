@@ -1,0 +1,497 @@
+[
+      {
+            "query": "Chứng minh đẳng thức:\n$\\frac{a \\sqrt{a}+b \\sqrt{b}}{\\sqrt{a}+\\sqrt{b}}-\\sqrt{a b}=(\\sqrt{a}-\\sqrt{b})^2$ với a>0; b>0\n ",
+            "pos_similar": "Ta có:\n$\\begin{aligned} & V T=\\frac{a \\sqrt{a}+b \\sqrt{b}}{\\sqrt{a}+\\sqrt{b}}-\\sqrt{a b} \\\\ & =\\frac{(\\sqrt{a})^3+(\\sqrt{b})^3}{\\sqrt{a}+\\sqrt{b}}-\\sqrt{a b} \\\\ & =\\frac{(\\sqrt{a}+\\sqrt{b})(a-\\sqrt{a b}+b)}{\\sqrt{a}+\\sqrt{b}}-\\sqrt{a b} \\\\ & =a-\\sqrt{a b}+b-\\sqrt{a b} \\\\ & =(\\sqrt{a})^2-2 \\sqrt{a b}+(\\sqrt{b})^2 \\\\ & =(\\sqrt{a}-\\sqrt{b})^2=V P \\text { (đpcm). }\\end{aligned}$\nChứng minh đẳng thức:\n$\\frac{a \\sqrt{a}+b \\sqrt{b}}{\\sqrt{a}+\\sqrt{b}}-\\sqrt{a b}=(\\sqrt{a}-\\sqrt{b})^2$ với a>0; b>0",
+            "neg_similar": " \nVới a > 0; b > 0 ta có:\n$\\begin{aligned} & V T=\\frac{a \\sqrt{a}+b \\sqrt{b}}{\\sqrt{a}+\\sqrt{b}}-\\sqrt{a b} \\\\ & =\\frac{(\\sqrt{a})^3+(\\sqrt{b})^3}{\\sqrt{a}+\\sqrt{b}}-\\sqrt{a b} \\\\ & =\\frac{(\\sqrt{a}+\\sqrt{b})(a-\\sqrt{a b}+b)}{\\sqrt{a}+\\sqrt{b}}-\\sqrt{a b} \\\\ & =a-\\sqrt{a b}+b-\\sqrt{a b} \\\\ & =(\\sqrt{a})^2-2 \\sqrt{a b}+(\\sqrt{b})^2 \\\\ & =(\\sqrt{a}-\\sqrt{b})^2=V P \\text { (đpcm). }\\end{aligned}$"
+      },
+      {
+            "query": " Cho hai hàm số bậc nhất y = mx + 3 và y = (2m + 1)x – 5\nTìm giá trị của m để đồ thị của hai hàm số đã cho là hai đường thẳng song song với nhau.\n ",
+            "pos_similar": "Hàm số y = mx + 3 có các hệ số a = m, b = 3.\nHàm số y = (2m + 1)x – 5 có các hệ số a' = 2m + 1, b' = -5\nVì hai hàm số là hai hàm số bậc nhất nên a và a' phải khác 0, tức là:\nm ≠ 0 và 2m + 1 ≠ 0 hay $\\mathrm{m} \\neq 0$ và $\\mathrm{m} \\neq-\\frac{1}{2}$\nTheo đề bài ta có b ≠ b' (vì 3 ≠ -5)\nVậy đồ thị của hai hàm số là hai đường thẳng song song với nhau khi và chỉ khi a ≠ a' tức là:\nm = 2m + 1 => m = - 1\nKết hợp với điều kiện trên ta thấy m = -1 là giá trị cần tìm.\nCho hai hàm số bậc nhất y = (m+1)x + 2m và y = (2m + 1)x +3m\nTìm giá trị của m để đồ thị của hai hàm số đã cho là hai đường thẳng song song với nhau.",
+            "neg_similar": " \nXét hai hàm số bậc nhất $y=(m+1) x+2 m$ và $y=(2 m+1) x+3 m$ (ĐK: $\\left.m \\neq-1 ; m \\neq \\frac{-1}{2}\\right)$\nHai đường thẳng song song khi $\\left\\{\\begin{array}{l}m+1=2 m+1 \\\\ 2 m \\neq 3 m\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{l}m=0 \\\\ m \\neq 0\\end{array}\\right.\\right.$\nVậy không tồn tại giá trị của $m$ thỏa mãn đề bài."
+      },
+      {
+            "query": "Tính diện tích tam giác có ba cạnh lần lượt là 5; 12; 13.\nA. 60;\nB. 30;\nC. 34;\nD. $7 \\sqrt{5}$",
+            "pos_similar": "Đáp án đúng là: B\nNửa chu vi của tam giác là: $p=\\frac{5+12+13}{2}=15$\nDiện tích của tam giác là:\n$S=\\sqrt{p(p-5)(p-12)(p-13)}=\\sqrt{15(15-5)(15-12)(15-13)}=30$\nDiện tích tam giác có ba cạnh lần lượt là $\\sqrt{3}, \\sqrt{2}$ và 1 là:\n",
+            "neg_similar": "A. $\\frac{\\sqrt{2}}{2}$\nB. $\\sqrt{3}$\nC. $\\frac{\\sqrt{3}}{2}$\nD. $\\frac{\\sqrt{6}}{2}$\nĐáp án đúng là: A\nNửa chu vi của tam giác là: $p=\\frac{\\sqrt{3}+\\sqrt{2+1}}{2}$\nDiện tích của tam giác là:\n$S=\\sqrt{p \\cdot(p-\\sqrt{3}) \\cdot(p-\\sqrt{2}) \\cdot(p-1)}=\\frac{\\sqrt{2}}{2}$"
+      },
+      {
+            "query": "Chọn dấu thích hợp điền vào ô trống:\n$27,345 \\square 30,01$ \n\nA. >\nB. <\nC. =",
+            "pos_similar": "Ta thấy hai số đã cho có phần nguyên là 27 và 30.\nMà 27 < 30 nên 27,345 < 30,01\nVậy đáp án cần điền là dấu <.\nChọn dấu thích hợp điền vào ô trống:\n$58,6 \\square 58,345$\n",
+            "neg_similar": "A. >\nB. <\nC. =\nTa thấy hai số thập phân 58,345 và 58,6 có cùng phần nguyên là 58, có hàng phần mười 6 > 3 nên 58,6 > 58,345\nVậy đáp án cần điền là dấu: >."
+      },
+      {
+            "query": "Sắp xếp các số sau theo thứ tự từ bé đến lớn:\n5,36; 13,107; 0,28; 28,105; 13,4\n\nA. 0,28; 5,36; 13,4;13,107; 28,105\nB. 0,28; 5,36; 13,4; 28,105; 13,107\nC. 0,28; 5,36; 13,107; 13,4; 28,105\nD. 28,105; 13,4; 13,107; 5,36; 0,28",
+            "pos_similar": "Xét phần nguyên của các số đã cho ta có: 0 < 5 < 13 < 28\nMà hai số 13,107; 13,4 có cùng phần nguyên là 13\nXét phần mười của hai số ta có 1 < 4 nên 13,107 < 13,4\nDo đó 0,28 < 5,36 < 13,107 < 13,4 < 28,105\nVậy các số được viết theo thứ tự từ bé đến lớn là 0,28; 5,36; 13,107; 13,4; 28,105\nSắp xếp các số sau theo thứ tự từ bé đến lớn:\n5,36; 13,107; 0,28; 28,105; 13,4",
+            "neg_similar": "A. 0,28; 5,36; 13,4;13,107; 28,105\nB. 0,28; 5,36; 13,4; 28,105; 13,107\nC. 0,28; 5,36; 13,107; 13,4; 28,105\nD. 28,105; 13,4; 13,107; 5,36; 0,28\nXét phần nguyên của các số đã cho ta có: 0 < 5 < 13 < 28\nMà hai số 13,107; 13,4 có cùng phần nguyên là 13\nXét phần mười của hai số ta có 1 < 4 nên 13,107 < 13,4\nDo đó 0,28 < 5,36 < 13,107 < 13,4 < 28,105\nVậy các số được viết theo thứ tự từ bé đến lớn là 0,28; 5,36; 13,107; 13,4; 28,105"
+      },
+      {
+            "query": "Tìm chữ số a, biết 97,614 < 97,a12 (a < 8).\nA. a = 3\nB. a = 4\nC. a = 6\nD. a = 7",
+            "pos_similar": "Để số thập phân 97,614 < 97,a12 (a < 8) khi hai số có cùng phần nguyên (97 = 97), cùng hàng phần trăm (1 = 1) và có hàng phần nghìn khác nhau (4 > 2) thì chữ số a đứng ở hàng phần mười phải lớn hơn 6 ( vì ở hàng phần mười của số 97,614 là chữ số 6).\nTheo bài ra ta có: 6 < a < 8.\nVì 6 < 7 < 8 nên suy ra a = 7.\nTìm chữ số a ,biết : 86,718 > 86,7a9\n",
+            "neg_similar": "A. a  = 3\nB. a = 2\nC. a  = 1\nD. a = 0\nNếu a = 3; 2; 1 thì 86,7a9 sẽ lớn hơn 86,718 nên a=0"
+      },
+      {
+            "query": "Viết thêm các chữ số 0 vào bên phải phần thập phân của số thập phân sau để phần thập phân có 4 chữ số:\n$157,24=\\square$\n ",
+            "pos_similar": "Khi viết thêm bao nhiêu chữ số 0 vào bên phải phần thập phân của một số thập phân thì ta vẫn được một số thập phân bằng nó.\nTheo đề bài, phần thập phân của số thập phân mới có 4 chữ số, mà phần thập phân của số thập phân đã cho có 2 chữ số nên ta cần thêm vào 2 chữ số 0.\nDo đó ta có: 157,24 = 157,2400.\nVậy đáp án cần điền vào ô trống là 157, 2400.\nViết thêm các chữ số 0 vào bên phải phần thập phân của số thập phân sau để phần thập phân có 4 chữ số:\n$480,59=\\square$",
+            "neg_similar": " \nKhi viết thêm bao nhiêu chữ số 0 vào bên phải phần thập phân của một số thập phân thì ta vẫn được một số thập phân bằng nó.\nTheo đề bài, phần thập phân của số thập phân mới có 4 chữ số, mà phần thập phân của số thập phân đã cho có 2 chữ số nên ta cần thêm vào 2 chữ số 0.\nDo đó ta có: 480,59 = 480,5900.\nVậy đáp án cần điền vào ô trống là 480,5900."
+      },
+      {
+            "query": "Chứng minh rằng với mọi số tự nhiên n ≥ 1, ta có:\n$1+2+3+\\ldots+\\mathrm{n}=\\frac{n(n+1)}{2}$\n ",
+            "pos_similar": "Ta chứng minh bằng quy nạp theo $\\mathrm{n}$.\nBước 1 . Với $\\mathrm{n}=1$ ta có $1=1^2$.\nNhư vậy khẳng định đúng cho trường hợp $\\mathrm{n}=1$.\nBước 2. Giả sử khẳng định đúng với $\\mathrm{n}=\\mathrm{k}$, tức là ta có:\n$$\n1+2+3+\\ldots+\\mathrm{k}=\\frac{k(k+1)}{2} \\text {. }\n$$\nTa sẽ chứng minh rằng khẳng định cũng đủng với $n=k+1$, nghĩa là ta sẽ chứng minh:\n$$\n1+2+3+\\ldots+\\mathrm{k}+(\\mathrm{k}+1)=\\frac{(k+1)[(k+1)+1]}{2} .\n$$\nThật vậy, sử dụng giả thiết quy nạp ta có:\n$$\n\\begin{aligned}\n& 1+2+3+\\ldots+\\mathrm{k}+(\\mathrm{k}+1) \\\\\n& =\\frac{k(k+1)}{2}+\\frac{2(k+1)}{2}=\\frac{(k+1)(k+2)}{2}=\\frac{(k+1)[(k+1)+1]}{2} .\n\\end{aligned}\n$$\nVậy khẳng định đúng với mọi số tự nhiên $n \\geq 1$.\nChứng minh rằng với mọi số tự nhiên n ≥ 1, ta có:\n$1+2+3+\\ldots+\\mathrm{n}=\\frac{n(n+1)}{2}$",
+            "neg_similar": " \nTa chứng minh bằng quy nạp theo $\\mathrm{n}$.\nBước 1 . Với $\\mathrm{n}=1$ ta có $1=1^2$.\nNhư vậy khẳng định đúng cho trường hợp $\\mathrm{n}=1$.\nBước 2. Giả sử khẳng định đúng với $\\mathrm{n}=\\mathrm{k}$, tức là ta có:\n$$\n1+2+3+\\ldots+\\mathrm{k}=\\frac{k(k+1)}{2} \\text {. }\n$$\nTa sẽ chứng minh rằng khẳng định cũng đủng với $n=k+1$, nghĩa là ta sẽ chứng minh:\n$$\n1+2+3+\\ldots+\\mathrm{k}+(\\mathrm{k}+1)=\\frac{(k+1)[(k+1)+1]}{2} .\n$$\nThật vậy, sử dụng giả thiết quy nạp ta có:\n$$\n\\begin{aligned}\n& 1+2+3+\\ldots+\\mathrm{k}+(\\mathrm{k}+1) \\\\\n& =\\frac{k(k+1)}{2}+\\frac{2(k+1)}{2}=\\frac{(k+1)(k+2)}{2}=\\frac{(k+1)[(k+1)+1]}{2} .\n\\end{aligned}\n$$\nVậy khẳng định đúng với mọi số tự nhiên $n \\geq 1$."
+      },
+      {
+            "query": "Tìm hệ số của $x^8$ trong khai triển của $(2 x+3)^{10}$ \n ",
+            "pos_similar": "Số hạng chứa $x^8$ trong khai triển của $(2 x+3)^{10}$ là\n$$\nC_{10}^{10-8}(2 x)^8 3^{10-8}=C_{10}^2 2^8 3^2 x^8=103680 x^8 \\text {. }\n$$\nVậy hệ số của $x^8$ trong khai triển của $(2 x+3)^{10}$ là 103680 .\nTìm hệ số của $x^7$ trong khai triền thành đa thức của $(2-3 x)^{10}$",
+            "neg_similar": " \nSố hạng chứa $x^7$ trong khai triển thành đa thức của $(2-3 x)^{10}$ hay\n$$\n\\begin{aligned}\n& (-3 \\mathrm{x}+2)^{10} \\text { là } \\\\\n& C_{10}^{10-7}(-3 x)^7 2^{10-7}=C_{10}^3(-3)^7 2^3 x^7=-2099520 x^7 .\n\\end{aligned}\n$$\nVậy hệ số của $x^7$ trong khai triển thành đa thức của $(2-3 x)^{10}$ là $-2099520$."
+      },
+      {
+            "query": "Giải và biện luận theo tham số m các phương trình sau:\n$m(m-6) x+m=-8 x+m^2-2$\n ",
+            "pos_similar": "Phương trình đã cho tương đương với phương trình\n$$\n\\begin{aligned}\n& \\left(m^2-6 m+8\\right) x=m^2-m-2 \\\\\n& \\Leftrightarrow(m-2)(m-4) \\mathrm{x}=(\\mathrm{m}+1)(\\mathrm{m}-2)\n\\end{aligned}\n$$\nKết luận\nVới $\\mathrm{x} \\neq 2$ và $\\mathrm{x} \\neq 4$ phương trình có nghiệm $\\quad x=\\frac{m+1}{m-4}$\nVới $\\mathrm{m}=2$, mọi số thực $\\mathrm{x}$ đều là nghiệm của phương trình;\nVới $\\mathrm{m}=4$, phương trình vô nghiệm.\nGiải và biện luận theo tham số m các phương trình sau:\n$m(m-6) x+m=-8 x+m^2-2$",
+            "neg_similar": " \nPhương trình đã cho tương đương với phương trình\n$$\n\\begin{aligned}\n& \\left(m^2-6 m+8\\right) x=m^2-m-2 \\\\\n& \\Leftrightarrow(m-2)(m-4) \\mathrm{x}=(\\mathrm{m}+1)(\\mathrm{m}-2)\n\\end{aligned}\n$$\nKết luận\nVới $\\mathrm{x} \\neq 2$ và $\\mathrm{x} \\neq 4$ phương trình có nghiệm $\\quad x=\\frac{m+1}{m-4}$\nVới $\\mathrm{m}=2$, mọi số thực $\\mathrm{x}$ đều là nghiệm của phương trình;\nVới $\\mathrm{m}=4$, phương trình vô nghiệm."
+      },
+      {
+            "query": "Giải các phương trình:\n$\\sqrt{3 x-4}=x-3$\n ",
+            "pos_similar": "Điều kiện của phương trình là $x \\geq 4 / 3$\nBình phương hai vế ta được phương trình hệ quả\n$$\n3 \\mathrm{x}-4=x^2-6 x+9 \\Rightarrow x^2-9 x+13=0\n$$\nPhương trình cuối có hai nghiệm $x=\\frac{9 \\pm \\sqrt{29}}{2}$. Cả hai giá trị này đều thòa mãn điều kiện $x \\geq 4 / 3$ nhưng khi thay vào phương trình ban đều thì giá trị $\\frac{9-\\sqrt{29}}{2}$ bị loại (vế trái dương nhưng vế phải âm).\nVậy phương trình đã cho có nghiệm duy nhất $\\quad x=\\frac{9+\\sqrt{29}}{2}$\nGiải các phương trình:\n$\\sqrt{3 x-4}=x-3$",
+            "neg_similar": " \nĐiều kiện của phương trình là $x \\geq 4 / 3$\nBình phương hai vế ta được phương trình hệ quả\n$$\n3 \\mathrm{x}-4=x^2-6 x+9 \\Rightarrow x^2-9 x+13=0\n$$\nPhương trình cuối có hai nghiệm $x=\\frac{9 \\pm \\sqrt{29}}{2}$. Cả hai giá trị này đều thòa mãn điều kiện $x \\geq 4 / 3$ nhưng khi thay vào phương trình ban đều thì giá trị $\\frac{9-\\sqrt{29}}{2}$ bị loại (vế trái dương nhưng vế phải âm).\nVậy phương trình đã cho có nghiệm duy nhất $\\quad x=\\frac{9+\\sqrt{29}}{2}$"
+      },
+      {
+            "query": "Viết điều kiện của mỗi bất phương trình sau: $\\sqrt{x^2-x-2}<\\frac{1}{2}$\n ",
+            "pos_similar": "Điều kiện là $x^2-x-2 \\geq 0$\nViết điều kiện của mỗi bất phương trình sau: $\\sqrt{x^2-x-2}<\\frac{1}{2}$",
+            "neg_similar": " \nĐiều kiện là $x^2-x-2 \\geq 0$"
+      },
+      {
+            "query": "Viết số thập phân thích hợp vào ô trống (dạng gọn nhất):\n$24 m 7 d m=\\square m$\n ",
+            "pos_similar": "Theo bảng đơn vị đo dộ dài ta có $1 m=10 d m$ hay $1 d m=\\frac{1}{10} m$\nNên $24 m 7 d m=24 \\frac{7}{10} m=24,7 m$\nVậy $24 m 7 d m=24,7 m$\nĐáp án đúng điền vào ô trống là 24,7 .\nViết số thập phân thích hợp vào ô trống (dạng gọn nhất):\n$27,9 \\mathrm{~km}=\\square \\mathrm{m}$",
+            "neg_similar": " \nTheo bảng đơn vị đô độ dài ta có\n$$\n1 \\mathrm{~km}=1000 \\mathrm{~m} \\text { hay } 1 \\mathrm{~m}=\\frac{1}{1000} \\mathrm{~km}\n$$\nNên\n$$\n\\begin{aligned}\n& 27,9 \\mathrm{~km}=27,900 \\mathrm{~km}=27 \\frac{900}{1000} \\mathrm{~km} \\\\\n& =27 \\mathrm{~km}+\\frac{900}{1000}=27000 \\mathrm{~m}+900 \\mathrm{~m}=27900 \\mathrm{~m}\n\\end{aligned}\n$$\nVậy đáp án đúng điền vào ô trống là 27900."
+      },
+      {
+            "query": "Khẳng định nào dưới đây là đúng?\n\nA. $20 \\in Z$ và $20 \\notin Q$\nB. $20 \\notin \\mathbb{Z}$ và $20 \\in Q$\nC. $\\frac{7}{5} \\notin \\mathrm{Z}$ và $\\frac{7}{5} \\in Q$\nD. $-\\frac{7}{5} \\in \\mathbb{Z}$ và $-\\frac{7}{5} \\in \\mathbb{Q}$;",
+            "pos_similar": "Đáp án đúng là $\\mathrm{C}$\nTa có: $20 \\in \\mathbb{Z}$ mà $20=\\frac{20}{1} \\in \\mathbb{Q}$. Do đó $A$ và $B$ sai.\nTa lại có: $\\frac{7}{5} \\notin \\mathbb{Z}$ và $\\frac{7}{5} \\in \\mathbb{Q}$. Do đó $C$ đúng.\n$V i ̀-\\frac{7}{5}$ là số hữu tỉ không là số nguyên nên $-\\frac{7}{5} \\notin \\mathbb{Z}$. Do đó $D$ sai.\nKhẳng định nào dưới đây là đúng?\n",
+            "neg_similar": "A. $20 \\in Z$ và $20 \\notin Q$\nB. $20 \\notin \\mathbb{Z}$ và $20 \\in Q$\nC. $\\frac{7}{5} \\notin \\mathrm{Z}$ và $\\frac{7}{5} \\in Q$\nD. $-\\frac{7}{5} \\in \\mathbb{Z}$ và $-\\frac{7}{5} \\in \\mathbb{Q}$;\nĐáp án đúng là $\\mathrm{C}$\nTa có: $20 \\in \\mathbb{Z}$ mà $20=\\frac{20}{1} \\in \\mathbb{Q}$. Do đó $A$ và $B$ sai.\nTa lại có: $\\frac{7}{5} \\notin \\mathbb{Z}$ và $\\frac{7}{5} \\in \\mathbb{Q}$. Do đó $C$ đúng.\n$V i ̀-\\frac{7}{5}$ là số hữu tỉ không là số nguyên nên $-\\frac{7}{5} \\notin \\mathbb{Z}$. Do đó $D$ sai."
+      },
+      {
+            "query": "Cho tứ diện $A B C D$. Lấy $I \\in A B, J$ là điểm trong tam giác $B C D, K$ là điểm trong tam giác $\\mathrm{ACD}$. Tìm giao tuyến của mặt phẳng (IJK) với các mặt của tứ diện.\n ",
+            "pos_similar": "Gọi $M=D K \\cap A C(D K, A C \\Phi(A C D)) ; N=D J \\cap B C(D J, B C \\subset(B C D))$\nVà: $H=M N \\cap K J(M N, K J \\subset(D M N))$.\n$\\mathrm{Vi} H \\in \\mathrm{MN}, \\mathrm{MN} \\subset(\\mathrm{ABC}) \\Rightarrow \\mathrm{H} \\in(\\mathrm{ABC})$\nGọi $P=H I \\cap B C(H I, B C \\subset(A B C))$,\n$$\n\\begin{aligned}\n& \\mathrm{Q}-\\mathrm{PJ} \\subset \\mathrm{CD}(\\mathrm{PJ}, \\mathrm{CD} \\subset(\\mathrm{BCD})) \\\\\n& \\mathrm{T}=\\mathrm{QK} \\cap \\mathrm{AD}(\\mathrm{QK}, \\mathrm{AD} \\subset(\\mathrm{ACD}))\n\\end{aligned}\n$$\nTheo cách dựng điểm ờ trên ta có:\n$$\n\\begin{aligned}\n& (\\mathrm{IJK}) \\cap(\\mathrm{ABC})=\\mathrm{IP} ;(\\mathrm{IJK}) \\cap(\\mathrm{BCD})=\\mathrm{PQ} \\\\\n& (\\mathrm{IJK}) \\cap(\\mathrm{ACD})=\\mathrm{QT} ;(\\mathrm{IJK}) \\cap(\\mathrm{AB})=\\mathrm{TI}\n\\end{aligned}\n$$\nCho tứ diện $A B C D$. Trên cạnh $A B$ lấy điểm I, trong hai tam giác $B C D$ và $A C D$ lần lượt lấy hai điểm J, K. Tim các giao tuyến sau:\na, (ABJ) giao ( $A C D)$\n$\\mathrm{b},(\\mathrm{IJK})$ giao ( ACD)\n$c,(\\mathrm{~J} K)$ giao $(\\mathrm{ABD})$\n$\\mathrm{d},(\\mathrm{IJK})$ giao $(\\mathrm{ABC})$",
+            "neg_similar": " \n$\\begin{aligned} & \\text { a) Trong ( } B C D \\text { ), gọi } M \\equiv B J \\cap C D \\\\ & \\Rightarrow\\left\\{\\begin{array}{l}M \\in B J \\subset(A B J) \\\\ M \\in C D \\subset(A C D)\\end{array}\\right. \\\\ & \\Rightarrow M \\in(A B J) \\cap(A C D) \\\\ & \\text { Mà }\\left\\{\\begin{array}{l}A \\in(A B J) \\\\ A \\in(A C D)\\end{array} \\Rightarrow A \\in(A B J) \\cap(A C D)\\right. \\\\ & \\Rightarrow(A B J) \\cap(A C D) \\equiv A M \\\\ & \\text { b) Trong }(A B M) \\text {, gọi } N \\equiv I J \\cap A M \\\\ & \\Rightarrow\\left\\{\\begin{array}{l}N \\in I J \\subset(I J K) \\\\ N \\in A M \\subset(A C D)\\end{array} \\Rightarrow N \\in(I J K) \\cap(A C D)\\right. \\\\ & \\text { Mà }\\left\\{\\begin{array}{l}K \\in(I J K) \\\\ K \\in(A C D)\\end{array} \\Rightarrow K \\in(I J K) \\cap(A C D)\\right. \\\\ & \\Rightarrow(I J K) \\cap(A C D) \\equiv K \\\\ & \\text { c) Trong (ACD), gọi } P \\equiv N K \\cap A D \\\\ & \\Rightarrow P \\in(I J K) \\cap(A B D) \\\\ & \\left\\{\\begin{array}{l}I \\in A B \\subset(A B D) \\\\ I \\in(I J K)\\end{array} \\Rightarrow I \\in(I J K) \\cap(A B D)\\right. \\\\ & \\Rightarrow(I J K) \\cap(A B D) \\equiv P I \\\\ & \\text { d) Trong } A C D \\text {, gọi } Q \\equiv N P \\cap A C \\\\ & \\Rightarrow\\left\\{\\begin{array}{l}Q \\in N P \\subset(I J K) \\\\ Q \\in A C \\subset(A B C)\\end{array} \\Rightarrow Q \\in(I J K) \\cap(A B C)\\right. \\\\ & \\text { Mà }\\left\\{\\begin{array}{l}I \\in(I J K) \\\\ I \\in A B \\subset(A B C)\\end{array} \\Rightarrow I \\in(I J K) \\cap(A B C)\\right. \\\\ & \\Rightarrow(I J K) \\cap(A B C)=Q I \\\\ & \\end{aligned}$"
+      },
+      {
+            "query": "Cho tứ diện $A B C D$. Lấy các điểm $M$ thuộc cạnh $A B, N$ thuộc cạnh $A C$ sao cho $M N$ cắt $B C$. Gọi $I$ là điểm bên trong tam giác $B C D$. Tìm giao tuyến của\n1. Mặt phẳng $(\\mathrm{MNI})$ và mặt phẳng $(\\mathrm{BCD})$.\n2. Mặt phẳng $(M N I)$ và mặt phẳng $(A B D)$.\n3. Mặt phẳng $(M N I)$ và mặt phẳng $(A C D)$.\n ",
+            "pos_similar": "1. Gọi $H$ là giao diểm của $M N$ và $B C$.\nSuy ra $H \\in(M N I) \\cap(B C D) \\quad$ (1).\nDo $I$ là điếm trong $\\triangle B C D$ nên $I \\in$ $(M N I) \\cap(B C D) \\quad(2)$.\nTư (1) và (2) suy ra $I H$ là giao tuyến của hai mặt phẳng $(M N I)$ và $(B C D)$.\n2. Giả sử $E$ là giao điểm của hai đường thẳng $I H$ và $B D$.\nVì $H \\in M N$ và $\\left\\{\\begin{array}{l}E \\in B D \\\\ E \\in I H\\end{array} \\Rightarrow E \\in\\right.$ $(M N I) \\cap(A B D) \\quad(3)$.\nDễ thấy $M \\in(A B D) \\cap(M N I) \\quad(4)$.\nTừ (3) và (4) suy ra $M E$ là giao tuyến hai mặt phẳng $(A B D)$ và $(M N I)$.\n3. Tương tự, goi $F$ là giao điểm của hai dường thẳng $I H$ và $C D$. Ta suy ra $\\left\\{\\begin{array}{l}F \\in C D \\\\ F \\in I H\\end{array} \\Rightarrow F \\in(M N I) \\cap\\right.$ $(A C D)$ (5).\nDo $N \\in A C$ nên $N \\in(A C D)$.\nKhi đó $N \\in(M N I) \\cap(A C D) \\quad$ (6).\nTừ (5) và (6) suy ra $N F$ là giao tuyến của hai mặt phẳng $(A C D)$ và $(M N I)$.\nCho tứ diện $A B C D$. Lấy các điểm $M \\in A B, N \\in A C$ sao cho đường thẳng $M N$ cắt $B C$. Gọi $I$ là một điểm ở bên trong tam giác $B C D$. Tìm :\na) $(M N I) \\cap(B C D)$\nb) $(M N I) \\cap(A B D)$\nc) $(M N I) \\cap(A C D)$.",
+            "neg_similar": " \n$a$,\nTrong (ABC), $M N \\cap B C=K$\nMà $I \\in(B C D)$\n$$\n\\rightarrow(M N I) \\cap(B C D)=I K\n$$\nb,\nTrong $(B C D), I K \\cap B D=P$\n$$\n\\begin{aligned}\n& \\rightarrow B D \\cap(M N I)=P \\\\\n& \\rightarrow(A B D) \\cap(M N I)=P M\n\\end{aligned}\n$$\nc,\nTrong $(B C D), I K \\cap C D=Q$\n$$\n\\begin{aligned}\n& \\rightarrow C D \\cap(M N I)=Q \\\\\n& \\rightarrow(M N I) \\cap(A C D)=N Q\n\\end{aligned}\n$$"
+      },
+      {
+            "query": "Gọi $A$ là tập hợp tất cả các số tự nhiên có 8 chữ số đôi một khác nhau. Chọn ngẫu nhiên một số thuộc $A$. Tính xác suất để số tự nhiên được chọn chia hết cho 25 .\n(A) $\\frac{17}{81}$.\n(B) $\\frac{43}{324}$.\n(C) $\\frac{1}{27}$.\n(D) $\\frac{11}{324}$.",
+            "pos_similar": "Số các số tự nhiên có 8 chữ số đôi một khác nhau là $9 \\cdot \\mathrm{A}_9^7$.\nTrong các số trên, số tự nhiên chia hết cho 25 khi hai chữ số cuối chia hết cho 25 . Vậy hai chữ số cuối có dạng 25 hoặc 50 hoặc 75 .\n- 2 chữ số cuối là 25 , có $7 \\cdot \\mathrm{A}_7^5$ số.\n- 2 chữ số cuối là 50 , có $\\mathrm{A}_8^6$ số.\n- 2 chữ số cuối là 75 , có $7 \\cdot A_7^5$ số.\nVậy xác suát cần tìm là $\\frac{7 \\cdot \\mathrm{A}_7^5+\\mathrm{A}_8^6+7 \\cdot \\mathrm{A}_7^5}{9 \\cdot \\mathrm{A}_9^7}=\\frac{11}{324}$.\nGọi A là tập hợp tất cả các số tự nhiên có 8 chữ số đôi một khác nhau. Chọn ngẫu nhiên một số thuộc $\\mathrm{A}$. Tính xác suất để số tự nhiên được chọn chia hết cho 25",
+            "neg_similar": "A. $\\frac{17}{81}$\nB . $\\frac{43}{324}$\nC. $\\frac{1}{27}$\nD. $\\frac{11}{324}$\nSố phần từ của tập hợp $\\mathrm{A}$ là: $9 . \\mathrm{A}_9^7$\nGọi $\\overline{\\mathrm{a}_1 \\mathrm{a}_2 \\ldots \\mathrm{a}_8}$ là số thỏa mãn chia hết cho 25\nKhi đó $\\overline{a_7 a_8}: 25 \\Leftrightarrow \\overline{a_7 a_8}=\\{25 ; 50 ; 75\\}$ (số chia hết cho 25 là số có 2 chữ số tận cùng chia hết cho 25$)$.\n\nTH1: $\\overline{\\mathrm{a}_7 \\mathrm{a}_8}=\\{50\\}$ suy ra có: 1 . $A_8^6$ số.\nTH2: $\\overline{\\mathrm{a}_7 \\mathrm{a}_8}=\\{25 ; 74\\}$ suy ra có: $2 \\cdot 7 \\cdot A_7^5$ số\nXác suất cần tìm là: $\\mathrm{P}=\\frac{1 \\cdot \\mathrm{A}_8^6+14 \\cdot \\mathrm{A}_7^5}{9 \\mathrm{~A}_9^7}=\\frac{11}{324}$"
+      },
+      {
+            "query": "Cho $\\int_0^4 f(x) d \\mathrm{x}=2018$. Tính tích phân $I=\\int_0^2[f(2 \\mathrm{x})+f(4-2 \\mathrm{x})] d \\mathrm{x}$.\nA. $I=0$\nB. $I=2018$\nC. $I=4036$\nD. $I=1009$",
+            "pos_similar": "Ta có $I=\\int_0^2 f(2 \\mathrm{x}) d \\mathrm{x}+\\int_0^2 f(4-2 \\mathrm{x}) d \\mathrm{x}=H+K$\nTính $K=\\int_0^2 f(2 \\mathrm{x}) d \\mathrm{x}$\nĐặt $t=2 \\mathrm{x} \\Rightarrow d t=2 \\mathrm{dx}$; đổi cận: $x=0 \\Rightarrow t=2 ; x=2 \\Rightarrow t=4$. Nên $K=\\frac{1}{2} \\int_0^4 f(t) d t=1009$.\nTính $H=\\int_0^2 f(4-2 \\mathrm{x}) d \\mathrm{x}$\nĐặt $t=4-2 \\mathrm{x} \\Rightarrow d t=-2 \\mathrm{dx}$; đổi cận: $x=0 \\Rightarrow t=4 ; x=2 \\Rightarrow t=0$. Nên $H=\\frac{1}{2} \\int_0^4 f(t) d t=1009$.\nSuy ra $I=K+H=2018$.\ncho $\\int_0^4 f(x) \\cdot d x=16 \\quad$ Tính $I=\\int_0^2 f(2 x) \\cdot d x$",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Tìm tất cả các giá trị thực của $m$ để hàm số $y=m x^4-(m+1) x^2+2 m-1$ có 3 điểm cực trị ?\nA. $\\left[\\begin{array}{l}m<-1 \\\\ m>0\\end{array}\\right.$\nB. $\\mathrm{m}<-1$\nC. $-1<\\mathrm{m}<0$\nD. $\\mathrm{m}>-1$.",
+            "pos_similar": "Đồ thị hàm số $y=a x^4+b x^2+c$ có 3 cực trị khi và chỉ khi a và b trái dấu, tức là : $\\mathrm{ab}<0$ Suy ra : $m(m+1)>0 \\Leftrightarrow\\left[\\begin{array}{l}m<-1 \\\\ m>0\\end{array}\\right.$\nTìm tất cả các giá trị thực của $m$ để hàm số $y=-2 x^4+(3 m-6) x^2+3 m-5$ có ba điểm cực trị.",
+            "neg_similar": " \nHàm số đã cho có 3 điểm cực trị $\\Leftrightarrow-2(3 m-6)<0 \\Leftrightarrow(3 m-6)>0 \\Leftrightarrow m>2$"
+      },
+      {
+            "query": "Tìm $x$:\n$x+12=-5-x$\n ",
+            "pos_similar": "\\begin{aligned}\n& a, x+12=-5-x \\\\\n& \\Rightarrow x+x=-5-12 \\\\\n& \\Rightarrow 2 x=-17 \\\\\n& \\Rightarrow x=-\\frac{17}{2} \\\\\n& \\text { Vậy } x=-\\frac{17}{2}\n\\end{aligned}\nTìm $x$:\n$x+5=10-x%",
+            "neg_similar": " \n\\begin{aligned}\n& b, x+5=10-x \\\\\n& \\Rightarrow x+x=10-5 \\\\\n& \\Rightarrow 2 x=5 \\\\\n& \\Rightarrow x=\\frac{5}{2} \\\\\n& \\text { Vậy } x=\\frac{5}{2}\n\\end{aligned}"
+      },
+      {
+            "query": "Điền dấu thích hợp vào chỗ chấm: $\\frac{-5}{13} \\ldots \\frac{-7}{13}$\n\nA. >\nB. $<$\nC. $=$\nD. Tất cả các đáp án trên đều sai",
+            "pos_similar": "Vì $-5>-7$ nên $\\frac{-5}{13}>\\frac{-7}{13}$\nĐáp án cần chọn là: A\nĐiền dấu thích hợp vào chỗ chấm: $\\frac{-12}{23} \\ldots \\frac{-8}{23}$\n",
+            "neg_similar": "A. >\nB. $<$\nC. $=$\nD. Tất cả các đáp án trên đều sai\n\n$$\nV i ̀-12<-8 \\text { nên } \\frac{-12}{23}<\\frac{-8}{23}\n$$\nĐáp án cần chọn là: B"
+      },
+      {
+            "query": "Cho 9 tia chung gốc  (không có tia nào trùng nhau) thì số góc tạo thành là\nA. 16   \n\nB. 72 \n\nC. 36\n\nD. 42",
+            "pos_similar": "Số góc tạo thành là $\\frac{9 \\cdot(9-1)}{2}=36$ góc.\nĐáp án cần chọn là: C\nCho 6 tia chung gốc  (không có tia nào trùng nhau) thì số góc tạo thành là",
+            "neg_similar": "A. 15  \n\nB. 30 \n\nC. 24\n\nD. 48\n\"Số góc tạo thành là $\\frac{6 \\cdot(6-1)}{2}=36$ góc.\nĐáp án cần chọn là: A\""
+      },
+      {
+            "query": "Tìm căn bậc hai số học của 1\n\n ",
+            "pos_similar": "Vì $1=1^2$ và $1>0$ nên $\\sqrt{1}=1$;\n\nTìm căn bậc hai số học của 25",
+            "neg_similar": " \n Vi $25=5^2$ và $5>0$ nên $\\sqrt{25}=5$;"
+      },
+      {
+            "query": "Tích của các số nguyên âm có số thừa số là số lẻ thì:\n\n\nA. là số lẻ\n\nB. là số chẵn\n\nC. là số dương\n\nD. là số âm",
+            "pos_similar": "Tích của các số nguyên âm có số thừa số là số lẻ thì mang dấu âm.\n\nĐáp án: D\nTích của các số nguyên âm có số thừa số là số chẵn thì:\n",
+            "neg_similar": "\nA. là số lẻ\n\nB. là số chẵn\n\nC. là số dương\n\nD. là số âm\nTích của các số nguyên âm có số thừa số là số chẵn thì có dấu dương.\n\nĐáp án: C"
+      },
+      {
+            "query": "một đội mỏ khai thác than theo kế hoạch mỗi ngày phải khai thác dược 55 tấn than.Khi thực hiện,mỗi ngày đội khai thác được nhiều hơn dự định là 5 tấn than.Do đó ,đội đã hoàn thành kế hoạch trước 2 ngày mà còn vượt mức 15 tấn than.Hỏi theo kế hoạch ,đội phải khai thác bao nhiêu tấn than?\n ",
+            "pos_similar": "Gọi x là số tấn than theo kế hoạch (tấn, x>0) \n\nsố tấn than thực tế : x+15 (tấn)\n\nsố ngày theo kế hoạch: x/55 (ngày)\n\nsố ngày thực tế: (x+15)/60 (ngày)\n\nTheo đề có pt: \n\nx/55 - 2 = (x+15)/60 <=> x = .....  (nhận)\n\nVậy số tấn theo kế hoạch là ..... tấn\nmột đội thợ mỏ khai thác than mỗi ngày phải khai thác được 55 tấn than khi thực hiện mỗi ngày đội phải khai thác được 60 tấn than do đó đội đã hoàn thành kế hoạch trước 2 ngày mà còn phải vượt mức 15 tấn tan hỏi theo kế hoạch đội phải khai thác bao nhiêu tấn than",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Cho đưởng thẳng AB=2a và điểm M nằm giữa A và B Vẽ đường tròn tâm O đường kính MB Kẻ tiếp tuyến AC với đường tròn O( C là tiếp điểm)Đường Thẳng vuông góc với AB tại A cắt đường thẳng BC tại D CMR\na, tứ giác AMCD là tứ giác nội tiếp\nb, CM góc ABD= góc ADM và AD^2 =AM.AB\nc, gọi E là điểm đối xứng với D qua A CM C,M,E thẳng hàng\n ",
+            "pos_similar": " \nCho đoạn thẳng AB=2a, M nằm giữa A và B. vẽ đường tròn tâm O đường kính MB. kẻ tiếp tuyến AC với (O), đường thẳng vuông góc với AB tại A cắt BC tại D\na) chứng minh tứ giác AMCD nội tiếp\nb) chứng minh ADM = ADB và AD.AD=AM.AB",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Cho tam giác ABC vuông tại A có AB = 6cm; AC = 8cm. Tính các tỉ số lượng giác của góc B, từ đó suy ra các tỉ số lượng giác của góc C\n ",
+            "pos_similar": "$ \\begin{array}{l}\nBC^{2} =AB^{2} +AC^{2} =36+64=100=10^{2}\\\\\n\\Rightarrow BC=10( cm)\\\\\nSinB=\\frac{AC}{BC} =\\frac{8}{10} =\\frac{4}{5} \\Rightarrow SinC=Sin( 90-B) =CosB=\\frac{3}{5}\\\\\nCosB=\\frac{AB}{BC} =\\frac{6}{10} =\\frac{3}{5} \\Rightarrow CosC=Cos( 90-B) =SinB=\\frac{4}{5}\\\\\nTanB=\\frac{AC}{AB} =\\frac{8}{6} =\\frac{4}{3} \\Rightarrow TanC=Tan ( 90-B) =CotB=\\frac{3}{4}\\\\\nCotB=\\frac{AB}{AC} =\\frac{6}{8} =\\frac{3}{4} \\Rightarrow CotC=Cot( 90-B) =TanB=\\frac{4}{3}\n\\end{array}$\nCho tam giác ABC vuông tại A, trong đó AB = 6cm, AC = 8cm. Tính các tỉ số lượng giác của góc B, từ đó suy ra các tỉ số lượng giác của góc C ?",
+            "neg_similar": " \nÁp dụng định lí Pi-ta-go vào tam giác vuông ABC, ta có:\n\nBC2=AB2+AC2=62+82=100BC2=AB2+AC2=62+82=100\n\nSuy ra: BC = 10 (cm)\n\nTa có:\n\nsinˆB=ACBC=810=0,8sin⁡B^=ACBC=810=0,8\n\ncosˆB=ABBC=610=0,6cos⁡B^=ABBC=610=0,6\n\ntgˆB=ACAB=86=43tgB^=ACAB=86=43\n\ncotgˆC=tgˆB=43"
+      },
+      {
+            "query": "cho đường tròn (C) : (x-2)^2+(y+1)^2=25 xác định m để đường thẳng (d) : 3x-4y+m=0 là tiếp tuyến của (C)\n ",
+            "pos_similar": "Gọi O là tâm của (C) thì dễ thấy O(2;−1) và bán kính R=5\n Ta tính khoảng cách từ O tới (d):\n$d( O;d) =\\frac{|3.2-4.( -1) +m|}{\\sqrt{3^{2} +( -4)^{2}}} =\\frac{|10+m|}{5}$\nĐể (d) là tiếp tuyến của (C) thì $d( O;d) =R\\Leftrightarrow \\frac{|10+m|}{5} =5\\Leftrightarrow |10+m|=25$ \nNếu $m\\geqslant -10$ thì suy ra m=15 (tm), nếu m<−10 thì suy ra m=−35 (tm)\nVậy để (d) là tiếp tuyến của (C) thì m=15 hoặc m=−35.\nTìm m sao cho đường thẳng 3x + 4y + m = 0 tiếp xúc với đường tròn $( x+1)^{2} +( y-2)^{2} =4$",
+            "neg_similar": " \nTa có: $( x+1)^{2} +( y-2)^{2} =4\\Leftrightarrow ( x-( -1))^{2} +( y-2)^{2} =2^{2}$\nĐường tròn đã cho có tâm I(– 1; 2) và bán kính R = 2.\nGọi đường thẳng d có phương trình 3x + 4y + m = 0, đường thẳng này tiếp xúc với đường tròn đã cho khi và chỉ khi khoảng cách từ tâm I của đường tròn đến đường thẳng bằng bán kính của đường tròn hay d(I, d) = R\n$\\frac{|3.( -1) +4.2+m|}{\\sqrt{3^{2} +4^{2}}} =2\\Leftrightarrow \\frac{|m+5|}{5} =2\\Leftrightarrow |m+5|=10$\nSuy ra m + 5 = 10 hoặc m + 5 = – 10\nSuy ra m = 5 hoặc m = – 15.\nVậy m = 5, m = – 15 thì thỏa mãn yêu cầu bài toán."
+      },
+      {
+            "query": "Bài 3: Cho tứ giác ABCD có AB//CD và góc D =60 độ\na) Tính số đo góc A?\nb) Biết góc B phần góc D = 4/5. Tính góc B, góc C\n ",
+            "pos_similar": "a) Vì AB//CD, ta có góc ACD = góc BCD = 180 - góc D = 180 - 60 = 120 độ.\nVì AB//CD, ta có góc ACD = góc BAD.\nVậy số đo góc A là 120 độ.\nb) Gọi góc BCD là x độ.\nTheo giả thiết, góc B phần góc D = 4/5, ta có:\ngóc B = (4/5) * góc D\n= (4/5) * 60\n= 48 độ.\nVì AB//CD, ta có góc BCD = góc BAD.\nVậy góc BAD = góc BCD = x độ.\nVì tứ giác ABCD là tứ giác lồi, tổng các góc trong tứ giác ABCD là 360 độ.\nTa có: góc A + góc B + góc C + góc D = 360 độ.\nVì góc D = 60 độ, góc A = 120 độ và góc B = 48 độ, ta có:\n120 + 48 + góc C + 60 = 360\ngóc C = 360 - 120 - 48 - 60 = 132 độ.\nVậy số đo góc B là 48 độ và số đo góc C là 132 độ.\nCho hình thang ABCD (AB//CD) có góc D = 60 độ\n\na. Tính góc A\n\nb. Biết góc B / góc D = 4/5. Tính góc B và góc C",
+            "neg_similar": " \n$\\begin{array}{l}\na)  Ta có: AB//CD( hai đáy của hình thang ABCD)\\\\\nnên ˆA+ˆD=1800( hai góc trong cùng phía bù nhau)\\\\\n\\Leftrightarrow ˆA=1800−ˆD=1800−600hay ˆA=1200\\\\\nVậy: ˆA=1200\\\\\nb)\\\\\n Ta có: ˆBˆD=45\\Leftrightarrow ˆB60=45\\Leftrightarrow ˆB=4\\cdot 605=2405=480\\\\\nTa có: AB//CD( hai đáy trong hình thang ABCD)\\\\\nnên ˆB+ˆC=1800( hai góc trong cùng phía bù nhau)\\\\\n\\Leftrightarrow ˆC=1800−ˆB=1800−480hay ˆC=1320\\\\\nVậy: ˆB=480; ˆC=1320\n\\end{array}$"
+      },
+      {
+            "query": "Tổng số tuổi của mẹ và con là 48 tuổi.Tuổi mẹ gấp 3 lần tuổi con.\nHỏi hiện nay,mẹ,con bao nhiêu tuổi?\n ",
+            "pos_similar": "Đặt tuổi con là 1 phần bằng nhauthì tuổi mẹ là 3 phần bằng nhau\nTổng số phần bằng nhau là:\n1+ 3 = 4 (phần)\nGiá trị của 1 phần bằng nhau là:\n48 : 4=12 ( tuổi)\nTuổi của con là: 12 tuổi\nTuổi của mẹ là\n12 x 3 =36 (tuổi)\nHiện nay, tổng số tuổi của hai mẹ con là 48. Tuổi mẹ gấp 3 lần tuổi con.Tính tuổi mỗi người hiện nay .\n",
+            "neg_similar": " \nTheo đề bài: Tuổi mẹ gấp 3 lần tuổi con. Suy ra tuổi con là 1 phần và tuổi mẹ là 3 phần.\n* Sơ đồ:\nCon:  |____|\nMẹ:   |____|____|____|               \n\n * Giải:\nTổng số phần bằng nhau là:\n1+3=4 ( phần )\nTuổi của con là:\n48:4×1=12 ( tuổi )\nTuổi của mẹ là:\n48−12=36 ( tuổi )\n            Đáp số: Con: 12 tuổi  ; Mẹ: 36 tuổi"
+      },
+      {
+            "query": "Một cửa hàng có 7 tạ 20 kg gạo nếp và gạo tẻ . Số gạo nếp ít hơn số gạo tẻ là 8 yến . Số gạo tẻ là :\n ",
+            "pos_similar": "Đổi 7tạ 20kg= 720 kg\n   8 yến = 80kg\nSố gạo nếp bán được là:\n(720-80):2= 320 kg \nSố gạo tẻ bán được là: \n720-320= 400 kg \n   Đáp số 400 kg\nMột cửa hàng có 7 tạ 20 kg gạo nếp và tẻ. Số gạo nếp ít hơn số gạo tẻ là 8 yến. Hỏi số gạo tẻ là bao nhiêu ki lô gam?",
+            "neg_similar": " \nĐổi 7tạ 20kg= 720 kg\n   8 yến = 80kg\nSố gạo nếp bán được là:\n(720-80):2= 320 kg \nSố gạo tẻ bán được là: \n720-320= 400 kg \n   Đáp số 400 kg"
+      },
+      {
+            "query": "Sáu người đào 3 ngày thì xong đoạn mương .Hỏi 9 người đào đoạn mương đó thì mấy ngày xong đoạn mương ?\n ",
+            "pos_similar": "Một người đào xong đoạn mương thì cần số ngày :\n6 x 3 = 18 (ngày)    \n9 người đào xong đoạn mương thì cần số ngày:\n18 : 9 = 2 (ngày)      \nĐáp số : 2 ngày      \n6 người đào 3 ngày thì xong một đoạn nương hỏi 9 người đào đoán nương đó thi xong mấy ngày?",
+            "neg_similar": " \nSố ngày 9 người đào xong đoạn nương đó là \n6 : 9 x 3 = 2 (ngày)"
+      },
+      {
+            "query": "8km 9 m = ......m .Số thích hợp viết vào chỗ chấm là:\nA. 8009\nB. 809\nC. 89\nD. 8900",
+            "pos_similar": "8km 9m = 8009 m\nSố thích hợp điền vào chỗ chấm để 8km 9m = ..........m là: ",
+            "neg_similar": "A. 8009 \nB. 8009 k m \nC. 8900 m \nD. 809m\n8km 9m = 8009 m"
+      },
+      {
+            "query": "Một người đi xe máy đi từ A lúc 7 giờ 15 phút đến B lúc 9 giờ ,giữa đường người đó nghỉ 15 phút. Tính độ dài quãng đường AB biết vận tốc của xe máy là 42km/giờ ?\n ",
+            "pos_similar": "Thời gian xe máy đi trên đường (Không kể thời gian nghỉ) là:\n9 giờ - ( 7 giờ 15 phút + 15 phút) = 1 giờ 30 phút.\n1 giờ 30 phút = 1,5 giờ\nĐộ dài quãng đường từ A đến B là:\n42 x 1,5 = 63 (km)\nĐáp số: 63 km.\nmột người đi xe máy từ a lúc 7giờ 15 phút và đến b lúc 9 giờ giữa đường người đó nghỉ 15 phút  vận tốc của xe máy là 24 km/giờ tính quãng đường AB",
+            "neg_similar": " \nThời gian người đó thực tế đi là:\n9 giờ - 7 giờ 15 phút - 15 phút = 1 giờ 30 phút\nĐổi: 1 giờ30 phút = 1,5 giờ\nQuãng đường AB là:\n24 × 1,5 = 36 (km)\n    ĐS: 36 km"
+      },
+      {
+            "query": "cho $\\triangle A B C=\\triangle M N P$, có\n$A B=7 \\mathrm{~cm} ; A C=8 \\mathrm{~cm} ; N P=9 \\mathrm{~cm}$. Tính chu vi mỗi tam giác?\n ",
+            "pos_similar": "vi $\\triangle A B C=\\triangle M N P$\n$\\Rightarrow A B=M N=7 \\mathrm{~cm} ; \\quad A C=M P=8 \\mathrm{~cm} ; \\quad B C=N P=9 \\mathrm{~cm}$\nChu vi tam giác $A B C$ là̀: $7+8+9=24 \\mathrm{~cm}$\nChu vi tam giác MNP là: $7+8+9=24 \\mathrm{~cm}$\nCho $\\triangle A B C=\\triangle M N P$, có $A B=5 \\mathrm{~cm} ; A C=6 \\mathrm{~cm} ; N P=7 \\mathrm{~cm}$. Tính chu vi một tam giác?",
+            "neg_similar": " \nVi $\\triangle A B C=\\triangle M N P$\n$$\n\\begin{aligned}\n\\Rightarrow A B & =M N=5 \\mathrm{~cm} ; \\\\\nA C & =M P=6 \\mathrm{~cm} ; \\\\\nB C & =N P=7 \\mathrm{~cm}\n\\end{aligned}\n$$\nChu vi $\\triangle A B C$ là:\n$$\n\\begin{aligned}\n& A B+A C+B C=5+6+7 \\\\\n& =18(\\mathrm{~cm}) \\\\\n& \\text { Chu vi } \\triangle M N P \\text { là: } \\\\\n& M N+M P+N P=5+6+7 \\\\\n& =18(\\mathrm{~cm})\n\\end{aligned}\n$$"
+      },
+      {
+            "query": "Số đối của -28\n\nA 82\nB -82\nC 28\nD -28",
+            "pos_similar": "Số đối của -28 là: 28\nĐáp án C\nSố đối của -2023 là:\n",
+            "neg_similar": "A 2023\nB -2023\nC 3202 .\nD -3020 .\nĐáp án A"
+      },
+      {
+            "query": "Cho tam giác $A B C$ có $\\widehat{A}=50^{\\circ} ; \\widehat{B}=60^{\\circ}$ thì $\\widehat{C}=$ ?\n\nA $110^0$.\nB $70^{\\circ}$.\nC $50^{\\circ}$.\nD $90^{\\circ}$.",
+            "pos_similar": "Xét tam giác $A B C$ Ta có\n$$\n\\begin{aligned}\n& \\widehat{A}+\\widehat{B}+\\widehat{C}=180^{\\circ} \\Rightarrow \\widehat{C}=180^{\\circ} \\\\\n& -\\widehat{A}-\\widehat{B}=180^{\\circ}-50^{\\circ}-60^{\\circ} \\\\\n& =70^{\\circ}\n\\end{aligned}\n$$\nCho $\\triangle A B C$ có $\\widehat{A}=96^{\\circ}, \\widehat{C}=50^{\\circ}$. Số đo góc $B$ :\n",
+            "neg_similar": "A $34^{\\circ}$\nB $35^{\\circ}$\nC $60^{\\circ}$\nD $90^{\\circ}$\nĐáp án A Áp dụng định lí tổng ba góc của một tam giác vào $\\triangle \\mathrm{ABC}$, ta có:\n$$\n\\begin{aligned}\n& \\hat{A}+\\widehat{B}+\\hat{C}=180^{\\circ} \\\\\n& \\Rightarrow \\widehat{B}=180^{\\circ}-(\\hat{A}+\\hat{C}) \\\\\n& =180^{\\circ}-\\left(96^{\\circ}+50^{\\circ}\\right)=34^{\\circ}\n\\end{aligned}\n$$"
+      },
+      {
+            "query": "Một xe ô tô chuyến trước chở được 3 tấn muối, chuyến sao chở nhiều hơn chuyến trước 3 tạ. Hỏi cả hai chuyến xe đó chở được bao nhiêu tạ muối?\n ",
+            "pos_similar": "Khối lượng muối chuyến sau ô tô đó chở được là:\n30  +  3  =  33 (tạ)\nKhối lượng muối cả hai chuyến xe ơ tô đó chở là:\n30  +  33  =  63 (tạ)\nĐáp số:  63 tạ muối\nMột xe ô tô chuyến trước chở được 3 tấn muối, chuyến sao chở nhiều hơn chuyến trước 3 tạ. Hỏi cả hai chuyến xe đó chở được bao nhiêu tạ muối?",
+            "neg_similar": " \nĐổi :3 tấn = 30 tạ  \nChuyến sau xe chở được số muối là:          \n30 + 3 = 33 (tạ)  \nSố tạ muối cả hai chuyến xe đó chở được là:        \n30 + 33 = 63 (tạ)                                                \nĐáp số 63 tạ muối"
+      },
+      {
+            "query": "Một thửa ruộng hình chữ nhật có chu vi 200m. Chiều dài hình chữ nhật hơn hai lần chiều rộng là 10m. Tính diện tích hình chữ nhật đó.\n ",
+            "pos_similar": "Nửa chu vi thửa ruộng là:\n    200 : 2 = 100 (m)\nChiều rộng của thửa ruộng là:\n   (100 - 10) : 3 = 30 (m)\nChiều dài của thửa ruộng là:\n     100 - 30 = 70 (m)\nDiện tích hình chữ nhật là:\n70 \\times 30=2100\\left(\\mathrm{~m}^2\\right)\nĐáp số:2100 \\mathrm{~m}^2\nMột thửa ruộng hình chữ nhật có chu vi 200m. Chiều dài hình chữ nhật hơn hai lần chiều rộng là 10m. Tính diện tích hình chữ nhật đó.",
+            "neg_similar": " \n Nửa chu vi thửa ruộng là:\n         200 : 2 = 100 (m)\nChiều rộng thửa ruộng là:\n          (100 - 10) : 3 = 30 (m)\nChiều dài thửa ruộng là:\n           100 - 30 = 70 (m)\nDiện tích thửa ruộng là:\n70 \\times 30=2100\\left(\\mathrm{~m}^2\\right)\nĐáp số:2100 \\mathrm{~m}^2"
+      },
+      {
+            "query": "Có 9 thùng dầu như nhau chứa 414 lít. Hỏi 6 thùng dầu như thế chứa bao nhiêu lít dầu?\n ",
+            "pos_similar": "Số lít dầu chứa trong một thùng là:\n414 : 9 = 46 (l)\nSố lít dầu chứa trong 6 thùng là:\n46 x 6 = 276 (l)\nĐáp số: 276 lít\nCó 8 bao gạo đựng tất cả 448 kg . Hỏi 5 bao gạo như thế nặng bao nhiêu kg ?",
+            "neg_similar": " \nSố kg gạo đựng trong một bao là : 448 : 8 = 56 ( kg ) \nSố kg gạo đựng trong 5 bao là  : 56 x 5 = 280 ( kg )\nĐáp số : 280 kg "
+      },
+      {
+            "query": "Tích $(-5 x)^2 y^2 \\cdot \\frac{1}{5} x y$ bằng\nA. $5 x^3 y^3$\n B. $-5 x^3 y^3$\n C. $-x^3 y^3$\n D. $x^3 y^2$",
+            "pos_similar": "Ta có: $(-5 x)^2 y^2 \\cdot \\frac{1}{5} x y=(-5)^2 \\cdot x^2 \\cdot \\frac{1}{5} x y=25 \\cdot \\frac{1}{5} \\cdot\\left(x^2 \\cdot x\\right)\\left(y^2 \\cdot y\\right)=5 x^3 y^3$ Đáp án cần chọn là: $A$\nThu gọn biểu thức: $(-5 x)^2 y^2 \\cdot \\frac{1}{5} x y$",
+            "neg_similar": "A. $5 x^3 y^3$\n B. $-5 x^3 y^3$\n C. $-x^3 y^3$\n D. $x^3 y^2$\nTa có: $(-5 x)^2 y^2 \\cdot \\frac{1}{5} x y=(-5)^2 \\cdot x^2 \\cdot \\frac{1}{5} x y=25 \\cdot \\frac{1}{5} \\cdot\\left(x^2 \\cdot x\\right)\\left(y^2 \\cdot y\\right)=5 x^3 y^3$ Đáp án cần chọn là: $A$"
+      },
+      {
+            "query": "Hình chữ nhật có chiều dài tăng 4 lần, chiều rộng giảm 2 lần, khi đó diện tích hình chữ nhật\nA. Không thay đổi\nB. Tăng 2 lần\nC. Giảm 2 lần\nD. Tăng $\\frac{4}{3}$ lần",
+            "pos_similar": "Theo công thức tính diện tích hình chữ nhật $S$ = a.b thì diện tích hình chữ nhât tỉ lệ thuận với chiều dài và chiều rộng của nó\nNếu a'=4a; b' = $\\frac{1}{2}$ b;\n$$\n\\begin{aligned}\n\\text { thì } \\mathrm{S}^{\\prime} & =\\mathrm{a}^{\\prime} \\cdot \\mathrm{b}^{\\prime}=4 \\mathrm{a} \\cdot \\frac{1}{2} \\mathrm{~b} \\\\\n& =\\frac{4}{2} \\mathrm{a} \\cdot \\mathrm{b}=\\frac{4}{2} \\mathrm{~S}=2 \\mathrm{~S}\n\\end{aligned}\n$$\nDo đó diện tích tăng 2 lần so với diện tích đã cho.\nĐáp án cần chọn là: $B$\nHình chữ nhật có chiều dài tăng 4 lần, chiều rộng giảm 2 lần, khi đó diện tích hình chữ nhật tăng hay giảm bao nhiêu lần?",
+            "neg_similar": "A. Không thay đổi\nB. Tăng 2 lần\nC. Giảm 2 lần\nD. Tăng $\\frac{4}{3}$ lần\nTheo công thức tính diện tích hình chữ nhật $S$ = a.b thì diện tích hình chữ nhât tỉ lệ thuận với chiều dài và chiều rộng của nó\nNếu a'=4a; b' = $\\frac{1}{2}$ b;\n$$\n\\begin{aligned}\n\\text { thì } \\mathrm{S}^{\\prime} & =\\mathrm{a}^{\\prime} \\cdot \\mathrm{b}^{\\prime}=4 \\mathrm{a} \\cdot \\frac{1}{2} \\mathrm{~b} \\\\\n& =\\frac{4}{2} \\mathrm{a} \\cdot \\mathrm{b}=\\frac{4}{2} \\mathrm{~S}=2 \\mathrm{~S}\n\\end{aligned}\n$$\nDo đó diện tích tăng 2 lần so với diện tích đã cho.\nĐáp án cần chọn là: $B$"
+      },
+      {
+            "query": "Cho tam giác $A B C$, đường cao $A H=9 \\mathrm{~cm}$, cạnh $B C=12 \\mathrm{~cm}$. Diện tích tam giác là:\nA. $108 \\mathrm{~cm}^2$\nB. $72 \\mathrm{~cm}^2$\nC. $54 \\mathrm{~cm}^2$\nD. $216 \\mathrm{~cm}^2$",
+            "pos_similar": "Từ công thức tính diện tích tam giác ta có:\n$\\mathrm{S}_{\\mathrm{ABC}}=\\frac{1}{2} \\mathrm{AH} \\cdot \\mathrm{BC}=\\frac{1}{2} 9.12=54 \\mathrm{~cm}^2$.\nĐáp án cần chọn là: C\nTìm diện tích tam giác $A B C$, biết đường cao $A H=9 \\mathrm{~cm}$, cạnh $B C=12 \\mathrm{~cm}$:",
+            "neg_similar": "A. $108 \\mathrm{~cm}^2$\nB. $72 \\mathrm{~cm}^2$\nC. $54 \\mathrm{~cm}^2$\nD. $216 \\mathrm{~cm}^2$\nTừ công thức tính diện tích tam giác ta có:\n$\\mathrm{S}_{\\mathrm{ABC}}=\\frac{1}{2} \\mathrm{AH} \\cdot \\mathrm{BC}=\\frac{1}{2} 9.12=54 \\mathrm{~cm}^2$.\nĐáp án cần chọn là: C"
+      },
+      {
+            "query": "Trung bình cộng của hai số là 31 biết số bé gấp 0,6 số lớn Tìm hai số đó\n ",
+            "pos_similar": " \nTổng của hai số là 84, tỉ số của hai số đó là 2/5. Tìm hai số đó?",
+            "neg_similar": " \nTheo sơ đồ, tổng số phần bằng nhau là : 2+ 5 = 7 (phần)\n\nSố bé là : 84 : 7 x 2 = 24 Số lớn là : 84 – 24 = 60\n\nĐáp số: Số bé : 24 ; số lớn : 60"
+      },
+      {
+            "query": "Hai người cùng làm một công việc trong 7h 12 phút thì xong công việc nếu người thứ 1 làm trong 4h người thứ 2 làm trong 3h thì được 50% công việc. Hỏi mỗi người làm một mình trong mấy giờ thì xong.\n ",
+            "pos_similar": "Đồi $7 \\mathrm{~h} 12$ phút $=\\frac{36}{5} \\mathrm{~h} ; 50 \\%$ (công việc) $=\\frac{1}{2}$ (công viêc)\nGọi thời gian người thứ 1 làm $1 \\mathrm{mình}$ xong công việc là $\\mathrm{x}(\\mathrm{h})$, đk $\\mathrm{x}>0$; gọi thời gian người thứ 2 làm một mình xong việc là $\\mathrm{y}(\\mathrm{h})$, đk $\\mathrm{y}>0$.\nSau $1 \\mathrm{~h}$, người 1 làm được $\\frac{1}{x}$ (công việc); người 2 làm được $\\frac{1}{y}$ (công việc).\nTrong 1 giờ cả 2 người làm được là $\\frac{1}{x}+\\frac{1}{y}=\\frac{5}{36}(1)$\nNgười 1 làm trong $4 \\mathrm{~h}$ được: $\\frac{4}{x}$ (công việc); người thứ 2 làm trong $3 \\mathrm{~h}$ được $\\frac{3}{y}$ (công viềc).\nTrong $4 \\mathrm{~h}$ người thứ 1 và trong $3 \\mathrm{~h}$ người thứ 2 làm được là\n$$\n\\frac{4}{x}+\\frac{3}{y}=\\frac{1}{2}(2)\n$$\nTừ (1) và (2), ta có hệ phương trình\n$$\n\\begin{aligned}\n& \\left\\{\\begin{array}{l}\n\\frac{1}{x}+\\frac{1}{y}=\\frac{5}{36} \\\\\n\\frac{4}{x}+\\frac{3}{y}=\\frac{1}{2}\n\\end{array}\\right. \\\\\n& \\Leftrightarrow\\left\\{\\begin{array}{l}\n\\frac{3}{x}+\\frac{3}{y}=\\frac{5}{12} \\\\\n\\frac{4}{x}+\\frac{3}{y}=\\frac{1}{2}\n\\end{array}\\right. \\\\\n& \\Leftrightarrow\\left\\{\\begin{array}{l}\n\\frac{1}{x}=\\frac{1}{12} \\\\\n\\frac{4}{x}+\\frac{3}{y}=\\frac{1}{2}\n\\end{array}\\right. \\\\\n& \\Leftrightarrow\\left\\{\\begin{array}{l}\n\\frac{1}{x}=\\frac{1}{12} \\\\\n4 \\cdot \\frac{1}{12}+\\frac{3}{y}=\\frac{1}{2}\n\\end{array}\\right. \\\\\n& \\Leftrightarrow\\left\\{\\begin{array}{l}\nx=12 \\\\\n\\frac{1}{y}=\\frac{1}{18}\n\\end{array}\\right. \\\\\n& \\Leftrightarrow\\left\\{\\begin{array}{l}\nx=12 \\\\\ny=18\n\\end{array}\\right. \\text { (thòa mãn điều kiện) }\n\\end{aligned}\n$$\nVậy người 1 làm một mình trong 12h thì hoàn thành công việc, người 2 làm một mình trong 18h thì hoàn thành công việc.\nHai công nhân cùng làm một công việc sau 10 giờ thì xong. Nếu người thứ nhất làm một mình trong 1 giờ, sau đó hai người cùng làm tiếp trong 2 giờ thì được 25% công việc. Tính thời gian mỗi người làm một mình xong công việc?",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Có 30 hộp bánh được chia đều vào 5 thùng. Hỏi có 7 thùng bánh như vậy được được bao nhiêu hộp bánh?\n ",
+            "pos_similar": "Số hộp bánh đựng trong mỗi thùng là:\n\n30 : 5 = 6 (hộp bánh)\n\nSố hộp bánh có trong 7 thùng là:\n\n6 x 7 = 42 (hộp bánh)\n\nĐáp số: 42 hộp bánh\nCó 2135 viên gạch được xếp đều vào 7 xe. Hỏi 5 xe như vậy có bao nhiêu viên gạch?",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Cho: $A=1+3+3^2+\\ldots+3^{11}$. Chứng minh rằng: $A \\vdots 13$\n ",
+            "pos_similar": "$\\begin{aligned} & A=1+3+3^2+3^3+\\ldots+3^{11} \\\\ & A=\\left(1+3+3^2\\right)+\\left(3^3+3^4+3^5\\right)+\\ldots+\\left(3^9+3^{10}+3^{11}\\right) \\\\ & A=\\left(1+3+3^2\\right)+3^3 \\cdot\\left(1+3+3^2\\right)+\\ldots+3^9 \\cdot\\left(1+3+3^2\\right) \\\\ & A=13+3^3 \\cdot 13+\\ldots+3^9 \\cdot 13 \\\\ & A=13 \\cdot\\left(1+3^3+\\ldots+3^9\\right) \\\\ & \\Rightarrow A \\vdots 13\\end{aligned}$\nCho: $A=1+3+3^2+\\ldots+3^{11}$. Chứng minh A chia hết cho 13",
+            "neg_similar": " \n$\\begin{aligned} & A=1+3+3^2+3^3+\\ldots+3^{11} \\\\ & A=\\left(1+3+3^2\\right)+\\left(3^3+3^4+3^5\\right)+\\ldots+\\left(3^9+3^{10}+3^{11}\\right) \\\\ & A=\\left(1+3+3^2\\right)+3^3 \\cdot\\left(1+3+3^2\\right)+\\ldots+3^9 \\cdot\\left(1+3+3^2\\right) \\\\ & A=13+3^3 \\cdot 13+\\ldots+3^9 \\cdot 13 \\\\ & A=13 \\cdot\\left(1+3^3+\\ldots+3^9\\right) \\\\ & \\Rightarrow A \\vdots 13\\end{aligned}$"
+      },
+      {
+            "query": " Phần tử nào không thuộc tập hợp $A=\\{x \\in \\mathbb{N} \\mid 10 \\leq x<20\\}$\n\nA. 20\nB. 10\nC. 19\nD. 15",
+            "pos_similar": "Ta có: $A=\\{10 ; 11 ; 12 ; 13 ; 14 ; 15 ; 16 ; 17 ; 18 ; 19\\}$. Khi đó, nhận thấy $20 \\notin A$\nTìm phần tử không thuộc tập hợp $A=\\{x \\in \\mathbb{N} \\mid 10 \\leq x<20\\}$\n",
+            "neg_similar": "A. 20\nB. 10\nC. 19\nD. 15\nTa có: $A=\\{10 ; 11 ; 12 ; 13 ; 14 ; 15 ; 16 ; 17 ; 18 ; 19\\}$. Khi đó, nhận thấy $20 \\notin A$"
+      },
+      {
+            "query": "Lũy thừa với số mũ là 5 cơ số là 12 được viết là:\nA. $12^5$\nB. $5^{12}$\nC. $51^2$\nD. $21^5$",
+            "pos_similar": "Lũy thừa với số mũ là 5 cơ số là 12 được viết là: $12^5$\nEm hãy viết lũy thừa với số mũ là 5 cơ số là 12.",
+            "neg_similar": "A. $12^5$\nB. $5^{12}$\nC. $51^2$\nD. $21^5$\nLũy thừa với số mũ là 5 cơ số là 12 được viết là: $12^5$"
+      },
+      {
+            "query": "Cho tập hợp K = {0; 5; 3; 4; 7}. Tập hợp K có bao nhiêu phần tử:\n\nA. 5\n\nB. 4\n\nC. 3\n\nD. 2.",
+            "pos_similar": "K có tất cả là 5 phần tử.\nĐáp án: A\nCho tập hợp M = {1; 2; 3 ;4 ; 5}. Tập hợp M có bao nhiêu phần tử:\n",
+            "neg_similar": "A. 5\n\nB. 4\n\nC. 3\n\nD. 2.\nM có tất cả là 5 phần tử.\nĐáp án: A"
+      },
+      {
+            "query": "Viết tích sau dưới dạng một lũy thừa:\n9 . 9 . 9 . 9 . 9\n ",
+            "pos_similar": "$9 \\cdot 9 \\cdot 9 \\cdot 9 \\cdot 9=9^5$\nViết kết quả phép tính dưới dạng một lũy thừa:\n9 . 9 . 9 . 9 . 9",
+            "neg_similar": " \n$9 \\cdot 9 \\cdot 9 \\cdot 9 \\cdot 9=9^5$"
+      },
+      {
+            "query": "Tìm BCNN của các số sau:\n30 và 45\n ",
+            "pos_similar": "Ta có 30 = 2.3.5; 45 = 3.3.5 nên \n\nBCNN(30; 45) = 2.3.3.5 = 90.\nBCNN của 30 và 45 là gì",
+            "neg_similar": " \nTa có 30 = 2.3.5; 45 = 3.3.5 nên \n\nBCNN(30; 45) = 2.3.3.5 = 90."
+      },
+      {
+            "query": "Không thực hiện phép tính, em hãy cho biết tổng sau đây chia hết cho 2 hay không.\n146 + 550\n ",
+            "pos_similar": " Số 146 có tận cùng là 6 nên 146 chia hết cho 2, 550 có chữ số tận cùng là 0 nên 550 chia hết cho 2. Do đó 146 + 550 chia hết cho 2 (theo dấu hiệu chia hết của một tổng).\nEm hãy cho biết tổng sau đây có chia hết cho 2 không mà không thực hiện phép tính:\n146 + 550",
+            "neg_similar": " \n Số 146 có tận cùng là 6 nên 146 chia hết cho 2, 550 có chữ số tận cùng là 0 nên 550 chia hết cho 2. Do đó 146 + 550 chia hết cho 2 (theo dấu hiệu chia hết của một tổng)."
+      },
+      {
+            "query": "Sắp xếp các số - 5; 4; -2; 0; 2 theo thứ tự tăng dần.\n ",
+            "pos_similar": "Sắp xếp các số trên theo thứ tự tăng dần ta được: – 5; – 2; 0; 2; 4.\nSắp xếp các số - 5; 4; -2; 0; 2 theo thứ tự tăng dần.",
+            "neg_similar": " \nSắp xếp các số trên theo thứ tự tăng dần ta được: – 5; – 2; 0; 2; 4."
+      },
+      {
+            "query": "Một hồ nước hình vuông cạnh 30 m. Tính chu vi hồ nước đó.\nA. 120 m\n\nB. 60 m\n\nC. 120 dm\n\nD. 900 m",
+            "pos_similar": "Chu vi hồ nước là:\n\n30 . 4 = 120 (m)\n\nĐáp án cần chọn là: A\nMột hồ nước hình vuông cạnh 0,03 km. Tính chu vi hồ nước đó.",
+            "neg_similar": "A. 120 m\n\nB. 60 m\n\nC. 120 dm\n\nD. 900 m\nĐổi: 0,03 km=30 m\nChu vi hồ nước là:\n\n30 . 4 = 120 (m)\n\nĐáp án cần chọn là: A"
+      },
+      {
+            "query": "Tìm x, biết:\n$x \\cdot \\frac{14}{27}=\\frac{-7}{9} $\n ",
+            "pos_similar": "$\\begin{aligned} & \\text { a) } x \\cdot \\frac{14}{27}=\\frac{-7}{9} ; \\\\ & x=\\frac{-7}{9}: \\frac{14}{27} \\\\ & x=\\frac{-7}{9} \\cdot \\frac{27}{14} \\\\ & x=\\frac{-3}{2} \\\\ & \\text { Vậy } x=\\frac{-3}{2} .\\end{aligned}$\nTìm y, biết:\n$y \\cdot \\frac{14}{27}=\\frac{-7}{9} $",
+            "neg_similar": " \n$\\begin{aligned} & \\text { a) } y \\cdot \\frac{14}{27}=\\frac{-7}{9} ; \\\\ & y=\\frac{-7}{9}: \\frac{14}{27} \\\\ & y=\\frac{-7}{9} \\cdot \\frac{27}{14} \\\\ & y=\\frac{-3}{2} \\\\ & \\text { Vậy } y=\\frac{-3}{2} .\\end{aligned}$"
+      },
+      {
+            "query": "Tính\n$\\sqrt{64}$\n ",
+            "pos_similar": "$\\sqrt{64}=\\sqrt{8^2}=8$\nTính giá trị\n$\\sqrt{64}$",
+            "neg_similar": " \n$\\sqrt{64}=\\sqrt{8^2}=8$"
+      },
+      {
+            "query": "So sánh hai số thực:\n\na) 4,(56) và 4,56279;\n ",
+            "pos_similar": "a) 4,(56) và 4,56279\n\nTa có:\n\n4,(56) = 4,5656…\n\nTa đi so sánh 4,5656… và 4,56279.\n\nKể từ trái sang phải, cặp chữ số cùng hàng đầu tiên khác nhau là cặp chữ số hàng phần nghìn. Mà 5 > 2 nên 4,5656… > 4,56279 hay 4,(56) > 4,56279.\nSo sánh:\n\na) 4,(56) và 4,56279;",
+            "neg_similar": " \na) 4,(56) và 4,56279\n\nTa có:\n\n4,(56) = 4,5656…\n\nTa đi so sánh 4,5656… và 4,56279.\n\nKể từ trái sang phải, cặp chữ số cùng hàng đầu tiên khác nhau là cặp chữ số hàng phần nghìn. Mà 5 > 2 nên 4,5656… > 4,56279 hay 4,(56) > 4,56279."
+      },
+      {
+            "query": "Làm tròn các số sau đây đến hàng phần nghìn: $12,(91)$\n ",
+            "pos_similar": "Ta có: 12,(91) = 12,9191…\n\nTa gạch chân dưới chữ số hàng phần nghìn 12,9191…\n\nTa nhận thấy chữ số hàng phần chục nghìn là 1 < 5 do đó ta giữ nguyên chữ số hàng phần nghìn và bỏ đi các chữ số phía sau hàng phần nghìn.\n\nVậy làm tròn số 12,9191… đến hàng phần nghìn ta thu được kết quả 12,919.\nQuy tròn các số sau đây đến hàng phần nghìn: $12,(91)$",
+            "neg_similar": " \nTa có: 12,(91) = 12,9191…\n\nTa gạch chân dưới chữ số hàng phần nghìn 12,9191…\n\nTa nhận thấy chữ số hàng phần chục nghìn là 1 < 5 do đó ta giữ nguyên chữ số hàng phần nghìn và bỏ đi các chữ số phía sau hàng phần nghìn.\n\nVậy quy tròn số 12,9191… đến hàng phần nghìn ta thu được kết quả 12,919."
+      },
+      {
+            "query": "Hãy phát biểu phần còn thiếu của kết luận trong định lí sau:\n\nNếu một đường thẳng cắt hai đường thẳng song song thì hai góc so le trong .?.\n ",
+            "pos_similar": "Nếu một đường thẳng cắt hai đường thẳng song song thì hai góc so le trong bằng nhau.\nĐiền vào dấu ba chấm trong định lý sau:\nNếu một đường thẳng cắt hai đường thẳng song song thì hai góc so le trong ...",
+            "neg_similar": " \nTừ cần điền vào chỗ chấm là: \"bằng nhau\".\nTa có định lý: Nếu một đường thẳng cắt hai đường thẳng song song thì hai góc so le trong bằng nhau."
+      },
+      {
+            "query": "Diện tích xung quanh của hình lập phương có cạnh là $5 \\mathrm{~m}$ là:\n\nA. $125 \\mathrm{~m}^2$;\nB. $25 \\mathrm{~m}^2$;\nC. $50 \\mathrm{~m}^2$;\nD. $100 \\mathrm{~m}^2$.\n",
+            "pos_similar": "Đáp án đúng là: D\nDiện tích xung quanh của hình lập phương là:\n$$\n\\mathrm{S}_{\\mathrm{xq}}=4 \\cdot 5^2=100\\left(\\mathrm{~m}^2\\right)\n$$\nVậy diện tích xung quanh của hình lập phương là 100 m².\nDiện tích xung quanh của hình lập phương có cạnh là $6 \\mathrm{~m}$ là:\n",
+            "neg_similar": "A. $36 \\mathrm{~m}^2$;\nB. $216 \\mathrm{~m}^2$;\nC. $24 \\mathrm{~m}^2$;\nD. $144 \\mathrm{~m}^2$.\n\nĐáp án đúng là: D\nDiện tích xung quanh của hình lập phương là:\n$$\n\\mathrm{S}_{\\mathrm{xq}}=4 \\cdot 6^2=144\\left(\\mathrm{~m}^2\\right)\n$$\nVậy diện tích xung quanh của hình lập phương là 144 m²."
+      },
+      {
+            "query": "Trong các trường hợp sau trường hợp nào có các số cùng biểu thị một số hữu tỉ $\\frac{-2}{3}$ ?\n\n\nA. $\\frac{-4}{6}$;\nB. $\\frac{4}{6}$;\nC. $\\frac{6}{-9}$;\nD. Cả $A$ và $C$ đều đúng.\n",
+            "pos_similar": "Đáp án đúng là: D\nVì $\\frac{-2}{3}=\\frac{-4}{6}=\\frac{6}{-9}$ nên đáp án $A$ và $C$ đều đúng.\nPhân số nào sau đây cùng biểu thị một số hữu tỉ $\\frac{-2}{3}$ ?\n\n",
+            "neg_similar": "A. $\\frac{-4}{6}$;\nB. $\\frac{4}{6}$;\nC. $\\frac{6}{-9}$;\nD. Cả $A$ và $C$ đều đúng.\n\nĐáp án đúng là: D\nVì $\\frac{-2}{3}=\\frac{-4}{6}=\\frac{6}{-9}$ nên đáp án $A$ và $C$ đều đúng."
+      },
+      {
+            "query": "Đổi số đo của góc $108^{\\circ}$ sang đơn vì radian.\n\nA $\\frac{3 \\pi}{5}$\nB $\\frac{\\pi}{10}$\nC $\\frac{3 \\pi}{2}$.\nD $\\frac{\\pi}{4}$.",
+            "pos_similar": "Áp dụng công thức $\\alpha=\\frac{a-\\pi}{180}$ với $\\alpha$ tính bằng radian, $\\boldsymbol{a}$ tính bằng độ. Ta có $\\alpha=\\frac{a \\cdot \\pi}{180}=\\frac{108 \\pi}{180}=\\frac{3 \\pi}{5}$.\nĐổi số đo của góc $70^{\\circ}$ sang đơn vị radian.\n",
+            "neg_similar": "A $\\frac{70}{\\pi}$\nB $\\frac{7}{18}$\nC $\\frac{7 \\pi}{18}$\nD $\\frac{7}{18 \\pi}$\nÁp dụng công thức $\\alpha=\\frac{a \\cdot \\pi}{180}$ với $\\alpha$ tính bằng radian, $\\boldsymbol{a}$ tính bằng độ. Ta có $\\alpha=\\frac{a \\cdot \\pi}{180}=\\frac{70 \\pi}{180}=\\frac{7 \\pi}{18}$."
+      },
+      {
+            "query": "Giới hạn hàm số $\\lim _{x \\rightarrow 1} \\frac{3 x+2}{2 x-1}$ bằng?\n\nA $+\\infty$\nB $-\\infty$\nC 5\nD 1",
+            "pos_similar": "Ta có: $\\lim _{x \\rightarrow 1} \\frac{3 x+2}{2 x-1}=\\frac{3 \\cdot 1+2}{2 \\cdot 1-1}=5$.\nTính giới hạn $I=\\lim _{x \\rightarrow 1}\\left(\\frac{x^2-5 x+8}{x+1}\\right)$.\n",
+            "neg_similar": "A $I=4$\nB $I=5$.\nC $I=-4$\nD $I=2$\n$\\lim _{x \\rightarrow 1}\\left(\\frac{x^2-5 x+8}{x+1}\\right)=\\frac{1^2-5.1+8}{1+1}=2$"
+      },
+      {
+            "query": "Cho góc $\\alpha$ thỏa mãn $\\sin \\alpha=\\frac{2}{3}$ với $0^{\\circ}<\\alpha<90^{\\circ}$. Tính giá trị của $\\cos \\alpha, \\tan \\alpha$.\n ",
+            "pos_similar": "Ta có:\n$$\n\\begin{aligned}\n& \\sin ^2 \\alpha+\\cos ^2 \\alpha=1 \\Rightarrow \\cos ^2 \\alpha=1 \\\\\n& -\\sin ^2 \\alpha=\\frac{5}{9} \\Rightarrow \\cos \\alpha= \\pm \\frac{\\sqrt{5}}{3} \\\\\n& \\text { Vi } 0^{\\circ}<\\alpha<90^{\\circ} \\text { nên } \\cos \\alpha=\\frac{\\sqrt{5}}{3} \\\\\n& \\tan \\alpha=\\frac{\\sin \\alpha}{\\cos \\alpha}=\\frac{2 \\sqrt{5}}{5}\n\\end{aligned}\n$$\nCho góc $\\alpha$ thỏa mãn $\\sin \\alpha=\\frac{4}{5}$ với $90^{\\circ}<\\alpha<180^{\\circ}$. Tính giá trị của $\\cos \\alpha, \\tan \\alpha$.",
+            "neg_similar": " \nTa có:\n$\\sin ^2 \\alpha+\\cos ^2 \\alpha=1 \\Rightarrow \\cos ^2 \\alpha=1$\n$-\\sin ^2 \\alpha=\\frac{9}{25} \\Rightarrow \\cos \\alpha= \\pm \\frac{3}{5}$\nVi $90^{\\circ}<\\alpha<180^{\\circ}$ nên $\\cos \\alpha=-\\frac{3}{5}$\n+) $\\tan \\alpha=\\frac{\\sin \\alpha}{\\cos \\alpha}=-\\frac{4}{3}$"
+      },
+      {
+            "query": "Cho $a$ là góc tù. Khẳng định nào sau đây là đúng?\n\nA $\\tan a<0$.\nB $\\quad \\cos a>0$.\nC $\\cot a>0$.\nD $\\sin a<0$.",
+            "pos_similar": "a là góc tù nên thuộc góc phần tư thứ 2 suy ra $\\sin a>0, \\cos a<0 \\Rightarrow \\tan a<0$\nCho α là góc tù. Điều khẳng định nào sau đây đúng?",
+            "neg_similar": "A. $\\sin \\alpha<0$\nB. $\\cos \\alpha>0$\nC. $\\tan \\alpha<0$\nD. $\\cot \\alpha>0$\nVì $\\alpha$ là góc tù, nên $\\sin \\alpha>0$ và $\\cos \\alpha<0$ do đó $\\tan \\alpha<0$ và $\\cot \\alpha<0$."
+      },
+      {
+            "query": "Tìm tập nghiệm của phương trình $\\sin 3 x+1=0$\n\nA. $\\left\\{-\\frac{\\pi}{2}+k \\pi \\mid k \\in Z\\right\\}$.\nB. $\\left\\{-\\frac{\\pi}{2}+k 2 \\pi \\mid k \\in Z\\right\\}$.\nC. $\\left\\{-\\frac{\\pi}{6}+k 2 \\pi \\mid k \\in Z\\right\\}$.\nD. $\\left\\{-\\frac{\\pi}{6}+k \\frac{2 \\pi}{3} \\mid k \\in Z\\right\\}$.",
+            "pos_similar": "$$\n\\sin 3 x+1=0 \\Leftrightarrow \\sin 3 x=-1 \\Leftrightarrow 3 x=-\\frac{\\pi}{2}+k 2 \\pi, k \\in Z \\Leftrightarrow-\\frac{\\pi}{6}+k \\frac{2 \\pi}{3}, k \\in Z .\n$$\nChọn: D\nGiải phương trình $\\sin \\left(x+\\frac{\\pi}{6}\\right)=\\frac{1}{2}$.",
+            "neg_similar": " \n$\\begin{aligned} & \\sin \\left(x+\\frac{\\pi}{6}\\right)=\\frac{1}{2} \\\\ & \\Leftrightarrow\\left[\\begin{array}{l}x+\\frac{\\pi}{6}=\\frac{\\pi}{6}+k 2 \\pi \\\\ x+\\frac{\\pi}{6}=\\pi-\\frac{\\pi}{6}+k 2 \\pi \\\\ (k \\in Z)\\end{array}\\right. \\\\ & \\Leftrightarrow\\left[\\begin{array}{l}x=k 2 \\pi \\\\ x=\\frac{2 \\pi}{3}+k 2 \\pi\\end{array}(k \\in Z)\\right.\\end{aligned}$"
+      },
+      {
+            "query": "Điểm thi HKI môn Toán của tổ học sinh lớp $10 \\mathrm{C}$ (quy ước làm tròn đến 0,5 điểm) liệt kê như sau: $2 ; 5 ; 7,5 ; 8 ; 5 ; 7 ; 6,5$; $9 ; 4,5 ; 10$\nĐiểm trung bình của 10 học sinh đó là:\n\n\nA 6,6\nB 6,45\nC 6,5\nD 6,55",
+            "pos_similar": "Điểm trung bình của 10 học sinh lớp $10 \\mathrm{C}$ là:\n$$\n\\begin{aligned}\n& \\bar{x}=\\frac{2+2.5+7.5+8+6.5+7+9+4.5+10}{10}=\\frac{64.5}{10} \\\\\n& =6.5\n\\end{aligned}\n$$\nCho dãy số liệu thống kê: $21,23,24,25,22,20,27,28$. Số trung bình cộng của dãy số liệu thống kê đã cho là\n",
+            "neg_similar": "A 19\nB 23,75\nC 23,57\nD $\\quad 22,57$\nSố trung bình của dãy số liệu thống kê đã cho là:\n$$\n\\frac{21+23+24+25+22+20+27+28}{8}=23,75\n$$"
+      },
+      {
+            "query": "Hàm số $y=x^3-3 m x^2+6 m x+m$ có hai điềm cực trị khi giá trị của $m$ là ?\nA. $\\left[\\begin{array}{l}m<0 \\\\ m>8\\end{array}\\right.$\nB. $0<m<2$\nC. $\\left[\\begin{array}{l}m<0 \\\\ m>2\\end{array}\\right.$\nD. $0<m<8$",
+            "pos_similar": "$$\n+y^{\\prime}=3 x^2-6 m x+6 m(1)\n$$\n+ Hàm số có 2 điểm cực trị $\\Leftrightarrow$ (1) có 2 nghiệm phân biệt $\\Leftrightarrow \\Delta>0$\n$$\n\\begin{aligned}\n& \\Leftrightarrow(-6 m)^2-4.3 .6 m>0 \\\\\n& \\Leftrightarrow 36 m^2-72 m>0 \\\\\n& \\Leftrightarrow\\left[\\begin{array}{l}\nm<0 \\\\\nm>2\n\\end{array}\\right.\n\\end{aligned}\n$$\nTìm tất cả các giá trị của tham số $\\mathrm{m}$ để hàm số $y=x^3-3 m x^2+6 m x+m$ có hai điểm cực trị.",
+            "neg_similar": "A. $m \\in(0 ; 8)$\nB. $m \\in(0 ; 2)$\nC. $m \\in(-\\infty ; 0) \\cup(8 ;+\\infty)$\nD. $m \\in(-\\infty ; 0) \\cup(2 ;+\\infty)$\nĐáp án D\nTXĐ: $D=\\mathbb{R}$\nTa có:\n$$\n\\begin{aligned}\n& y=x^3-3 m x^2+6 m x+m \\\\\n& \\Rightarrow y^{\\prime}=3 x^2-6 m x+6 m\n\\end{aligned}\n$$\nHàm số đã cho có 2 điểm cực trị khi và chỉ khi phương trình $y^{\\prime}=0$ có 2 nghiệm phân biệt.\nDo đó, $\\Delta^{\\prime}>0 \\Leftrightarrow(-3 m)^2-3.6 m>0 \\Leftrightarrow 9 m^2-18 m>0 \\Leftrightarrow 9 m(m-2)>0 \\Leftrightarrow\\left[\\begin{array}{l}m>2 \\\\ m<0\\end{array}\\right.$\nVậy tập hợp tất cả các giá trị của tham số $m$ để hàm số đã cho có 2 điểm cực trị là $m \\in(-\\infty ; 0) \\cup(2 ;+\\infty)$"
+      },
+      {
+            "query": "Trong không gian $O x y z$ cho $\\vec{u}=2 \\vec{j}-3 \\vec{i}-4 \\vec{k}$. Tọa độ của $\\vec{u}$ là:\nA $(3 ;-2 ; 4)$\nB $(2 ;-3 ;-4)$\nC $(-3,2 ;-4)$\nD $(-3 ; 2 ; 4)$",
+            "pos_similar": "$\\begin{aligned} & \\vec{u}=2 \\vec{j}-3 \\vec{i}-4 \\vec{k} \\Leftrightarrow \\vec{u} \\\\ & =(-3 ; 2 ;-4)\\end{aligned}$\nTrong không gian $O x y z$ cho $\\vec{a}=(2 ; 3 ; 2)$ và $\\vec{b}=(1 ; 1 ;-1)$. Vecto $\\vec{a}-\\vec{b}$ có tọa độ là\n",
+            "neg_similar": "A $(3 ; 4 ; 1)$.\nB $(-1 ;-2 ; 3)$.\nC $(3 ; 5 ; 1)$.\nD $(1 ; 2 ; 3)$.\nTa có: $\\begin{aligned} & \\vec{a}-\\vec{b}=(2-1 ; 3-1 ; 2+1) . \\\\ & =(1 ; 2 ; 3)\\end{aligned}$"
+      },
+      {
+            "query": "Trong không gian với hệ toạ độ $O x y z$, cho tam giác $A B C$ với $A(1 ; 3 ; 4), B(2 ;-1 ; 0), C(3 ; 1 ; 2)$ Toạ độ trọng tâm $G$ của tam giác $A B C$ là\n\nA $G\\left(3 ; \\frac{2}{3} ; 3\\right)$.\nB $G(2 ;-1 ; 2)$.\nC $G(2 ; 1 ; 2)$.\nD $G(6,3,6)$.",
+            "pos_similar": "Ta có $\\left\\{\\begin{array}{l}x_G=\\frac{x_A+x_B+x_C}{3}=2 \\\\ y_G=\\frac{y_A+y_B+y_C}{3}=1 \\\\ z_G=\\frac{z_A+z_B+z_C}{3}=2\\end{array}\\right.$\nTrong không gian với hệ tọa độ $\\mathrm{Oxyz}$, cho tam giác $\\mathrm{ABC}$ với $\\mathrm{A}(-2 ; 4 ; 1), \\mathrm{B}(1 ; 1 ;-6), \\mathrm{C}(0 ;-2 ; 3)$. Tìm tọa độ trọng tâm $\\mathrm{G}$ của tam giác $\\mathrm{ABC}$.",
+            "neg_similar": "A. $\\mathrm{G}(-1 / 3 ; 1 ;-2 / 3)$\nB. $\\mathrm{G}(-1 ; 3 ;-2)$\nC. $\\mathrm{G}(1 / 3 ;-1 ; 2 / 3)$\nD. $\\mathrm{G}(-1 / 2 ; 5 / 2 ;-5 / 2)$.\nTrọng tâm tam giác $\\mathrm{ABC}$ là\n$$\n\\mathrm{G}\\left(\\frac{-2+1+0}{3} ; \\frac{4+1-2}{3} ; \\frac{1-6+3}{3}\\right)=>\\mathrm{G}\\left(-\\frac{1}{3} ; 1 ;-\\frac{2}{3}\\right) .\n$$"
+      },
+      {
+            "query": "Họ nguyên hàm của hàm số $f(x)=x^2+3$ là:\n\nA. $\\frac{x^3}{3}+3 x+C$\nB. $x^3+3 x+C$\nC. $\\frac{x^3}{2}+3 x+C$\nD. $x^2+3+C$",
+            "pos_similar": "$\\int\\left(x^2+3\\right) d x=\\frac{x^3}{3}+3 x+C$\nHọ nguyên hàm của hàm số $f(x)=x^2$ là\n",
+            "neg_similar": "A $\\int x^2 d x=\\frac{x^3}{3}+C$.\nB $\\int x^2 d x=\\frac{x^2}{2}+C$.\nC $\\int x^2 d x=\\frac{x^3}{3}$.\nD $\\int x^2 d x=2 x+C$.\nTa có $\\int x^2 d x=\\frac{x^3}{3}+C$."
+      },
+      {
+            "query": "Tính tích phân $I=\\int_0^1 8^x \\mathrm{~d} x$.\nA. $I=7$\nB. $I=\\frac{7}{3 \\ln 2}$\nC. $I=8$\nD. $I=\\frac{8}{3 \\ln 2}$",
+            "pos_similar": "Chọn B\nTa có:\n$$\nI=\\int_0^1 8^x \\mathrm{~d} x=\\left.\\left(\\frac{8^x}{\\ln 8}\\right)\\right|_0 ^1=\\frac{8}{\\ln 8}-\\frac{1}{\\ln 8}=\\frac{7}{3 \\ln 2}\n$$\nTính tích phân $I=\\int_0^1 8^x \\mathrm{~d} x$.\n",
+            "neg_similar": "A $I=8$.\nB $I=\\frac{8}{3 \\ln 2}$.\nC $I=\\frac{7}{3 \\ln 2}$.\nD $I=7$.\nTa có:\n$$\nI=\\int_0^1 8^x \\mathrm{~d} x=\\left.\\left(\\frac{8^x}{\\ln 8}\\right)\\right|_0 ^1=\\frac{8}{\\ln 8}-\\frac{1}{\\ln 8}=\\frac{7}{3 \\ln 2}\n$$"
+      },
+      {
+            "query": "Tính diện tích hình phẳng giới hạn bởi các đường : $\\mathrm{y}=\\mathrm{x}^3-\\mathrm{x}$ và $\\mathrm{y}=\\mathrm{x}-\\mathrm{x}^2$\nA. $12 / 9$\nB. $37 / 12$\nC. $32 / 7$\nD. $25 / 8$",
+            "pos_similar": "Chọn B\nĐồ thị hàm số $\\mathrm{y}=\\mathrm{x}^3-\\mathrm{x} ; \\mathrm{y}=\\mathrm{x}-\\mathrm{x}^2$.Đặt $\\mathrm{f}_1(\\mathrm{x})=\\mathrm{x}^3-\\mathrm{x}, \\mathrm{f}_2(\\mathrm{x})=\\mathrm{x}-\\mathrm{x}^2$\nTa có $\\mathrm{f}_1(\\mathrm{x})-\\mathrm{f}_2(\\mathrm{x})=0 \\Leftrightarrow \\mathrm{x}^3+\\mathrm{x}^2-2 \\mathrm{x}=0$ có 3 nghiệm $\\mathrm{x}=-2 ; \\mathrm{x}=0 ; \\mathrm{x}=1$\nVậy : Diện tích hình phẳng đã cho là :\n$$\n\\begin{aligned}\n& S=\\int_{-2}^1\\left|x^3+x^2-2 x\\right| d x= \\\\\n& \\left|\\int_{-2}^0\\left(x^3+x^2-2 x\\right) d x\\right|+\\left|\\int_0^1\\left(x^2+x^2-2 x\\right) d x\\right| \\\\\n& =\\frac{37}{12}\n\\end{aligned}\n$$\nTính diện tích hình phẳng giới hạn bởi đồ thị hàm số $y=x^3-x$ và đồ thị hàm số $y=x-x^2$\n",
+            "neg_similar": "A $\\frac{37}{12}$\nB $\\frac{9}{4}$\nC $\\frac{81}{12}$\nD 13\nPhương trình hoành độ giao điểm\n$$\n\\begin{aligned}\n& x^3-x=x-x^2 \\Leftrightarrow x^3+x^2-2 x \\\\\n& =0 \\Leftrightarrow\\left[\\begin{array}{l}\nx=0 \\\\\nx=1 \\\\\nx=-2\n\\end{array}\\right.\n\\end{aligned}\n$$\nDiện tích hình phẳng giới hạn bởi đồ thị hàm số $y=x^3-x$ và đồ thị hàm số\n$$\n\\begin{aligned}\n& y=x-x^2 \\text { là: } \\\\\n& S=\\int_{-2}^1\\left|x^3-x-\\left(x-x^2\\right)\\right| d x= \\\\\n& \\int_{-2}^0\\left(x^3+x^2-2 x\\right) d x- \\\\\n& \\int_0^1\\left(x^3+x^2-2 x\\right) d x \\\\\n& =\\left.\\left(\\frac{x^4}{4}+\\frac{x^3}{3}-x^2\\right)\\right|_{-2} ^0 \\\\\n& -\\left.\\left(\\frac{x^4}{4}+\\frac{x^3}{3}-x^2\\right)\\right|_0 ^1= \\\\\n& -\\left(\\frac{16}{4}-\\frac{8}{3}-4\\right)-\\left(\\frac{1}{4}+\\frac{1}{3}-1\\right) \\\\\n& =\\frac{37}{12} .\n\\end{aligned}\n$$"
+      },
+      {
+            "query": "Trong không gian $\\mathrm{Oxyz}$, cho hai điểm $\\mathrm{A}(1 ; 1 ;-1), \\mathrm{B}(-3 ; 3 ; 1)$. Trung điểm $\\mathrm{M}$ của đoạn thẳng $\\mathrm{AB}$ có tọa độ là\n\nA. $(-2 ; 4 ; 0)$.\nB. $(-2 ; 1 ; 1)$\nC. $(-1 ; 2 ; 0)$\nD. $(-4 ; 2 ; 2)$.",
+            "pos_similar": "Ta có. $\\left\\{\\begin{array}{l}x_M=\\frac{x_A+x_B}{2}=\\frac{1+(-3)}{2}=-1 \\\\ y_M=\\frac{y_A+y_B}{2}=\\frac{1+3}{2}=2 \\\\ z_M=\\frac{z_A+z_B}{2}=\\frac{-1+1}{2}=0\\end{array}\\right.$\nVậy $M(-1 ; 2 ; 0)$.\nCho hai điểm $A(1 ; 3 ; 5), B(1 ;-1 ; 1)$, khi đó trung điểm $I$ của $A B$ có tọa độ là:\n",
+            "neg_similar": "A $(0 ;-4 ;-4)$\nB $(2 ; 2 ; 6)$\nC $(0 ;-2 ;-4)$\nD $(1 ; 1 ; 3)$\nTa có:\n$$\n\\mathrm{I}\\left(\\frac{x_A+x_B}{2} ; \\frac{y_A+y_B}{2} ; \\frac{z_A+z_B}{2}\\right)=(1 ; 1 ; 3)\n$$"
+      },
+      {
+            "query": "Diện tích của một hình chữ nhật có chiều dài 12cm, chiều rộng 8cm là:\nA. $20 \\mathrm{~cm}^2$\nB. $40\\mathrm{~cm}^2$\nC. $48\\mathrm{~cm}^2$\nD. $96\\mathrm{~cm}^2$",
+            "pos_similar": "Diện tích hình chữ nhật là:\n$12x8=96(\\mathrm{~cm}^2)$\nĐáp số: $96\\mathrm{~cm}^2$\nChọn D\nDiện tích của hình chữ nhật có chiều dài 30cm và chiều rộng 17cm là:",
+            "neg_similar": "A. $510\\mathrm{~cm}^2$\nB. $51\\mathrm{~cm}^2$\nC. $51\\mathrm{~dm}^2$\nD. $510\\mathrm{~dm}^2$\n.\nDiện tích hình chữ nhật là:\n$30x17=510(\\mathrm{~cm}^2)$\nĐáp số: $510\\mathrm{~cm}^2$\nChọn A"
+      },
+      {
+            "query": "Giải hệ phương trình: $\\left\\{\\begin{array}{l}3(x+y)-2(x-y)=7 \\\\ 10(x+y)+(x-y)=31\\end{array}\\right.$\n ",
+            "pos_similar": "Ta có: \n$\\begin{aligned} & \\left\\{\\begin{array}{l}3(x+y)-2(x-y)=7 \\\\ 10(x+y)+(x-y)=31\\end{array}\\right. \\\\ & \\Leftrightarrow\\left\\{\\begin{array}{c}3 x+3 y-2 x+2 y=7 \\\\ 10 x+10 y+x-y=31\\end{array}\\right. \\\\ & \\Leftrightarrow\\left\\{\\begin{array}{c}x+5 y=7 \\\\ 11 x+9 y=31\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{l}11 x+55 y=77 \\\\ 11 x+9 y=31\\end{array}\\right.\\right. \\\\ & \\Leftrightarrow\\left\\{\\begin{array}{c}46 y=46 \\\\ x+5 y=7\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{c}y=1 \\\\ x+5=7\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{l}y=1 \\\\ x=2\\end{array}\\right.\\right.\\right.\\end{aligned}$\nCho hệ phương trình: $\\left\\{\\begin{array}{l}3(x+y)-2(x-y)=7 \\\\ 10(x+y)+(x-y)=31\\end{array}\\right.$. Tìm nghiệm (x;y) của hệ phương trình:",
+            "neg_similar": " \nTa có: \n$\\begin{aligned} & \\left\\{\\begin{array}{l}3(x+y)-2(x-y)=7 \\\\ 10(x+y)+(x-y)=31\\end{array}\\right. \\\\ & \\Leftrightarrow\\left\\{\\begin{array}{c}3 x+3 y-2 x+2 y=7 \\\\ 10 x+10 y+x-y=31\\end{array}\\right. \\\\ & \\Leftrightarrow\\left\\{\\begin{array}{c}x+5 y=7 \\\\ 11 x+9 y=31\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{l}11 x+55 y=77 \\\\ 11 x+9 y=31\\end{array}\\right.\\right. \\\\ & \\Leftrightarrow\\left\\{\\begin{array}{c}46 y=46 \\\\ x+5 y=7\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{c}y=1 \\\\ x+5=7\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{l}y=1 \\\\ x=2\\end{array}\\right.\\right.\\right.\\end{aligned}$"
+      },
+      {
+            "query": "Giải phương trình: $2 x(x+1)=x^2-1$\n ",
+            "pos_similar": "Ta có: $2 x(x+1)=x^2-1 \\Leftrightarrow 2 x(x+1)=(x+1)(x-1)$\n$$\n\\begin{aligned}\n& \\Leftrightarrow(x+1)(2 x-x+1)=0 \\Leftrightarrow(x+1)(x+1)=0 \\\\\n& \\Leftrightarrow(x+1) 2=0 \\Leftrightarrow x+1=0 \\Leftrightarrow x=-1 .\n\\end{aligned}\n$$\nVậy phương trình có nghiệm là $x=-1$.\n Nghiệm của phương trình $2 x(x+1)=x^2-1$ là",
+            "neg_similar": " \nTa có: $2 x(x+1)=x^2-1 \\Leftrightarrow 2 x(x+1)=(x+1)(x-1)$\n$$\n\\begin{aligned}\n& \\Leftrightarrow(x+1)(2 x-x+1)=0 \\Leftrightarrow(x+1)(x+1)=0 \\\\\n& \\Leftrightarrow(x+1) 2=0 \\Leftrightarrow x+1=0 \\Leftrightarrow x=-1 .\n\\end{aligned}\n$$\nVậy phương trình có nghiệm là $x=-1$."
+      },
+      {
+            "query": "Giá trị của m để phương trình $(x+2)(x-m)=4$ có nghiệm x = 2 là?\nA. $\\mathrm{m}=1$.\nB. $m= \\pm 1$.\nC. $\\mathrm{m}=0$.\nD. $m=2$.",
+            "pos_similar": "Phương trình $(x+2)(x-m)=4$ có nghiệm $x=2$, thay $x=2$ vào phương trình đã cho\nKhi đó ta có: $(2+2)(2-m)=4 \\Leftrightarrow 4(2-m)=4$\n$$\n\\Leftrightarrow 2-\\mathrm{m}=1 \\Leftrightarrow \\mathrm{m}=1 \\text {. }\n$$\nVậy $\\mathrm{m}=1$ là giá trị cần tìm.\nĐể phương trình $(x+2)(x-m)=4$ có nghiệm x = 2 thì m có giá trị là?",
+            "neg_similar": "A. $m=0$..\nB. $m=1$.\nC. $m=2$.\nD. $m=3$.\nPhương trình $(x+2)(x-m)=4$ có nghiệm $x=2$, thay $x=2$ vào phương trình đã cho\nKhi đó ta có: $(2+2)(2-m)=4 \\Leftrightarrow 4(2-m)=4$\n$$\n\\Leftrightarrow 2-\\mathrm{m}=1 \\Leftrightarrow \\mathrm{m}=1 \\text {. }\n$$\nVậy $\\mathrm{m}=1$ là giá trị cần tìm."
+      },
+      {
+            "query": "Viết các phân số sau theo thứ tự từ bé đến lớn:\n$\\frac{32}{35} ; \\frac{18}{35} ; \\frac{31}{35} ; \\frac{28}{35}$\n ",
+            "pos_similar": "Ta có: $\\frac{18}{35}<\\frac{28}{35}<\\frac{31}{35}<\\frac{32}{35}$\nVậy các phân số viết theo thứ tự từ bé đến lớn là: $\\frac{18}{35} ; \\frac{28}{35} ; \\frac{31}{35} ; \\frac{32}{35}$\nSắp xếp các phân số sau thành dãy sô có thứ tự từ bé đến lớn:\n$\\frac{32}{35} ; \\frac{18}{35} ; \\frac{31}{35} ; \\frac{28}{35}$",
+            "neg_similar": " \nTa có: $\\frac{18}{35}<\\frac{28}{35}<\\frac{31}{35}<\\frac{32}{35}$\nVậy các phân số viết theo thứ tự từ bé đến lớn là: $\\frac{18}{35} ; \\frac{28}{35} ; \\frac{31}{35} ; \\frac{32}{35}$"
+      },
+      {
+            "query": "Tìm m để 2 đường thẳng (d1):3x + my = 3 và (d2):mx + 3y = 3 song song với nhau\n ",
+            "pos_similar": "$$\n\\begin{aligned}\n d_1: 3 x+m y=3 \\text { và } \\\\\n d_2: m x+3 y=3\n\\end{aligned}\n$$\nXét $m=0$ phương trình đường thẳng $d_1: x=1, d_2: y=1$ hai đường thẳng vuông góc với nhau.\nVới $m \\neq 0$ ta có:\n$$\n\\begin{aligned}\n d_1: y=-\\frac{3}{m} x+\\frac{3}{m} \\\\\n d_2: y=-\\frac{m}{3} x+1\n\\end{aligned}\n$$\nđể hai đường thẳng $d_1, d_2$ song song với nhau thì:\n$$\n\\left\\{\\begin{array} { c } \n{ - \\frac { 3 } { m } = - \\frac { m } { 3 } } \\\\\n{ \\frac { 3 } { m } \\neq 1 }\n\\end{array} \\Leftrightarrow \\left\\{\\begin{array}{c}\nm= \\pm 3 \\\\\nm \\neq 3\n\\end{array} \\Leftrightarrow m=-3\\right.\\right.\n$$\nVậy với $m=-3$ thì hai đường thẳng $d_1, d_2$ song song với nhau.\nTrong mặt phẳng tọa độ Oxy, cho 2 đường thẳng (d1):3x + my = 3 và (d2):mx + 3y = 3. Tìm m để (d1)//(d2)",
+            "neg_similar": " \n$$\n\\begin{aligned}\n d_1: 3 x+m y=3 \\text { và } \\\\\n d_2: m x+3 y=3\n\\end{aligned}\n$$\nXét $m=0$ phương trình đường thẳng $d_1: x=1, d_2: y=1$ hai đường thẳng vuông góc với nhau.\nVới $m \\neq 0$ ta có:\n$$\n\\begin{aligned}\n d_1: y=-\\frac{3}{m} x+\\frac{3}{m} \\\\\n d_2: y=-\\frac{m}{3} x+1\n\\end{aligned}\n$$\nđể hai đường thẳng $d_1, d_2$ song song với nhau thì:\n$$\n\\left\\{\\begin{array} { c } \n{ - \\frac { 3 } { m } = - \\frac { m } { 3 } } \\\\\n{ \\frac { 3 } { m } \\neq 1 }\n\\end{array} \\Leftrightarrow \\left\\{\\begin{array}{c}\nm= \\pm 3 \\\\\nm \\neq 3\n\\end{array} \\Leftrightarrow m=-3\\right.\\right.\n$$\nVậy với $m=-3$ thì hai đường thẳng $d_1, d_2$ song song với nhau."
+      },
+      {
+            "query": "Tìm giá trị nhỏ nhất của biểu thức $A=x+\\frac{7}{x}$ với x > 0\n ",
+            "pos_similar": "Áp dụng bất đẳng thức Cô si cho hai số x > 0 và ta có:\n$x+\\frac{7}{x} \\geq 2 \\sqrt{x \\cdot \\frac{7}{x}}=2 \\sqrt{7}$\nDấu “=” xảy ra khi và chỉ khi $x=\\frac{7}{x} \\Leftrightarrow x^2=7 \\Leftrightarrow x=\\sqrt{7}$ (do x > 0)\nVậy min $A=2 \\sqrt{7} \\Leftrightarrow x=\\sqrt{7}$\nChứng minh giá trị nhỏ nhất của biểu thức $A=x+\\frac{7}{x}$ với x > 0 là $2 \\sqrt{7}$",
+            "neg_similar": " \nÁp dụng bất đẳng thức Cô si cho hai số x > 0 và ta có:\n$x+\\frac{7}{x} \\geq 2 \\sqrt{x \\cdot \\frac{7}{x}}=2 \\sqrt{7}$\nDấu “=” xảy ra khi và chỉ khi $x=\\frac{7}{x} \\Leftrightarrow x^2=7 \\Leftrightarrow x=\\sqrt{7}$ (do x > 0)\nVậy min $A=2 \\sqrt{7} \\Leftrightarrow x=\\sqrt{7}$"
+      },
+      {
+            "query": "Giải bài toán sau bằng cách lập phương trình:\nMột xe máy đi từ A đến B với vận tốc 42km/h. Lúc về, xe đi từ B về A với vận tốc 36km/h.\nVì vậy thời gian lúc về nhiều hơn lúc đi 30 phút. Tính quãng đường AB\n ",
+            "pos_similar": "Gọi độ dài quãng đường AB là $x \\mathrm{~km}(x>0)$\nLúc đi, xe máy đi với vận tốc $42 \\mathrm{~km} / \\mathrm{h}$ nên có thời gian đi là $\\frac{x}{42} \\mathrm{~h}$\nLúc về, xe máy đi với vận tốc $36 \\mathrm{~km} / \\mathrm{h}$ nên có thời gian đi là $\\frac{x}{36} \\mathrm{~h}$\nVi thời gian về nhiều hơn thời gian đi là 30 phút $=\\frac{1}{2} \\mathrm{~h}$ nên ta có phương trình:\n$$\n\\begin{aligned}\n& \\frac{x}{36}-\\frac{x}{42}=\\frac{1}{2} \\\\\n& \\Leftrightarrow \\frac{7 x}{252}-\\frac{6 x}{42}=\\frac{126}{252} \\\\\n& \\Rightarrow 7 x-6 x=126 \\\\\n& \\Rightarrow x=126(T M)\n\\end{aligned}\n$$\n$\\Rightarrow$ Quãng đường $\\mathrm{AB}$ dài $126 \\mathrm{~km}$\n Một xe máy đi từ Lạng Sơn về Nam Định với vận tốc 42km/ giờ rồi từ Nam Định về Lạng\nSơn với vận tốc 36km/ giờ, vì vậy thời gian lúc về nhiều hơn thời gian lúc đi 60 phút. Tính quãng\nđường từ Lạng Sơn đến Nam Định.",
+            "neg_similar": " \nĐổi 60 phút $=1$ giờ\n-Gọi quãng đường từ lạng sơn về nam định là $x(k m)(x>0)$ \n-Thời gian lúc đi ( Lạng Sơn-> Nam Định) là: $\\frac{x}{42}$ ( giờ) \n-Thời gian lúc về (Nam Định -> Lạng Sơn) là : $\\frac{x}{36}$ ( giờ) \nTheo bài ra, ta có phương trình:\n$$\n\\begin{aligned}\n& \\frac{x}{42}+1=\\frac{x}{36} \\\\\n\\Leftrightarrow & \\frac{6 x+252}{252}=\\frac{7 x}{252} \\\\\n\\Leftrightarrow & 6 x+252=7 x \\\\\n\\Leftrightarrow & x=252\n\\end{aligned}\n$$\nVậy quãng đường từ Lạng Sơn đến Nam Địng là 252 km"
+      },
+      {
+            "query": " Hiệu số tuổi của anh và em là 8. Tính tuổi của mỗi người hiện nay biết rằng tuổi em cách đây 4 năm bằng nửa tuổi anh hiện nay.\n ",
+            "pos_similar": "Gọi tuổi em hiện nay là x (tuổi) $\\left(x \\in \\mathbb{N}^* ; x>4\\right)$\nVì hiệu số tuổi hai anh em là 8 tuổi nên số tuổi của anh hiện nay là x + 8 (tuổi). Tuổi em các đây 4 năm là x - 4 tuổi.\nVì tuổi em cách đây 4 năm bằng nửa tuổi anh hiện nay nên ta có phương trình:\n$$\n\\begin{aligned}\n& 2(\\mathrm{x}-4)=\\mathrm{x}+8 \\\\\n& \\Leftrightarrow 2 x-8=x+8 \\\\\n& \\Leftrightarrow 2 x-x=8+8 \\\\\n& \\Leftrightarrow x=16 \\text { (thỏa mãn) }\n\\end{aligned}\n$$\nTuổi em hiện nay là 16 tuổi\nTuổi anh hiện nay là 16 + $8=24$ (tuổi).\nAnh hơn em 8 tuổi, biết tuổi em cách đây 4 năm bằng nửa tuổi anh hiện nay.Tính tuổi của mỗi người hiện nay.",
+            "neg_similar": " \nGọi tuổi em là $x\\left(x \\in N^*, 4<x<8\\right)$\n$\\rightarrow$ Tuổi anh là $x+8$\nVi tuổi em cách đây 4 năm bằng 1 nửa tuổi anh hiện nay nên ta có phương trình:\n$$\n\\begin{aligned}\n& x-4=\\frac{1}{2}(x+8) \\\\\n& \\Leftrightarrow 2 x-8=x+8 \\\\\n& \\Leftrightarrow x=16 \\text { (thỏa mãn) }\n\\end{aligned}\n$$\nVậy tuổi anh là $16+8=24$ tuổi\nTuổi em là 16 tuổi"
+      },
+      {
+            "query": " Một lớp có 40 học sinh, trong đó có 25 học sinh nữ. Hỏi số học sinh nữ chiếm bao nhiêu phần trăm số học sinh của cả lớp.\n ",
+            "pos_similar": "Số học sinh nữ chiếm số phần trăm học sinh cả lớp là:\n25 : 40 x 100 = 62,5 (%)\nĐáp số: 62,5%\n Một lớp có 35 học sinh, trong đó có 15 học sinh nữ. Hỏi số học sinh nữ chiếm bao nhiêu phần trăm số học sinh của cả lớp.",
+            "neg_similar": " \nSố học sinh nữ chiếm số phần trăm học sinh cả lớp là:\n15 : 35 x 100 = 60 (%)\nĐáp số: 60%"
+      },
+      {
+            "query": "May mỗi bộ quần áo hết 2,8m vải. Hỏi may 20 bộ quần áo cần bao nhiêu mét vải?\n ",
+            "pos_similar": "May 20 bộ quần áo cần số mét vải là:\n2,8 x 20 = 56 (m)\nĐáp số: 56m vải\nMay mỗi bộ quần áo hết 4m vải. Hỏi may 12 bộ quần áo cần bao nhiêu mét vải?",
+            "neg_similar": " \nMay 12 bộ quần áo cần số mét vải là:\n4 x 12 = 48 (m)\nĐáp số: 48m vải"
+      },
+      {
+            "query": "Lúc 7 giờ 45 phút một xe máy đi từ A đến B với vận tốc 40km/ giờ. Lúc 8 giờ 30 phút một ô tô cũng đi từ A đến B và đuổi kịp theo xe máy với vận tốc 60km/ giờ. Hỏi sau bao lâu thì ô tô đuổi kịp xe máy?\n ",
+            "pos_similar": "Thời gian xe máy đi trước ô tô là:\n8 giờ 30 phút – 7 giờ 45 phút = 45 phút  (= 0,75 giờ).\nQuãng đường xe máy đã đi được trước khi ô tô xuất phát là:\n40 × 0,75 = 30 (km)\nHiệu vận tốc giữa ô tô và xe máy là:\n60 – 40 = 20 (km/ giờ)\nThời gian để ô tô đuổi kịp xe máy là:\n30 : 20 = 1,5 (giờ)\nĐổi 1,5 giờ = 1 giờ 30 phút.\nĐáp số: 1 giờ 30 phút.\nLúc 7 giờ 45 phút, một xe máy đi từ A đến B với vận tốc 40km/giờ. Đến 8 giờ 15 phút một ô tô cũng đi từ A đến B và đuổi theo xe máy với vận tốc 60km/giờ. Hỏi ô tô đuổi kịp xe máy lúc mấy giờ?",
+            "neg_similar": " \nThời gian xe máy đi trước là:\n8 giờ 15 phút - 7 giờ 45 phút = 30 phút = 0,5 giờ\nQuãng đường xe máy đi trước là:\n40 x 0,5 = 20 ( km )\nHiệu vận tốc của 2 xe là:\n60 - 40 = 20 ( km/giờ )\nThời gian ô tô đuổi kịp xe máy là:\n20 : 20 = 1 ( giờ )\n        Đáp số: 1 giờ"
+      },
+      {
+            "query": "Hai người thọ cùng làm một công việc trong 4 giò 30 phút thì xong. Nếu người thứ nhất làm một mình trong 3 giò̀ và người thứ hai làm một mình trong 2 giờ thì tổng số họ làm được $50 \\%$ công việc. Hỏi mỗi người làm công việc đó một mình thì trong bao lâu sẽ xong?\n ",
+            "pos_similar": "Đối 4 giò̀ 30 phút $=\\frac{9}{2}$ giò.\nGọi thời gian người I, người II làm một mình xong công việc lần lượt là $x$, $\\mathrm{y}$ (giờ).\nĐiều kiện: $x>0, y>0$.\nSuy ra 1 giờ người I và người II lần lượt làm được $\\frac{1}{x}$ và $\\frac{1}{y}$ (lượng công việc).\n* 4 giò̀ 30 phút cả hai người làm được $\\frac{9}{2}\\left(\\frac{1}{x}+\\frac{1}{y}\\right)$ (lượng công việc).\nDo cả hai người thọ cùng làm một công việc trong 4 giò 30 phút thì xong nên ta có phương trình $\\frac{9}{2}\\left(\\frac{1}{\\mathrm{x}}+\\frac{1}{\\mathrm{y}}\\right)=1 \\Leftrightarrow \\frac{1}{\\mathrm{x}}+\\frac{1}{\\mathrm{y}}=\\frac{2}{9}$\n* 3 giờ người thứ I làm được $\\frac{3}{\\mathrm{x}}$ (lượng công việc)\n* 2 giò̀ người thứ II làm được $\\frac{2}{y}$ (lượng công việc)\nVi người I làm một mình trong 3 giờ và người II làm một mình trong 2 giờ thì tồng số họ làm được $50 \\%$ công việc nên ta có phương trình $\\frac{3}{x}+\\frac{2}{y}=\\frac{1}{2}$\nTừ (1) và (2) ta có hệ phương trình\n$$\n\\left\\{\\begin{array} { l } \n{ \\frac { 1 } { x } + \\frac { 1 } { y } = \\frac { 2 } { 9 } } \\\\\n{ \\frac { 3 } { x } + \\frac { 2 } { y } = \\frac { 1 } { 2 } }\n\\end{array} \\Leftrightarrow \\left\\{\\begin{array} { l } \n{ \\frac { 2 } { x } + \\frac { 2 } { y } = \\frac { 4 } { 9 } } \\\\\n{ \\frac { 3 } { x } + \\frac { 2 } { y } = \\frac { 1 } { 2 } }\n\\end{array} \\Leftrightarrow \\left\\{\\begin{array} { l } \n{ \\frac { 1 } { x } = \\frac { 1 } { 1 8 } } \\\\\n{ \\frac { 1 } { x } = \\frac { 1 } { 6 } }\n\\end{array} \\Leftrightarrow \\left\\{\\begin{array}{l}\nx=18 \\\\\ny=6\n\\end{array}\\right.\\right.\\right.\\right. \\text { (thỏa mãn điều kiện). }\n$$\nVậy nếu làm một mình xong công việc, người I cần 18 giờ, người II cần 6 giò.\nHai vòi nưóc cung chày vào bể can thì sau 2 giò đầy bể. Nâu mó vời I trong 45 phút rồi khóa lại và mó vòi II trong 30 phút thì cá hai vòi chảy đưọc $\\frac{1}{3}$ bẻ. Hỏi mời vơi cháy riêng đầy bễ trong bao lâu?",
+            "neg_similar": " \nĐô: 45 phút $=0,75$ gió, 40 phut $=0,5$ gió.\nGọi thời gian vòi I, vòi II chảy một mình đầy bễ lần lượ là $x, y$ (giò).\nĐiều kiện: $x>0, y>0$.\nSuy ra 1 giò vòi I và vòi II lần lưọt cháy dưọc $\\frac{1}{x}$ và $\\frac{1}{y}$ (be).\n*2 giò cả hai vòi cháy dưọc $2\\left(\\frac{1}{x}+\\frac{1}{y}\\right)$ (be).\nDo cả hai ngưói vời cùng cháy thì sau 2 giò đây bê nên ta có phưong trình\n$$\n2\\left(\\frac{1}{x}+\\frac{1}{y}\\right)-1 \\Leftrightarrow \\frac{1}{x}+\\frac{1}{y}-\\frac{1}{2}\n$$\n*3 giò ngươi thứ 1 làm duxọc $\\frac{3}{\\mathrm{x}}$ (be)\n*45 phút vòi I cháy được $\\frac{0,75}{x}$ (bê), 30 phút vòi II cháy dưọc $\\frac{0,5}{y}$ (bê) .\nVi mỏ vời I trong 45 phút rồ khóa lại và mó vòi II trong 30 phút thì cả hai vòi cháy dưọc $\\frac{1}{3}$ bể nên ta có phuong trinh $\\frac{0,75}{x}+\\frac{0,5}{y}-\\frac{1}{3} \\Leftrightarrow \\frac{3}{x}+\\frac{2}{y}-\\frac{4}{3}$\nTù (1) và (2) ta có hệ phưong trinh:\n$\\left\\{\\begin{array}{l}\\frac{1}{x}+\\frac{1}{y}-\\frac{1}{2} \\\\ \\frac{3}{x}+\\frac{2}{y}-\\frac{4}{3}\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{l}\\frac{2}{x}+\\frac{2}{y}-1 \\\\ \\frac{3}{x}+\\frac{2}{y}-\\frac{4}{3}\\end{array} \\Rightarrow\\left\\{\\begin{array}{l}\\frac{1}{x}-\\frac{1}{3} \\\\ \\frac{1}{y}-\\frac{1}{6}\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{l}x=3 \\\\ y=6\\end{array}\\right.\\right.\\right.\\right.$ (thỏa mãn điều keện).\nVây nêu chảy riêng dẻ đầy bẹ, vời I cần 3 giò, vòi II cân 6 gió."
+      },
+      {
+            "query": "2 địa điểm A và B cách nhau 30km. Cùng lúc, 1 người đi xe máy từ A, một người đi xe đạp từ B. ngược chiều thì sau 40p họ gặp nhau. Nếu đi cùng chiều A đến B thì 2 người gặp nhau ở C. Tính vận tốc mỗi xe?\n ",
+            "pos_similar": "$30 \\mathrm{~km} / \\mathrm{h}$ và $15 \\mathrm{~km} / \\mathrm{h}$\nGiải thích các bước giải:\nGọi vận tốc của xe máy là $x(k m / h)$, xe đạp y $(k m / h)(x, y>0)$\n40 phút $=\\frac{2}{3}$ giò̀\nQuãng đường xe máy đi là $\\frac{2}{3}, x$\nQuãng đường xe đạp đi là $\\frac{2}{3} \\cdot y$\nVi họ gặp nhau nếu đi ngược chiều nên:\n$$\n\\begin{aligned}\n& \\frac{2}{3} x+\\frac{2}{3} y=30 \\\\\n& \\Rightarrow x+y=45(1)\n\\end{aligned}\n$$\nNếu đi cùng chiều thì sau $2 \\mathrm{~h}$ xe máy đuổi kịp xe đạp nên ta có:\n$$\n\\begin{aligned}\n& 2 . x-2 . y=A B=30(\\mathrm{~km}) \\\\\n& \\Rightarrow x-y=15(2) \\\\\n& \\operatorname{Tu}(1) ;(2) \\Rightarrow\\left\\{\\begin{array} { l } \n{ x + y = 4 5 } \\\\\n{ x - y = 1 5 }\n\\end{array} \\Rightarrow \\left\\{\\begin{array}{l}\nx=30(\\mathrm{~km} / \\mathrm{h}) \\\\\ny=15(\\mathrm{~km} / \\mathrm{h})\n\\end{array}\\right.\\right.\n\\end{aligned}\n$$\nVậy vận tốc mỗi xe là $30 \\mathrm{~km} / \\mathrm{h}$ và $15 \\mathrm{~km} / \\mathrm{h}$\nHai điểm A và B cách nhau 30km. Cùng lúc, một người đi xe máy khởi hành từ A, một người đi xe đạp khởi hành từ B. Nếu đi ngược chiều thì sau 40p họ gặp nhau. Nếu đi cùng chiều theo hướng từ A đến B thì sau 2h họ gặp nhau tại điểm C (B ở giữa A và C). Tính vận tốc mỗi xe?",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Tìm x, y để C= -18 - |2x – 6| – |3y + 9| đạt giá trị lớn nhất\n ",
+            "pos_similar": " \nTìm các cặp số (x ; y) để biểu thức sau đạt giá trị lớn nhất C = -15 - I2x - 4I - I3y + 9I",
+            "neg_similar": " \nC = -15 - I2x - 4I - I3y + 9I.\n=-15 - (|2x-4|+|3y+9)\n<=-15\nDấu = xr khi 2x=4 và 3x=-y\n<=>x=2 và y=-3"
+      },
+      {
+            "query": "Tìm độ dài hai cạnh của một tam giác vuông, biết rằng: Khi tăng mỗi cạnh $2 \\mathrm{~cm}$ thì diện tích tăng $17 \\mathrm{~cm}^2$; khi giảm mỗi cạnh $1 \\mathrm{~cm}$ thì diện tích giảm $7 \\mathrm{~cm}^2$.\nA. $5 \\mathrm{~cm}$ và $10 \\mathrm{~cm}$.\nB. $4 \\mathrm{~cm}$ và $7 \\mathrm{~cm}$.\nC. $2 \\mathrm{~cm}$ và $3 \\mathrm{~cm}$.\nD. $5 \\mathrm{~cm}$ và $6 \\mathrm{~cm}$.",
+            "pos_similar": " \nTìm độ dài 2 cạnh của góc vuông của 1 tam giác vuông biết : khi tăng mỗi cạnh $2 \\mathrm{~cm}$ thì $\\mathrm{S}$ tăng $17 \\mathrm{~cm}^2$, khi giảm chiều dài cạnh này $3 \\mathrm{~cm}$ và cạnh kia $1 \\mathrm{~cm}$ thì $S$ giảm $11 \\mathrm{~cm}^2$ ?",
+            "neg_similar": " \nGọi độ dài ban đẩu của các cạnh góc vuông lẩn lượt là: $a ; b(a, b>0 ; c m)$\n$\\Rightarrow$ Diện tích của tam giác vuông ba đẩu: $\\frac{1}{2} \\cdot a \\cdot b$\nKhi tăng mỗi cạnh $2 \\mathrm{~cm}$ thì diện tích tăng $17 \\mathrm{~cm} \\wedge 2$\n$$\n\\begin{aligned}\n& \\Rightarrow \\frac{1}{2}(a+2)(b+2)=\\frac{1}{2} \\cdot a b+17 \\\\\n& \\Leftrightarrow a b+2 b+2 a+4=a b+34 \\\\\n& \\Leftrightarrow a+b=15(1)\n\\end{aligned}\n$$\nKhi giảm chiểu dài cạnh kia $3 \\mathrm{~cm}$ và cạnh kia $1 \\mathrm{~cm}$ thì diện tích giảm $11 \\mathrm{~cm} \\wedge 2$\n$$\n\\begin{aligned}\n& \\Rightarrow \\frac{1}{2}(a-3)(b-1)=\\frac{1}{2} a b-11 \\\\\n& \\Leftrightarrow a b-3 b-a+3=a b-22 \\\\\n& \\Leftrightarrow=-a-3 b=-25(2)\n\\end{aligned}\n$$\nTừ (1); (2) =>a = 10; $b=5$ (thỏa mãn)\nVậy độ dài hai cạnh cẩn tìm là $10 \\mathrm{~cm}$ và $5 \\mathrm{~cm}$."
+      },
+      {
+            "query": "Chứng minh rằng: $A=\\frac{3}{1^2 \\cdot 2^2}+\\frac{5}{2^2 \\cdot 3^2}+\\frac{7}{3^2 \\cdot 4^2}+\\ldots+\\frac{19}{9^2 \\cdot 10^2}<1$\n ",
+            "pos_similar": " \nchứng minh rằng : $\\frac{3}{1^2 \\cdot 2^2}+\\frac{5}{2^2 \\cdot 3^2}+\\frac{7}{3^2 \\cdot 4^2}+\\ldots+\\frac{19}{9^2 \\cdot 10^2}<1$",
+            "neg_similar": " \n$\\begin{aligned} & \\frac{3}{1^2 \\cdot 2^2}+\\frac{5}{2^2 .3^2}+\\ldots . .+\\frac{19}{9^2 .10^2} \\\\ & =\\frac{3}{1.4}+\\frac{5}{4.9}+\\ldots . .+\\frac{19}{81.100} \\\\ & =\\frac{1}{1}-\\frac{1}{4}+\\frac{1}{4}-\\frac{1}{9}+\\ldots .+\\frac{1}{81}-\\frac{1}{100} \\\\ & =1-\\frac{1}{100}<1\\end{aligned}$"
+      },
+      {
+            "query": "Biết điểm $A(-1 ; 2)$ thuộc đường thẳng $y=a x+3(a \\neq 0)$. Hệ số của đường thẳng trên bằng:\nA. 3\nB. 0\nC. -1\nD. 1",
+            "pos_similar": " \nCho đường thẳng d: ax + (2a - 1)y + 3 = 0. Tìm a để đường thẳng d đi qua điểm M (1;-1). Khi đó hãy tìm hệ số góc của đường thẳng d.",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Không dùng máy tính hãy so sánh:\n$\\sqrt{10}+\\sqrt{13}$ và $\\sqrt{11}+\\sqrt{12}$\n ",
+            "pos_similar": "$\\begin{aligned} & \\text { b, Ta có: }(\\sqrt{10}+\\sqrt{13})^2=10+13+2 \\sqrt{13.10}=23+2 \\sqrt{130} \\\\ & (\\sqrt{11}+\\sqrt{12})^2=11+12+2 \\sqrt{11.12}=23+2 \\sqrt{132} \\\\ & \\text { Vì } 130<132=>\\sqrt{130}<\\sqrt{132} \\\\ & \\Leftrightarrow=>2 \\sqrt{130}<2 \\sqrt{132}<=>23+2 \\sqrt{130}<23+2 \\sqrt{132} \\\\ & \\Leftrightarrow=>(\\sqrt{10}+\\sqrt{13})^2<(\\sqrt{11}+\\sqrt{12})^2 \\\\ & \\Leftrightarrow=>\\sqrt{10}+\\sqrt{13}<\\sqrt{11}+\\sqrt{12}\\end{aligned}$\nKhông dùng máy tính hãy so sánh:\n$\\sqrt{100}+\\sqrt{200}$ và $\\sqrt{104}+\\sqrt{196}$",
+            "neg_similar": " \n$\\begin{aligned} & \\text { c, }(\\sqrt{100}+\\sqrt{200})^2=100+200+2 \\sqrt{100.200}=300+2 \\sqrt{20000} \\\\ & (\\sqrt{104}+\\sqrt{196})^2=104+196+2 \\sqrt{104.196}=300+2 \\sqrt{20384} \\\\ & \\text { Vì } 20000<20384=>\\sqrt{20000}<\\sqrt{20384} \\\\ & \\Leftrightarrow=>2 \\sqrt{20000}<2 \\sqrt{20384}<=>300+2 \\sqrt{20000}<300+2 \\sqrt{20384} \\\\ & \\Leftrightarrow=>(\\sqrt{100}+\\sqrt{200})^2<(\\sqrt{104}+\\sqrt{196})^2 \\\\ & \\Leftrightarrow=>\\sqrt{100}+\\sqrt{200}<\\sqrt{104}+\\sqrt{196}\\end{aligned}$"
+      },
+      {
+            "query": "Chứng minh đẳng thức sau:\n$\\cos ^4 \\alpha-\\sin ^4 \\alpha=\\cos ^2 \\alpha-\\sin ^2 \\alpha$\n ",
+            "pos_similar": "$\\cos ^4 \\alpha-\\sin ^4 \\alpha=\\cos ^2 \\alpha-\\sin ^2 \\alpha$\n- Ta biến đỗi vế phải của đẳng thức:\n$$\n\\begin{aligned}\n& V P=\\cos ^4 \\alpha-\\sin ^4 \\alpha=\\left(\\cos ^2 \\alpha\\right)^2-\\left(\\sin ^2 \\alpha\\right)^2 \\\\\n& =\\left(\\cos ^2 \\alpha-\\sin ^2 \\alpha\\right)\\left(\\sin ^2 \\alpha+\\cos ^2 \\alpha\\right) \\\\\n& =\\left(\\cos ^2 \\alpha-\\sin ^2 \\alpha\\right) \\cdot 1=\\cos ^2 \\alpha-\\sin ^2 \\alpha=V T\n\\end{aligned}\n$$\n$\\rightarrow$ Vậy đẳng thức được chứng minh.\nChứng minh đẳng thức sau:\n$\\sin ^4 \\alpha+\\cos ^2 \\alpha \\cdot \\sin ^2 \\alpha+\\sin ^2 \\alpha=2 \\sin ^2 \\alpha$",
+            "neg_similar": " \n$\\sin ^4 \\alpha+\\cos ^2 \\alpha \\cdot \\sin ^2 \\alpha+\\sin ^2 \\alpha=2 \\sin ^2 \\alpha$\n- Ta có:\n$$\n\\begin{aligned}\n& V P=\\sin ^4 \\alpha+\\cos ^2 \\alpha \\cdot \\sin ^2 \\alpha+\\sin ^2 \\alpha \\\\\n& =\\sin ^2 \\alpha \\cdot\\left(\\sin ^2 \\alpha+\\cos ^2 \\alpha+1\\right) \\\\\n& =\\sin ^2 \\alpha \\cdot(1+1)=2 \\cdot \\sin ^2 \\alpha=V T\n\\end{aligned}\n$$\n$\\rightarrow$ Vậy đẳng thức được chứng minh."
+      },
+      {
+            "query": "Cho hình vuông $A B C D$ cạnh bằng $2 a \\sqrt{2}$. Tính tích vô hướng $\\overrightarrow{A B} \\cdot \\overrightarrow{A C}$.\n ",
+            "pos_similar": "Ta có: $\\overrightarrow{A B} \\cdot \\overrightarrow{A C}=|\\overrightarrow{A B}| \\cdot|\\overrightarrow{A C}| \\cdot \\cos (\\overrightarrow{A B}, \\overrightarrow{A C})$. Vì tam giác $A B C$ vuông tại $A$ nên $A C^2=A B^2+B C^2=(2 a \\sqrt{2})^2+(2 a \\sqrt{2})^2=16 a^2$ $\\Rightarrow A C=4 a$. Suy ra $\\overrightarrow{A B} \\cdot \\overrightarrow{A C}=2 a \\sqrt{2} \\cdot 4 a \\cdot \\cos 45^{\\circ}=8 a^2$\nCho tam giác $A B C$ vuông tại $A$ có $\\widehat{B}=60^{\\circ}, A B=a$. Tính tích vô hướng $\\overrightarrow{A C} \\cdot \\overrightarrow{C B}$.",
+            "neg_similar": " \nTa có:\n$$\n\\begin{aligned}\n& \\overrightarrow{A C} \\cdot \\overrightarrow{C B}=-\\overrightarrow{C A} \\cdot \\overrightarrow{C B}=-C A \\cdot C B \\cdot \\cos \\widehat{A C B} \\\\\n& \\overrightarrow{A C} \\cdot \\overrightarrow{C B}=-a \\sqrt{3} \\cdot 2 a \\cdot \\cos 30^{\\circ}=-3 a^2\n\\end{aligned}\n$$"
+      },
+      {
+            "query": "Giải và biện luận bất phương trình sau: $m x+6<2 x+3 m$ (1).\n ",
+            "pos_similar": "Ta có: $(1) \\Leftrightarrow(m-2) x<3 m-6$.\n+) Với $\\mathrm{m}-2=0 \\Leftrightarrow \\mathrm{m}=2$ : bất phương trình trở thành $0 . x<0$, suy ra bất phương trình vô nghiệm.\n+) Với $m-2>0 \\Leftrightarrow m>2$ : $(1) \\Leftrightarrow x<\\frac{3 m-6}{m-2}=3$, suy ra bất phương trình có nghiệm $\\mathrm{x}<3$.\n+) Với $m-2<0 \\Leftrightarrow m<2$ : $(1) \\Leftrightarrow x>\\frac{3 m-6}{m-2}=3$, suy ra bất phương trình có nghiệm $\\mathrm{x}>3$.\nVậy:\nVới m = 2 tập nghiệm của bất phương trình là $S=\\emptyset$.\nVới $\\mathrm{m}>2$ tập nghiệm của bất phương trình là $S=(-\\infty ; 3)$.\nVới m < 2 tập nghiệm của bất phương trình là $S=(3 ;+\\infty)$.\nGiải và biện luận bất phương trình: $m\\left(m^2 x+2\\right)<x+m^2+1$.",
+            "neg_similar": " \nBất phương trình tương đương với:\n$$\n\\begin{aligned}\n& \\left(m^3-1\\right) x<m^2-2 m+1 \\\\\n& \\Leftrightarrow(m-1) x<\\frac{(m-1)^2}{m^2+m+1}\n\\end{aligned}\n$$\n+) Với $m=1$ : bất phương trình trở thành $0 x<0$, suy ra bất phương trình vô nghiệm.\n+) Với $m>1$ : bất phương trình tương đương với $x<\\frac{m-1}{m^2+m+1}$\n+) Với $\\mathrm{m}<1$ bất phương trình tương đương với $x>\\frac{m-1}{m^2+m+1}$\nVậy:\n$\\mathrm{m}=1$, bất phương trình vô nghiệm.\n$\\mathrm{m}>1$, bất phương trình có nghiệm là $x<\\frac{m-1}{m^2+m+1}$.\n$\\mathrm{m}<1$, bất phương trình có nghiệm là $x>\\frac{m-1}{m^2+m+1}$."
+      },
+      {
+            "query": "Cho $x \\neq 0$. Tìm giá trị nhó nhất của biều thức $T=8 x^2-4 x+\\frac{1}{4 x^2}+15$.\n ",
+            "pos_similar": "$\\begin{aligned} & \\text { Có } T=\\left(4 x^2-4 x+1\\right)+\\left(4 x^2+\\frac{1}{4 x^2}\\right)+14 \\\\ & =(2 x-1)^2+\\left(4 x^2+\\frac{1}{4 x^2}\\right)+14 \\geq 0+2 \\sqrt{4 x^2 \\cdot \\frac{1}{4 x^2}}+14=16 \\\\ & \\text { Vậy } M i n T=16 \\text { khi } x=\\frac{1}{2}\\end{aligned}$\nCho $x>0$. Tìm giá trị nhỏ nhất của biều thức $M=4 x^2-3 x+\\frac{1}{4 x}+2011$.",
+            "neg_similar": " \n$\\begin{aligned} & \\text { Có } M=4 x^2-4 x+1+x+\\frac{1}{4 x}+2010 \\\\ & =(2 x-1)^2+\\left(x+\\frac{1}{4 x}\\right)+2010 \\geq 0+2 \\sqrt{x \\cdot \\frac{1}{4 x}}+2010=2011 . \\\\ & \\text { Vậy } M \\text { in } M=2011 \\text { khi } x=\\frac{1}{2}\\end{aligned}$"
+      },
+      {
+            "query": "Cho phương trình $x^2+m x-3=0$. Tìm $m$ để phương trình có hai nghiệm phân biệt $x_1, x_2$ thỏa mãn $\\left|x_1\\right|+\\left|x_2\\right|=4$.\n ",
+            "pos_similar": "Có $a c=-3<0 \\forall m$ do đó phương trình đã cho luôn có hai nghiệm phân biệt $x_1, x_2$\nTheo định lý Viét, ta có $x_1+x_2=-\\frac{b}{a}=-m, x_1 x_2=\\frac{c}{a}=-3$\nXét $\\left(\\left|x_1\\right|+\\left|x_2\\right|\\right)^2=x_1^2+x_2^2+2\\left|x_1 x_2\\right|=\\left(x_1+x_2\\right)^2-2 x_1 x_2+2\\left|x_1 x_2\\right|$\n$=m^2-2 \\cdot(-3)+2|-3|=m^2+12$\nDo đó $\\left|x_1\\right|+\\left|x_2\\right|=4 \\Leftrightarrow m^2+12=16 \\Rightarrow m= \\pm 2$\nVậy $m= \\pm 2$ là giá trị cần tìm.\nCho phueong trình $x^2+m x+2 m-4=0$. Tìm $m$ aê phuoong trình có hai nghiẹm phân biệt $x_1, x_2$ thóa mãn $\\left|x_1\\right|+\\left|x_2\\right|=3$.",
+            "neg_similar": " \nCó $\\Delta=(-m)^2-4 \\cdot(2 m-4)=m^2-8 m+16=(m-4)^2$\nPhương trình có hai nghiệm phân biệt $x_1, x_2$ khi $\\Delta^{\\prime}>0 \\Leftrightarrow m \\neq 4$\nTheo định lý Viét, ta có $x_1+x_2=-\\frac{b}{a}=m, x_1 x_2=\\frac{c}{a}=2 m-4$\nXét $\\left(\\left|x_1\\right|+\\left|x_2\\right|\\right)^2=x_1^2+x_2^2+2\\left|x_1 x_2\\right|=\\left(x_1+x_2\\right)^2-2 x_1 x_2+2\\left|x_1 x_2\\right|$ $=m^2-2 \\cdot(2 m-4)+2|2 m-4|=m^2-4 m+8+4 .|m-2|=(m-2)^2+4|m-2|+4$\nNên $\\left|x_1\\right|+\\left|x_2\\right|=3 \\Rightarrow(m-2)^2+4|m-2|+4=9$\n$(m-2)^2+4|m-2|-5=0 \\Rightarrow|m-2|=1 \\Rightarrow m=1, m=3$ (thảo mãn).\nVậy $m=1, m=3$ là giá trị cần tìm."
+      }
+]

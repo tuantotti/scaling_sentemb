@@ -1,0 +1,492 @@
+[
+      {
+            "query": "Để cho các alen của một gen phân li đồng đều về các giao tử, 50% giao tử chứa alen này, 50% giao tử chứa alen kia thì cần có điều kiện gì?\n  \n A. Bố mẹ phải thuần chủng\n    B. Số lượng cá thể con lai phải lớn\n    C. Alen trội phải trội hoàn toàn so với alen lặn\n    D. Quá trình giảm phân phải xảy ra bình thường\n    E. Tất cả các điều kiện trên\n",
+            "pos_similar": "Để cho các alen của một gen phân li đồng đều về các giao tử, 50% giao tử chứa alen này, 50% giao tử chứa alen kia thì cần có điều kiện gì?\n\n   A. Bố mẹ phải thuần chủng\n    B. Số lượng cá thể con lai phải lớn\n    C. Alen trội phải trội hoàn toàn so với alen lặn\n    D. Quá trình giảm phân phải xảy ra bình thường\n    E. Tất cả các điều kiện trên",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Dựa vào đâu mà Menđen có thể đi đến kết luận các cặp nhân tố di truyền trong thí nghiệm trên lại phân li độc lập trong quá trình hình thành giao tử?\n ",
+            "pos_similar": "Dựa vào đâu mà Menđen có thể đi đến kết luận các cặp nhân tố di truyền trong thí nghiệm trên lại phân li độc lập trong quá trình hình thành giao tử?\n ",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Dưới đây là kết quả thí nghiệm lai ruồi giấm của Moocgan. Hãy giải thích kết quả của các phép lai và viết sơ đồ lai từ P đến F2.\n\n\nPt/c: ♀ Thân xám, cánh dài x ♂ Thân đen, cánh cụt\n\nF1: 100% thân xám, cánh dài\n\n♂ Thân xám, cánh dài x ♀ Thân đen, cánh cụt\n\nFa: 1 thân xám, cánh dài: 1 thân đen, cánh cụt\n ",
+            "pos_similar": "Dưới đây là kết quả thí nghiệm lai ruồi giấm của Moocgan. Hãy giải thích kết quả của các phép lai và viết sơ đồ lai từ P đến F2.\n\n\nPt/c: ♀ Thân xám, cánh dài x ♂ Thân đen, cánh cụt\n\nF1: 100% thân xám, cánh dài\n\n♂ Thân xám, cánh dài x ♀ Thân đen, cánh cụt\n\nFa: 1 thân xám, cánh dài: 1 thân đen, cánh cụt\n ",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Câu nào dưới đây giải thích về ưu thế lai là đúng?\n\n\n\nA. Lai hai dòng thuần chủng với nhau sẽ luôn cho ra con lai có ưu thế lai cao.\n\n\nB. Lai các dòng thuần chủng khác xa nhau về khu vực địa lí luôn cho ưu thế lai cao.\n\n\nC. Chỉ có một số tổ hợp lai giữa các cặp bố mẹ nhất định mới có thể cho ưu thế lai.\n\n\nD. Người ta không sử dụng con lai có ưu thế lai cao làm giống vì con lai thường không thuần chủng.",
+            "pos_similar": "Câu nào dưới đây giải thích về ưu thế lai là đúng?\n\n\n\nA. Lai hai dòng thuần chủng với nhau sẽ luôn cho ra con lai có ưu thế lai cao.\n\n\nB. Lai các dòng thuần chủng khác xa nhau về khu vực địa lí luôn cho ưu thế lai cao.\n\n\nC. Chỉ có một số tổ hợp lai giữa các cặp bố mẹ nhất định mới có thể cho ưu thế lai.\n\n\nD. Người ta không sử dụng con lai có ưu thế lai cao làm giống vì con lai thường không thuần chủng.",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "HIV truyền từ người này sang người khác bằng những con đường nào?\n ",
+            "pos_similar": " \n ",
+            "neg_similar": "HIV lây truyền qua các con đường nào sau đây?\n\na) Ho, hắt hơi;\nb) Dùng chung bơm, kim tiêm;\nc) Bắt tay người nhiễm HIV;\nd) Dùng chung nhà vệ sinh; đ) Dùng chung cốc, bát đũa;\ne) Qua quan hệ tình dục;\ng) Truyền máu;\nh) Muỗi đốt;\ni) Mẹ truyền sang con."
+      },
+      {
+            "query": "Cho các đặc điểm sau:\n(1) Có màng kép (2 lớp màng cơ sở)\n(2) Chất nền có chứa ADN và riboxom\n(3) Hệ thống enzim được đính ở lớp màng trong\n(4) Có ở tế bào thực vật\n(5) Có ở tế bào động vật và thực vật\n(6) Tạo năng lượng cho tế bào\nCó mấy đặc điểm chỉ có ở lục lạp?\nA. 2    B. 3    C. 4    D. 5\nA. 2    B. 4    C. 5    D. 6",
+            "pos_similar": "(1) Có màng kép trơn nhẵn\n\n(2) Chất nền có chứa ADN và riboxom\n\n(3) Hệ thống enzim được đính ở lớp màng trong\n\n(4) Có ở tế bào thực vật\n\n(5) Có ở tế bào động vật và thực vật\n\n(6) Cung cấp năng lượng cho tế bào\n\nCó mấy đặc điểm chỉ có ở lục lạp?\n\n\nA. 2    B. 4    C. 5    D. 6",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Ở đậu Hà Lan gen A quy định hạt vàng, a quy định hạt xanh; B quy định hạt trơn, b quy định hạt nhăn, hai cặp gen này phân li độc lập với nhau. Phép lai không làm xuất hiện kiểu hình xanh, nhăn là\n\nA. AaBb x AaBb\n\nB. aabb x AaBb\n\nC. Aabb x  aaBB\n\nD. AaBb x aaBb.\nChọn C\n\n\nĐể thế hệ lai không làm xuất hiện kiểu hình xanh, nhăn (aabb) thì bố hoặc mẹ đều không cho giao tử ab.\n\n\nTrong các phép lai trên, chỉ có phép lai C là ở cơ thể aaBB không tạo giao tử ab",
+            "pos_similar": " \n ",
+            "neg_similar": "Ở đậu Hà lan, gen A quy định hạt vàng, gen a quy định hạt xanh; gen B quy định hạt trơn và gen b quy định hạt nhăn. Hai cặp gen này phân ly độc lập với nhau. Phép lai nào dưới đây sẽ cho con lai F1 có ít KG và KH nhất ?\nA.\tAABB x AaBb             B.  AABb xAabb              C.  Aabb x aaBb            D. AABB x AABb\n\nĐáp án D \n\n \n\nGiải thích các bước giải:\n\n Câu D vì nó có ít alen cùng loại dị hợp nhất"
+      },
+      {
+            "query": " Xác định tên ba cơ quan mà thức ăn không đi qua.\nA. Thực quản, dạ dày và ruột già.\nB. Túi mật, gan và tuyến tụy.\nC. Miệng, ruột non và ruột già.\nD. Miệng, dạ dày và hậu môn.",
+            "pos_similar": " \n ",
+            "neg_similar": "1. Tiêu hóa gồm những cơ quan nào? Chức năng của từng cơ quan trong hoạt động tiêu hóa thức ăn?\n2. Vì sao nói cơ quan trong hệ tiêu hóa đã phối hợp và thống nhất vs nhau trong quá trình biến đổi thức ăn?\n "
+      },
+      {
+            "query": "Ở ruồi giấm 2n=8. Một tế bào ruồi giấm đang ở kì sau của nguyên phân. Số NST trong tế bào đó bằng bao nhiêu trong các trường hợp sau?\n\n\na) 4\n\nb) 8\n\nc) 16\n\nd) 32.",
+            "pos_similar": " \n ",
+            "neg_similar": "Ruồi giấm có bộ NST lưỡng bội 2n = 8. Một tế bào ruồi giấm đang ở kì sau của giảm phân II. Tế bào đó có số NST đơn là bao nhiêu?\n "
+      },
+      {
+            "query": "Những biến đổi hình thái của NST được biểu hiện qua sự đóng và duỗi xoắn điển hình ở các kì nào? Tại sao nói sự đóng và duỗi xoắn của NST có tính chất chu kì?\n ",
+            "pos_similar": "Nêu những biến đổi hình thái của NST được biểu hiện qua sự đóng và duỗi xoắn điển hình ở các kì nào? Tại sao nói sự đóng và duỗi xoắn của NST có tính chất chu kì?\n ",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Hãy giải thích thí nghiệm của Moocgan về sự di truyền liên kết dựa trên cơ sở tế bào học.\n ",
+            "pos_similar": "Hãy giải thích thí nghiệm của Moocgan về sự di truyền liên kết dựa trên cơ sở tế bào học.\n ",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Ở người gen A quy định tóc xoăn, gen a quy định tóc thẳng, gen B quy định mắt đen, gen b quy định mắt xanh. Các gen này phân li độc lập với nhau.\n\n\nBố tóc thẳng, mắt xanh. Hãy chọn người mẹ có kiểu gen phù hợp trong các trường hợp sau để con sinh ra đều mắt đen, tóc xoăn?\n\n\n\nA. AaBb\n\n\nB. AaBB\n\n\nC. AABb\n\n\nD. AABB",
+            "pos_similar": "Ở người gen A quy định tóc xoăn, gen a quy định tóc thẳng, gen B quy định mắt đen, gen b quy định mắt xanh. Các gen này phân li độc lập với nhau.\n\n\nBố tóc thẳng, mắt xanh. Hãy chọn người mẹ có kiểu gen phù hợp trong các trường hợp sau để con sinh ra đều mắt đen, tóc xoăn?\n\n\nA. AaBb\n\nB. AaBB\n\nC. AABb\n\nD. AABB",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Ở cà chua gen A quy định thân đỏ thẫm, gen a quy định thân xanh lục. Theo dõi sự di truyền màu sắc thân cây cà chua, người ta thu được kết quả sau:\nP: Thân đỏ thẫm x Thân đỏ thẫm → F1: 75% đỏ thẫm : 25% màu lục\n\nHãy chọn kiểu gen P phù hợp trong các công thức lai sau\n\nA. P: AA x AA\n\nB. P: AA x Aa\n\nC. P: AA x aa\n\nD. P: Aa x Aa\nA – thân đỏ thẫm        a – thân xanh lục\n\nTheo bài ra ta có: Thân đỏ thẫm/thân xanh lục = 75%/25% = 3/1 \nVậy kiểu gen của P là Aa (thân đỏ thẫm) x Aa (thân đỏ thẫm) ⇒ đáp án D",
+            "pos_similar": " \n ",
+            "neg_similar": "Ở cà chua gen A quy định thân đỏ thẫm, gen a quy định thân xanh lục. Theo dõi sự di truyền màu sắc thân cây cà chua người ta thu được kết quả như sau: F1 có 51% đỏ thẫm, 49% xanh lục. Hãy biện luận viết sơ đồ lai từ P đến F2\n "
+      },
+      {
+            "query": "Điền từ hoặc cụm từ thích hợp vào chỗ trống trong các câu sau:\n\n\nHệ sinh thái bao gồm …………… và ………… của quần xã (sinh cảnh), Hệ sinh thái là một hệ thống ………… và tương đối …………\n\n\nCác sinh vật trong quần xã gắn bó với nhau bởi nhiều mối quan hệ, trong đó quan hệ ………… có vai trò quan trọng được thể hiện qua …………… và …………\nHệ sinh thái bao gồm quần xã sinh vật và môi trường sống của quần xã (sinh cảnh). Hệ sinh thái là một hệ thống hoàn chỉnh và tương đối ổn định.\n\n\nCác sinh vật trong quần xã gắn bó với nhau bởi nhiều mối quan hệ, trong đó quan hệ dinh dưỡng có vai trò quan trọng được thể hiện qua chuỗi và lưới thức ăn.",
+            "pos_similar": "Điền từ hoặc cụm từ thích hợp vào chỗ trống trong các câu sau:\n\n\nHệ sinh thái bao gồm …………… và ………… của quần xã (sinh cảnh), Hệ sinh thái là một hệ thống ………… và tương đối …………\n\n\nCác sinh vật trong quần xã gắn bó với nhau bởi nhiều mối quan hệ, trong đó quan hệ ………… có vai trò quan trọng được thể hiện qua …………… và …………\nHệ sinh thái bao gồm quần xã sinh vật và môi trường sống của quần xã (sinh cảnh). Hệ sinh thái là một hệ thống hoàn chỉnh và tương đối ổn định.\n\n\nCác sinh vật trong quần xã gắn bó với nhau bởi nhiều mối quan hệ, trong đó quan hệ dinh dưỡng có vai trò quan trọng được thể hiện qua chuỗi và lưới thức ăn.",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Nêu những điểm giống và khác nhau cơ bản giữa giảm phân và nguyên phân.\n\n\n ",
+            "pos_similar": "Nêu những điểm giống và khác nhau cơ bản giữa giảm phân và nguyên phân.\n ",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Một đoạn mạch đơn của phân tử ADN có trình tự sắp xếp như sau:– A – G – T – X – X – G – A – T – . Hãy viết trình tự sắp xếp các nuclêôtit của đoạn mạch đơn bổ sung với nó.\n ",
+            "pos_similar": " \n ",
+            "neg_similar": "Một đoạn mạch đơn của phân tử ADN có trình tự sắp xếp như sau:\n\n\n– A – T – G – X – T – A – G –T – X –\n\nHãy viết đoạn mạch đơn bổ sung với nó.\n "
+      },
+      {
+            "query": "Hãy cho biết điểm khác nhau giữa một sinh vật đơn bào và một tế bào trong cơ thể sinh vật đa bào.\nĐiểm khác nhau giữa một sinh vật đơn bào và một tế bào trong cơ thể sinh vật đa bào là:\n\n- Sinh vật đơn bào dù chỉ được cấu tạo từ một tế bào nhưng vẫn đảm nhiệm chức năng của một cơ thể sống (mọi hoạt động sống của cơ thể đều được thực hiện trong tế bào này).\n\n- Một tế bào trong cơ thể sinh vật đa bào không đảm nhận chức năng của một cơ thể sống (mỗi tế bào sẽ giữ một chức năng nhất định) mà phối hợp với các tế bào khác để duy trì hoạt động sống của cơ thể sinh vật đa bào.\n\n",
+            "pos_similar": " \n ",
+            "neg_similar": "So sánh điểm giống nhau và khác nhau giữa cơ thể đơn bào và cơ thể đa bào.  \nA. Đều là vật sống\nB. Cấu trúc tế bào gồm những phần chính: màng tế bào, chất tế bào và vật chất di truyền (nhân tế bào hoặc vụng nhân).\nC. Đều được cấu tạo từ tế bào\nD. Các đáp án trên đều đúng"
+      },
+      {
+            "query": "Trình bày diễn biến của cơ chế phiên mã và kết quả của nó.\n\n\n ",
+            "pos_similar": "Trình bày diễn biến của cơ chế phiên mã và kết quả của nó.\n ",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Bệnh mù màu đỏ - xanh lục ở người là do 1 gen lặn nằm trên NST X quy định. Một phụ nữ bình thường có em trai bị bệnh mù màu lấy 1 người chồng bình thường. Nếu cặp vợ chồng này sinh ra được 1 người con trai thì xác suất để người con trai đó bị mù màu là bao nhiêu. Biết rằng bố mẹ của cặp vợ chồng này không bị bệnh.\n\n\n ",
+            "pos_similar": "Bệnh mù màu đỏ - xanh lục ở người là do 1 gen lặn nằm trên NST X quy định. Một phụ nữ bình thường có em trai bị bệnh mù màu lấy 1 người chồng bình thường. Nếu cặp vợ chồng này sinh ra được 1 người con trai thì xác suất để người con trai đó bị mù màu là bao nhiêu. Biết rằng bố mẹ của cặp vợ chồng này không bị bệnh.\n ",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Người ta lai một con ruồi cái mắt nâu và cánh ngắn, lấy từ dòng ruồi thuần chủng với một con ruồi đực thuần chủng có mắt đỏ, cánh dài. Đời F1 có các kiểu hình như sau: toàn bộ ruồi cái có mắt đỏ, cánh dài còn toàn bộ ruồi đực có mắt đỏ nhưng cánh ngắn.\n\n\nCho các con ruồi đực và cái F1 giao phối naẫu nhiên với nhau người ta thu được F2 với tỉ lệ kiểu hình cả ở hai giới như sau:\n\n\n- 3/8 mắt đỏ, cánh dài.\n\n\n- 3/8 mắt đỏ, cánh ngắn.\n\n\n- 1/8 mắt nâu, cánh dài.\n\n\n- 1/8 mắt nâu, cánh ngắn.\n\n\nTừ kết quả lai nói trên hãy xác định kiểu gen của ruồi bố, mẹ. F1 và các con ruồi\n ",
+            "pos_similar": "Người ta lai một con ruồi cái mắt nâu và cánh ngắn, lấy từ dòng ruồi thuần chủng với một con ruồi đực thuần chủng có mắt đỏ, cánh dài. Đời F1 có các kiểu hình như sau: toàn bộ ruồi cái có mắt đỏ, cánh dài còn toàn bộ ruồi đực có mắt đỏ nhưng cánh ngắn.\nCho các con ruồi đực và cái F1 giao phối naẫu nhiên với nhau người ta thu được F2 với tỉ lệ kiểu hình cả ở hai giới như sau:\n-        3/8 mắt đỏ, cánh dài.\n-        3/8 mắt đỏ, cánh ngắn.\n-         1/8 mắt nâu, cánh dài.\n-         1/8 mắt nâu, cánh ngắn.\nTừ kết quả lai nói trên hãy xác định kiểu gen của ruồi bố, mẹ. F1 và các con ruồi\nF2.\n ",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Ở ruồi giấm 2n=8. Một tế bào ruồi giấm đang ở kì sau của nguyên phân. Số NST trong tế bào đó bằng bao nhiêu trong các trường hợp sau?\n\n\na) 4 b) 8 c) 16 d) 32.",
+            "pos_similar": "\n\nỞ ruồi giấm 2n=8. Một tế bào ruồi giấm đang ở kì sau của nguyên phân. Số NST trong tế bào đó bằng bao nhiêu trong các trường hợp sau?\n  \nA. 4 B. 8 C. 16 D. 32",
+            "neg_similar": "Ở ruồi giấm 2n=8. Một tế bào ruồi giấm đang ở kì giữa của nguyên phân. Số NST trong tế bào đó bằng bao nhiêu trong các trường hợp sau?\nA. 4\nB. 16\nC. 8\nD. 32"
+      },
+      {
+            "query": "Cho hai thứ đậu thuần chủng hạt trơn không có tua cuốn và hạt nhăn có tua cuốn giao phấn với nhau được F1 toàn hạt trơn, có tua cuốn. Cho F1 tiếp tục giao phấn với nhau được F2 có tỉ lệ : 1 hạt trơn, không có tua cuốn ; 2 hạt trơn có tua cuốn; 1 hạt nhăn, có tua cuốn. Kết quả phép lai được giải thích như thế nào?\n\n\n     a) Từng cặp tính trạng đều phân li theo tỉ lệ 3 : 1.\n\n     b) Hai cặp tính trạng di truyền độc lập với nhau.\n\n     c) Hai cặp tính trạng di truyền liên kết.\n\n     d) Sự tổ hợp lại các tính trạng ở P.",
+            "pos_similar": "Cho hai thứ đậu thuần chủng hạt trơn không có tua cuốn và hạt nhăn có tua cuốn giao phấn với nhau được F1 toàn hạt trơn, có tua cuốn. Cho F1 tiếp tục giao phấn với nhau được F2 có tỉ lệ : 1 hạt trơn, không có tua cuốn ; 2 hạt trơn có tua cuốn; 1 hạt nhăn, có tua cuốn. Kết quả phép lai được giải thích như thế nào?Hãy lựa chọn câu trả lời đúng và giải thích(viết sơ đồ lai) :\n \nA. Từng cặp tính trạng đều phân li theo tỉ lệ 3:1\n\nB. Hai cặp tính trạng di truyền độc lập với nhau\n\n\nC. Hai cặp tính trạng di truyền liên kết\n\nD. Sự tổ hợp lại các tính trạng của P",
+            "neg_similar": "Cho hai thứ đậu thuần chủng hạt trơn, không tua cuốn và hạt nhăn có tua cuốn giao phấn với nhau được F1 toàn hạt trơn có tua cuốn. Cho F1 tiếp tục giao phấn với nhau được F2 có tỉ lệ:  1 hạt trơn không tua cuốn: 2 hạt trơn, có tua cuốn: 1 hạt nhăn có tua cuốn.  Biết 2 gen quy định 2 tính trạng trên cùng nằm trên 1 NST.\n\nViết sơ đồ lai từ P đến F2 và xác định tỉ lệ KG, KH của F2.\nkhông có"
+      },
+      {
+            "query": "Ở một loài thực vật, alen A quy định thân cao trội hoàn toàn so với alen a quy định thân thấp; alen B quy định hoa đỏ trội hoàn toàn so với alen b quy định hoa trắng, mỗi cặp gen nằm trên một cặp nhiễm sắc thể\nthường. Cây thân thấp, hoa đỏ giao phấn với cây thân cao, hoa trắng (P), thu được F1 có 1 loại kiểu hình.Cho F1 tự thụ phấn, thu được F2. Biết rằng không xảy ra đột biến. Theo lí thuyết, có bao nhiêu phát biểu sau đây đúng?\nI. F2 có 4 kiểu gen quy định kiểu hình thân cao, hoa đỏ.\nII. Lấy ngẫu nhiên 2 cây thân thấp, hoa đỏ ở F2 cho tự thụ phấn, có thể thu được đời con có 12,5% số cây thân thấp, hoa trắng.\nIII. Lấy ngẫu nhiên 1 cây thân cao, hoa đỏ ở F2 cho tự thụ phấn, có thể thu được đời con có 6 kiểu gen và 2 kiểu hình.\nIV. Cho 1 cây thân cao, hoa đỏ giao phấn với 1 cây thân cao, hoa trắng, thu được đời con có tối đa 6 kiểu gen và 2 kiểu hình\nA. 3 \nB. 2 \nC. 1 \nD. 4",
+            "pos_similar": "Ở một loài thực vật, alen A quy định thân cao trội hoàn toàn so với alen a quy định thân thấp; alen B quy định hoa đỏ trội hoàn toàn so với alen b quy định hoa trắng, mỗi cặp gen nằm trên một cặp nhiễm sắc thể thường. Cây thân thấp, hoa đỏ giao phấn với cây thân cao, hoa trắng (P), thu được F1 có 1 loại kiểu hình. Cho F1 tự thụ phấn, thu được F2. Biết rằng không xảy ra đột biến. Theo lí thuyết, có bao nhiêu phát biểu sau đây đúng?\n\nI. F2 có 9 kiểu gen quy định kiểu hình thân cao, hoa đỏ.\n\nII. Lấy ngẫu nhiên 2 cây thân cao, hoa trắng ở F2 cho tự thụ phấn, có thể thu được đời con có 25% số cây thân thấp, hoa trắng.\n\nIII. Lấy ngẫu nhiên 2 cây thân cao, hoa đỏ ở F2 cho giao phấn. Nếu thu được đời con có 6 kiểu gen thì đời con sẽ có 4 kiểu hình.\n\nIV. Cho 1 cây thân thấp, hoa đỏ giao phấn với 1 cây thân cao, hoa đỏ, thu được đời con có tối đa 6 kiểu gen và 2 kiểu hình.\n\n\nA. 3 \nB. 2 \nC. 1 \nD. 4",
+            "neg_similar": "Ở một loài thực vật lưỡng bội, alen A quy định thân cao trội hoàn toàn so với alen a quy đinh thân thâp; alen B quy định hoa đỏ trội hoàn toàn so với alen b quy định hoa vàng. Cho 3 cây thân thấp, hoa đỏ (P) tự thụ phấn, thu được F1. Biết rằng không có đột biến xảy ra. Theo lí thuyết, trong các trường hợp về tỉ lệ kiểu hình sau đây, có tối đa bao nhiêu trường hợp phù hợp với tỉ lệ kiểu hình của F1?\nI. 3 cây thân thấp, hoa đỏ : 1 cây thân thấp, hoa vàng.\n\nII. 5 cây thân thấp, hoa đỏ : 1 cây thân thấp, hoa vàng.\n\nIII. 100% cây thân thấp, hoa đỏ.\n\nIV. 11 cây thân thấp, hoa đỏ : 1 cây thân thấp, hoa vàng.\n\nV. 7 cây thân thấp, hoa đỏ : 1 cây thân thấp, hoa vàng.\n\nA. 3\nB. 5\nC. 2\nD. 4"
+      },
+      {
+            "query": "Ở ruồi giấm gen A quy định tính trạng mắt đỏ trội hoàn toàn so với gen a quy định mắt trắng. Cặp bố mẹ nào sau đây cho tỷ lệ phân li ở $\\mathrm{F}_1$ là: 1 đực mắt đỏ : 1 đực mắt trắng : 1 cái mắt đỏ : 1 cái mắt trắng ?\n\nA. $\\mathrm{X}^{\\mathrm{A}} \\mathrm{Y}, \\mathrm{X}^{\\mathrm{A}} \\mathrm{X}^{\\mathrm{a}}$\nB. $X^A Y, X^a X^a$\nC. $X^a Y, X^A X^a$\nD. $X^{\\mathrm{a}} \\mathrm{Y}, \\mathrm{X}^{\\mathrm{A}} \\mathrm{X}^{\\mathrm{A}}$",
+            "pos_similar": " Ở ruồi giấm, alen A quy định mắt đỏ trội hoàn toàn so với alen a quy định mắt trắng. Biết rằng không xảy ra đột biến. Theo lí thuyết, phép lai nào sau đây cho đời con có kiểu hình phân li theo tỉ lệ: 1 ruồi cái mắt đỏ : 1 ruồi cái mắt trắng : 1 ruồi đực mắt đỏ : 1 ruồi đực mắt trắng?\n\nA. XAXa × XAY. B. XAXa × XaY. C. XAXA × XaY. D. XaXa × XAY",
+            "neg_similar": "Ở ruồi giấm, alen A quy định mắt đỏ trội hoàn toàn so với alen a quy định mắt trắng. Biết rằng không xảy ra đột biến. Theo lí thuyết, phép lai nào sau đây cho đời con có kiểu hình phân li theo tỉ lệ 2 ruồi cái mắt đỏ: 1 ruồi đực mắt đỏ: 1 ruồi đực mắt trắng?\nA. $X^a X^a \\times X^A Y$\nB. $X^A X^a \\times X^a Y$.\nC. $X^A X^a X X^A Y$\nD. $X^A X^A X X^a Y$"
+      },
+      {
+            "query": "Ở cà chua gen D quy định quả đỏ, gen d quy định quả vàng, gen E quy định quả tròn, gen e quy định quả bầu dục. Khi cho lai giống cà chua quả đỏ, tròn với cà chua vàng, bầu dục người ta thu được toàn quả đỏ, tròn. Tiếp tục cho F1 giao phấn với nhau thu được F2: 901 quả đỏ, tròn; 299 đỏ, bầu dục; 301 quả vàng, tròn; 103 vàng, bầu dục. Hãy biện luận và viết sơ đồ lai từ P-> F2 .\nXét tính trạng màu quả\n$$\n\\frac{\\text { Đỏ }}{v a ̀ n g}=\\frac{901+299}{301+103}=\\frac{3}{1}\n$$\nXét tính trạng hình dạng quả\n$$\n\\frac{t r \\text { òn }}{b \\text { ầudục }}=\\frac{901+301}{299+103}=\\frac{3}{1}\n$$\n(3:1) (3:1) = 9:3:3:1 đúng với tỉ lệ để bài\n$\\Rightarrow$ hai tt đang xét di truyển PLĐL\nSđl:\n$\\mathrm{P}$ : DDEE (đỏ, tròn) $\\mathrm{x}$ ddee (vàng, bd)\nG DE de F1: DdEe $(100 \\%$ đỏ, tròn)\nF1xF1: DdEe (đỏ, tròn) x DdEe (đỏ, tròn)\nG DE,De,dE,de DE,De,dE,de\nF1: 1DDEE :2DdEE: 2DDEe :4DdEe\n1 DDee : 2Ddee\n1ddEE : 2ddEe\n1 ddee\nTLKH: 9 đỏ, tròn : 3 đỏ, bd: 3 vàng, tròn : 1 vàng, bd",
+            "pos_similar": "Ở cà chua gen A quy định quả đỏ, a quy định quả vàng; B quy định quả tròn, b quy định quả bầu dục. Khi cho lai hai giống cà chua quả đỏ, dạng quả bầu dục và quả vàng, dạng tròn với nhau được F1 đều cho cà chua quả đỏ, dạng tròn. F1 giao phấn với nhau được F2 có 901 cây quả đỏ, tròn; 299 câu quả đỏ, bầu dục; 301 cây quả vàng, tròn; 103 cây quả vàng, bầu dục.\n\nHãy chọn kiểu gen của P phù hợp với phép lai trên trong các trường hợp sau:\n\n\na) P: AABB x aabb\n\nb) P: Aabb x aaBb\n\nc) P: AaBB x AABb\n\n \n\nd) P : AAbb x aaBB",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Phân tử ADN ở vùng nhân của E.coli có tổng số liên kết hiđro là 3450 liên kết. Trên mạch 1 có số lượng nuclêôtit loại G bằng loại X và số X gấp 3 lần nuclêôtit loại A trên mạch đó. Số lượng nuclêôtit loại A trên mạch 2 gấp 5 lần số lượng A trên mạch 1. Xác định phương án trả lời sai:\n\n\nA. Khi phân tử ADN nhân đôi 2 lần đã lấy từ môi trường 2070 nuclêôtit loại A và 2070 nu loại X \nB. Số lượng liên kết hóa trị giữa các nuclêôtit trong phân tử ADN trên là 2758 \nC. Phân tử ADN có A = T = G = X = 690 \nD. Mạch 2 có số lượng các loại nu A = 575; T = 115; G = 345; X = 345",
+            "pos_similar": "Phân tử ADN ở vùng nhân của E.coli có tổng số liên kết hidro là 3450 liên kết. Trên mạch 1 có số lượng nuclêôtit loại G bằng loại X và số X gấp 3 lần nuclêôtit loại A trên mạch đó. số lượng nuclêôtit loại A trên mạch 2 gấp 5 lần số lượng A trên mạch 1. Xác định phương án trả lời sai:\n\n\nA: Mạch 2 có số lượng các loại nucleotit A= 575; T=115 ; G= 345; X= 345 \n\nB: phân tử ADN có A=T=G=X=690 \n\nC: Số lượng liên kết hóa trị giữa các nuclêôtit trong phân tử ADN trên là 2758 \n\nD:  khi phân tử ADN nhân đôi 2 lần đã lấy từ môi trường 2070 nu loại A và 2070 nuclêôtit loại X ",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Trong phép lai giữa hai cá thể có kiểu gen sau đây:\n\n\n♂AaBbCcDdEe X ♀aaBbccDdee\n\n\nCác cặp gen quy định các tính trạng khác nhau nằm trên các cặp NST tương đồng khác nhau. Hãy cho biết:\n\n\na) Tỉ lệ đời con có kiểu hình trội về 5 tính trạng là bao nhiêu?\n\n\nb) Tỉ lệ đời con có kiểu hình giống mẹ là bao nhiéu?\n\n\nc) Tỉ lệ đời con có kiểu gen giống bố là bao nhiêu?\n ",
+            "pos_similar": "Trong phép lai giữa hai cá thể có kiểu gen sau đây:\n\n♂ AaBbCcDdEe x ♀ aaBbccDdee\n\nCác cặp gen quy định các tính trạng khác nhau nằm trên các cặp NST tương đồng khác nhau. Hãy cho biết:\n\n\n      a) Tỉ lệ đời con có kiểu hình trội về tất cả 5 tính trạng là bao nhêu?\n\n      b) Tỉ lệ đời con có kiểu hình giống mẹ là bao nhiêu?\n\n      c) Tỉ lệ đời con có kiểu gen giống bố là bao nhiêu?\n\n\n ",
+            "neg_similar": " \n "
+      },
+      {
+            "query": "Ruồi giấm có 2n = 8. Một tế bào của ruồi giấm đang ở kì sau của giảm phân II. Tế bào đó có bao nhiêu NST đơn\nA. 2\nB. 4\nC. 8\nD. 16",
+            "pos_similar": "Ruồi giấm có 2n = 8. Một tế bào của ruồi giấm đang ở kì sau của giảm phân II. Tế bào đó có bao nhiêu NST đơn trong các trường hợp sau đây? (Hãy đánh dấu x vào đầu ý lựa chọn)\nA.2 ;        B. 4 ;        C. 8 ;        D.16\n",
+            "neg_similar": "Ở ruồi giấm 2n = 8. Một tế bào ruồi giấm đang ở kì sau của giảm phân I. Số NST kép trong tế bào đó bằng bao nhiêu trong các trường hợp sau?\nA. 4\nB. 8\nC. 16\nD. 32"
+      },
+      {
+            "query": "Tập hợp sinh vật nào sau đây là quần thể sinh vật?\nA. Tập hợp cây cỏ đang sinh sống trên một đồng cỏ\nB. Tập hợp cá chép đang sinh sống ở Hồ Tây\nC. Tập hợp bướm đang sinh sống trong rừng Cúc Phương \nD. Tập hợp chim đang sinh sống trong rừng Amazon ",
+            "pos_similar": "Tập hợp sinh vật nào sau đây là quần thể sinh vật?\nA. Tập hợp cây cỏ đang sinh sống trên một cánh đồng cỏ.\nB. Tập hợp bướm đang sinh sống trong rừng Cúc phương.\nC. Tập hợp chim đang sinh sống trong rừng Amazôn.\nD. Tập hợp cá chép đang sinh sống ở Hồ Tây.",
+            "neg_similar": "Tập hợp sinh vật nào sau đây là quần thể sinh vật?\nA. Tập hợp động vật ăn cỏ sống ở Châu Phi.\nB. Tập hợp những cây cỏ đang sống ở cao nguyên Mộc Châu.\n\nC. Tập hợp cá trắm đen sống ở Hồ Tây.\n\nD. Tập hợp chim sống ở vườn quốc gia Xuân Thủy."
+      },
+      {
+            "query": "Tập hợp nào sau đây là quần xã sinh vật?\nA. Các con lươn trong một đầm lầy\nB. Các con dế mèn trong một bãi đất\nC. Các con hổ trong mộ khu rừng\nD. Các con cá trong một hồ tự nhiên",
+            "pos_similar": "Tập hợp nào sau đây là quần xã sinh vật?\nA. Các con hổ trong một khu rừng\nB. Các con cá trong một hồ tự nhiên\nC. Các con dế mèn trong một bãi đất\nD. Các con lươn trong một đầm lầy",
+            "neg_similar": "Tập hợp các sinh vật nào dưới đây được coi là một quần xã?\nA. Đồi cọ ở Vĩnh Phúc\nB. Những con hổ sống trong vườn bách thú\nC. Đàn voi trong rừng\nD. Tôm, cá trong Hồ Tây"
+      },
+      {
+            "query": "Cho chuỗi thức ăn: Lúa→Châu chấu→Nhái→ Rắn →Diều hâu. Trong chuỗi thức ăn này, sinh vật tiêu thụ bậc 2 là\nA. lúa\nB. châu chấu\nC. nhái\nD. rắn",
+            "pos_similar": "Cho chuỗi thức ăn: Lúa → Châu chấu → Nhái → Rắn → Diều hâu. Trong chuỗi thức ăn này, nhái là\nA. sinh vật sản xuất.\nB. sinh vật tiêu thụ bậc 1.\nC. sinh vật tiêu thụ bậc 2.\nD. sinh vật tiêu thụ bậc 3.",
+            "neg_similar": "Cho chuỗi thức ăn sau:\nLúa → Châu chấu → Ếch → Rắn → Đại bàng\nTiêu diệt mắt xích nào sẽ gây hậu quả lớn nhất:\nA. Châu chấu.\nB. Ếch.\nC. Rắn.\nD. Đại bàng và lúa."
+      },
+      {
+            "query": "Cho chuỗi thức ăn sau: Lúa → Châu chấu → Ếch → Rắn → Đại bàng. Trong chuỗi thức ăn trên, mắt xích khi bị tiêu diệt sẽ gây hậu quả lớn nhất là\nA. châu chấu.\nB. ếch.\nC. rắn.\nD. lúa.",
+            "pos_similar": "Cho chuỗi thức ăn sau:\nLúa → Châu chấu → Ếch → Rắn → Đại bàng\nTiêu diệt mắt xích nào sẽ gây hậu quả lớn nhất:\nA. Châu chấu.\nB. Ếch.\nC. Rắn.\nD. Đại bàng và lúa.",
+            "neg_similar": "Cho các quần thể các loài sinh vật: đại bàng, châu chấu, lúa, ếch, rắn\n\na. xây dựng một chuỗi thức ăn có đầy đủ các loài trên\n\nb. Loại bỏ mắt xích nào trong chuỗi thức ăn trên sẽ gây hậu quả lớn nhất? vì sao?\n "
+      },
+      {
+            "query": "Ở ruồi giấm, alen A quy định thân xám là trội hoàn toàn sp với alen a quy định thân đen, alen B quy định cánh dài là trội hoàn toàn so với alen b quy định cánh cụt. Kiểu gen nào sau đây quy định kiểu hình thân đen cánh dài?\nA. ab//ab\nB. AB//AB\nC. aB//aB\nD.Ab//Ab",
+            "pos_similar": "Ở ruồi giấm, alen A quy định thân xám là trội hoàn toàn so với alen a quy định thân đen; alen B quy định cánh dài là trội hoàn toàn so với alen b quy định cánh cụt. Kiểu gen nào sau đây quy định kiểu hình thân đen, cánh dài?\nA. Ab//Ab\nB. aB//aB  \nC. AB//AB\nD. ab//ab",
+            "neg_similar": "Ở ruồi giấm, alen A quy định thân xám là trội hoàn toàn sp với alen a quy định thân đen, alen B quy định cánh dài là trội hoàn toàn so với alen b quy định cánh cụt. Kiểu gen nào sau đây quy định kiểu hình thân xám, cánh cụt?\nA. Ab//Ab\nB. ab//ab\nC. aB//aB\nD.AB//AB "
+      },
+      {
+            "query": "Theo lý thuyết phép lai nào sau đây cho đời con có tỉ lệ kiểu gen là 1:2:1\nA. Aabb x Aabb\nB. aaBb x AaBB\nC. Aabb x AaBb\nD. AaBb x aabb",
+            "pos_similar": "Theo lí thuyết, phép lai nào sau đây cho đời con có kiểu gen phân li theo tỉ lệ 1 : 2 : 1 ?\nA. AaBb x  aabb.\n\nB. Aabb x Aabb\n\nC. AaBB x aabb.\n\nD. AaBB x aabb.",
+            "neg_similar": "Theo lí thuyết, phép lai nào sau đây cho đời con có kiểu gen phân li theo tỉ lệ 1 : 2 : 1 ?\nA. AA × Aa \n\nB. Aa × aa \n\nC. Aa × Aa \n\nD. AA × aa"
+      },
+      {
+            "query": "HIV lây truyền từ người này sang người khác bằng những con đường nào?\n ",
+            "pos_similar": "HIV có thể lây truyền từ người này sang người khác bằng những con đường nào?\n ",
+            "neg_similar": "HIV lây truyền qua các con đường nào sau đây?\na, Ho, hắt hơi\nb, Dùng chung bơm, kim tiêm\nc, Bắt tay người nhiễm HIV\nd, Dùng chung nhà vệ sinh\ne, Qua quan hệ tình dục\nf, Truyền máu\nh, Muỗi đốt\ni, Mẹ truyền sang con"
+      },
+      {
+            "query": "Cho phép lai P: AaBbDd x AabbDD. Tỉ lệ kiểu gen AaBbDd được hình thành ở F1 là \nA. 3/16\nB. 1/8\nC. 1/16\nD. 1/4",
+            "pos_similar": "Cho phép lai P: AaBbDd x AabbDD. Tỉ lệ kiểu gen AaBbDd được hình thành ở F1 là\nA. 1/8\n\nB. 1/16\n\nC. 3/16\n\nD. 1/4",
+            "neg_similar": "Phép lai P: AaBbDd x AaBbdd. Trong quá trình giảm phân hình thành giao tử đực, ở một số tế bào, cặp NST mang gen Aa không phân li trong giảm phân I, giảm phân II diễn ra bình thường. Quá trình giảm phân hình thành giao tử cái diễn ra bình thường. Theo lí thuyêt, phép lai trên tạo ra F1 có tối đa bao nhiêu kiểu gen:\nA. 42\nB. 14\nC. 18\nD. 56"
+      },
+      {
+            "query": "Chᴏ chᴜỗᎥ thức ăn: Câу ngô → Sâᴜ ăn lá ngô → NháᎥ → Rắn hổ mɑng → Dіềᴜ hâᴜ. Trοng chᴜỗᎥ thức ăn nàу, bậc dᎥnh dưỡng cấp 3 là?\nA. NháᎥ.\nB. Sâᴜ ăn lá ngô.\nC. Rắn hổ mɑng.\nD. Câу ngô.",
+            "pos_similar": "Cho chuỗi thức ăn: Cây ngô – Sâu ăn lá ngô – Nhái - Rắn hổ mang - Diều hâu.\n\nTrong chuỗi thức ăn này, nhái thuộc bậc dinh dưỡng\n\n\nA. cấp 2\nB. cấp 4\nC. cấp 1\nD. cấp 3",
+            "neg_similar": "Cho chuỗi thức ăn: Cây ngô → Sâu ăn lá ngô → Nhái → Rắn hổ mang → Diều hâu. Khi nói về chuỗi thức ăn này, có bao nhiêu phát biểu sau đây đúng?\nI. Quan hệ sinh thái giữa sâu ăn lá ngô và nhái là quan hệ cạnh tranh.\nII. Quan hệ dinh dưỡng giữa nhái và rắn hổ mang dẫn đến hiện tượng khống chế sinh học.\nIII. Rắn hổ mang và diều hâu thuộc các bậc dinh dưỡng khác nhau.\nIV. Sự tăng, giảm số lượng sâu ăn lá ngô sẽ ảnh hưởng đến sự tăng, giảm số lượng nhái.\nA. 3\nB. 4\nC. 2\nD. 1 "
+      },
+      {
+            "query": "Sinh vật nào dưới đây có thể đứng sau voi trong một chuỗi thức ăn?\nA. Linh dương\nB. Cây xanh\nC. Vi khuẩn hoại sinh\nD. Báo đốm",
+            "pos_similar": " \n ",
+            "neg_similar": "Sinh vật nào dưới đây có thể đứng sau bọ ngựa trong một chuỗi thức ăn?\nA. Rắn\nB. Thỏ\nC. Sâu ăn lá\nD. Hà mã"
+      },
+      {
+            "query": "Sinh vật nào dưới đây không phải là sinh vật tiêu thụ?\nA. Nấm mèo\nB. Linh dương\nC. Báo gấm\nD. Dê núi ",
+            "pos_similar": " \n ",
+            "neg_similar": "Sinh vật nào dưới đây không phải là sinh vật tiêu thụ?\nA. Bò\nB. Lúa nước\nC. Hổ\nD. Dê"
+      },
+      {
+            "query": "Cặp cơ quan nào sau đây là cặp cơ quan tương đồng?\nA. Cánh dơi và tay người\nB. Gai xương rồng và gai hoa hồng\nC. Tuyến nọc độc của rắn và tuyến nọc độc của bò cạp\nD. Cánh chim và cánh bướm",
+            "pos_similar": " \n ",
+            "neg_similar": "Cặp cơ quan nào sau đây là cặp cơ quan tương đồng?\nA. Chi trước của mèo và tay người.\nB. Cánh bướm và cánh chim.\nC. Mang cá và mang tôm.\nD. Vây cá chép và vây cá heo."
+      },
+      {
+            "query": "Cặp cơ quan nào sau đây là cơ quan tương tự?\nA. Cánh chim và cánh bướm\nB. Ruột thừa của người và ruột tịt ở động vật\nC. Tuyến nọc độc của rắn và tuyến nước bọt của người\nD. Chân trước của mèo và cánh dơi",
+            "pos_similar": " \n ",
+            "neg_similar": "Cặp cơ quan nào sau đây là cơ quan tương tự?\nA. Cánh dơi và tay người.\nB. Gai xương rồng và gai hoa hồng.\nC. Gai xương rồng và tua cuốn đậu Hà Lan.\nD. Chi trước của mèo và vây trước của cá voi."
+      },
+      {
+            "query": "Cơ quan nào sau đây ở người là cơ quan thoái hóa?\nA. Ruột non\nB. Xương cùng\nC. Dạ dày.\nD. Ruột già",
+            "pos_similar": "Cơ quan nào sau đây ở người là cơ quan thoái hóa?\nA. Ruột non\nB. Dạ dày. \nC. Ruột già\nD. Xương cùng ",
+            "neg_similar": "Những cơ quan nào sau đây là cơ quan thoái hoá ở người?\n\nI. Xương cùng\n\nII. Ruột thừa\n\nIII. Răng khôn                         \n\nIV. Những nếp ngang ở vòm miệng\n\nV. Tá tràng\nA. I, II, III, IV\nB. I, II, III, V\nC. II, III, IV, V\nD. I, III, IV, V"
+      },
+      {
+            "query": "Ví dụ nào sau đây thuộc cơ quan thoái hóa:\nA. Gai cây hoàng liên\nB. Gai ở cây hoa hồng\nC. Nhụy trong hoa đực cây ngô\nD. Ngà voi",
+            "pos_similar": " \n ",
+            "neg_similar": "Ví dụ nào sau đây thuộc cơ quan thoái hóa?\nA. Gai cây hoa hồng\nB. Nhụy trong hoa đực của cây ngô\nC. Ngà voi\nD. Diều của chim"
+      },
+      {
+            "query": "Ví dụ nào sau đây minh họa về cơ quan thoái hóa?\n\nA.Sự giống nhau về ADN của tinh tinh và ADN của người\nB. Chi trước của mèo và dơi có các xương phân bổ theo thứ tự tương tự nhau\nC. Trong hoa đực của cây đu đủ còn di tích của nhụy ở giữa các nhị\nD. Bộ xương của khủng long để lại trong các lớp đất đá của vỏ trái đất",
+            "pos_similar": " \n ",
+            "neg_similar": "Ví dụ nào sau đây thuộc cơ quan thoái hóa?\nA. Gai cây hoa hồng\nB. Nhụy trong hoa đực của cây ngô\nC. Ngà voi\nD. Diều của chim"
+      },
+      {
+            "query": "Cho các nhận xét sau, có bao nhiêu nhận xét đúng?\n(1) Cách li địa lí luôn dẫn đến cách li sinh sản.\n(2) Không có sự cách li địa lí thì không thể hình thành loài mới.\n(3) Cách li địa lí làm thay đổi tần số alen của quần thể.\n(4) Quá trình hình thành loài bằng con đường cách li địa lí thường xảy ra nhanh chóng.\nA. 1.\nB. 3.\nC. 0.\nD. 2.",
+            "pos_similar": "Cho các nhận xét sau, có bao nhiêu nhận xét đúng?\n\n(1) Cách li địa lí luôn dẫn đến cách li sinh sản.\n\n(2) Không có sự cách li địa lí thì không thể hình thành loài mới.\n\n(3) Cách li địa lí làm thay đổi tần số alen của quần thể.\n\n(4) Quá trình hình thành loài bằng con đường cách li địa lí thường xảy ra nhanh chóng. \nA. 0.\nB. 1.\nC. 2.\nD. 3.",
+            "neg_similar": "Khi nói về vai trò của cách li địa lí trong quá trình hình thành loài mới, có bao nhiêu phát biểu sau đây đúng?\nI. Cách li địa lí duy trì sự khác biệt về tần số alen và thành phần kiểu gen giữa các quần thể được tạo ra bởi các nhân tố tiến hóa.\nII. Cách li địa lí là nhân tố chọn lọc những kiểu gen thích nghi theo một hướng xác định.\nIII. Cách li địa lí kéo dài có thể dẫn đến hình thành loài mới.\nIV. Cách li địa lí ngăn cản các cá thể của các quần thể cùng loài gặp gỡ và giao phối với nhau.\nV. Cách li địa lí luôn dẫn tới cách li sinh sản.\nA. 1\nB. 4\nC. 2\nD. 3"
+      },
+      {
+            "query": "Quan hệ giữa chim sáo và trâu rừng: sáo thường đâu trên lưng trâu, bắt chấy rận để ăn. Đó là mối quan hệ\nA. cộng sinh\nB. hợp tác.\nC. kí sinh- vật chủ\nD. cạnh tranh.",
+            "pos_similar": "Chim sáo bắt các con rận kí sinh trên lưng trâu rừng để ăn. Mối quan hệ giữa chim sáo và trâu rừng thuộc quan hệ\nA. hội sinh\nB. hợp tác\nC. cộng sinh\nD. kí sinh",
+            "neg_similar": "Con ve bét hút máu trâu, bò là thể hiện mối quan hệ nào?\nA. Kí sinh\nB. Vật dữ - con mồi\nC. Cộng sinh\nD. Đối địch"
+      },
+      {
+            "query": "Mối quan hệ không thuộc dạng quan hệ kí sinh-vật chủ là.\n\nA. Nấm phấn trắng và và sâu hại lúa.\nB. Cây tầm gửi sống bám trên cây thân gồ .\nC. Dây tơ hồng sống bám trên cây thân gỗ .\nD. Tổ chim sống bám trên thân cây gỗ.",
+            "pos_similar": " \n ",
+            "neg_similar": "Mối quan hệ giữa hai loài nào sau đây không thuộc quan hệ kí sinh – vật chủ?\nA. Phong lan và cây thân gỗ.   \nB. Giun đũa và lợn\nC. Rận, bét và bò.\nD. Tầm gửi và cây thân gỗ."
+      },
+      {
+            "query": "Vi khuẩn cố định đạm sống trong nốt sần của cây họ Đậu là biểu hiện của mối quan hệ\nA. Cộng sinh.\nB. Hội sinh.\nC. Hợp tác.\nD. kí sinh - vật chủ",
+            "pos_similar": "Vi khuẩn cố định đạm sống trong nốt sần của cây họ Đậu là biểu hiện của mối quan hệ \nA. cộng sinh.\nB. kí sinh - vật chủ.\nC. hội sinh.\nD. hợp tác.",
+            "neg_similar": "Nấm và vi khuẩn lam trong địa y có mối quan hệ\n\nA. Cộng sinh.\nB. Hội sinh.\nC. Cạnh tranh.\nD. kí sinh"
+      },
+      {
+            "query": "Cơ quan có trong khoang bụng là:\n\nA. Khí quản\nB. Phế quản\nC. Ruột\nD. Phổi",
+            "pos_similar": "Cơ quan dưới đây có trong khoang bụng là:\nA. Ruột\nB. Phổi\nC. Khí quản\nD. Thực quản",
+            "neg_similar": " Ở cơ thể người, cơ quan nằm trong khoang ngực là?\nA. Bóng đái\n\nB. Phổi\n\nC. Thận\n\nD. Dạ dày"
+      },
+      {
+            "query": "Xương dài được cấu tạo gồm 2 phần, đó là:\nA. Sụn bọc đầu xương, mô xương xốp.\nB. Hai đầu xương và thân xương.\nC. Màng xương, mô xương.\nD. Màng xương, mô xương cứng.",
+            "pos_similar": "Xương dài được cấu tạo gồm mấy phần\nA. 2 phần\nB. 3 phần\nC. 4 phần\nD. 5 phần",
+            "neg_similar": "Đầu của xương dài được cấu tạo bởi:\nA. Mô xương cứng\nB. Mô xương xốp\nC. Ống xương\nD. Trụ xương"
+      },
+      {
+            "query": "Ở ADN, tỉ số nào dưới đây đặc trưng cho loài?\nA. A+T/G+X\nB. A-T/G-X\nC. A/T\nD. G/X",
+            "pos_similar": "Tỉ số nào sau đây của ADN là đặc trưng cho từng loài sinh vật?\nA. (A + G)/(T + X)\n\nB. (A + T)/(G + X)\n\nC. (A + X)/(T + X)\n\nD. (G + T)/(T + X)",
+            "neg_similar": "Tính đặc trưng và đa dạng của ADN được thể hiện ở những điểm nào? Những yếu tố cấu trúc và cơ chế sinh học nào giúp duy trì ổn định cấu trúc ADN?\n "
+      },
+      {
+            "query": "Các quần thể ngỗng có tỉ lệ đực/cái là\nA. 30/70.\nB. 40/60.\nC. 60/40.\nD. 50/50.",
+            "pos_similar": "Các quần thể ngỗng có tỉ lệ đực/cái là?\nA. 40/60.\n\n B. 60/40.\n\n C. 30/70.\n\n D. 50/50.",
+            "neg_similar": "Cho các phát biểu sau:\n1. Ngô̄ng và vịt có tỉ lệ đực/cái là 40/60.\n2. Quần thể được đặc trưng bởi: tí lệ giới tính, thành phần nhóm tuổi và mật độ quần thể.\n3. Số lượng cá thể trong quần thể không bị thay đổi trước các điều kiện của môi trường.\n4. Nhóm tuổi trước sinh sản có vai trò chủ yếu làm tăng trướng khối lượng và kích thước của quần thể.\nTrong các phát biểu trên, số phát biểu đúng là\nA. 1\nB. 2\nC. 3\nD. 4"
+      },
+      {
+            "query": "Các nguyên tố vi lượng có vai trò quan trọng đối với cơ thể vì\nA. Chiếm khối lượng nhỏ\nB. Giúp tăng cường hệ miễn dịch cho cơ thể\nC. Cơ thể sinh vật không thể tự tổng hợp các chất ấy\nD. Là thành phần cấu trúc bắt buộc của nhiều hệ enzim",
+            "pos_similar": "Vì sao các nguyên tố vi lượng có vai trò quan trọng đối với cơ thể?\n\nA. Chiếm khối lượng nhỏ\nB. Giúp tăng cường hệ miễn dịch cho cơ thể\nC. Cơ thể sinh vột không thể tự tổng hợp các chất ấy\nD. Là thành phẩn cấu trúc bắt buộc của nhiểu hệ enzim",
+            "neg_similar": "Nêu vai trò của các nguyên tố đại lượng và nguyên tố vi lượng\n "
+      },
+      {
+            "query": "Điểm khác nhau ở kì giữa của giảm phân I và kì giữa của nguyên phân là:\nA. Kì giữa I của giảm phân các NST xếp thành 1 hàng, kì giữa nguyên phân các NST xếp 2 hàng trên mặt phẳng xích đạo của thoi phân bào.\nB. Nhiễm sắc thể dãn xoắn.\nC. Thoi phân bào biến mất.\nD. Kì giữa I của giảm phân các NST xếp thành 2 hàng, kì giữa nguyên phân các NST xếp 1 hàng trên mặt phẳng xích đạo của thoi phân bào.",
+            "pos_similar": "Đặc điểm có ở kì giữa I của giảm phân và không có ở kì giữa của nguyên phân là:\n\nA. Các nhiễm sắc thể co xoắn tối đa\nB. Nhiễm sắc thể ở trạng thái kép\nC. Hai nhiễm sắc thể kép tương đồng xếp song song với nhau trên mặt phẳng xích đạo của thoi phân bào\nD. Nhiễm sắc thể sắp xếp 1 hàng trên thoi phân bào",
+            "neg_similar": "Kì giữa của giảm phân I và kì giữa của giảm phân II khác nhau ở\nA. sự sắp xếp các NST trên mặt phẳng xích đạo.\nB. sự tiếp hợp và trao đổi chéo.\nC. sự phân li của các nhiễm sắc thể.\nD. sự co xoắn của các nhiễm sắc thể."
+      },
+      {
+            "query": "Nhân tố sinh trưởng của vi sinh vật có thể là chất hóa học nào sau đây?\n\nA. protein, vitamin.\nB. amino acid, vitamin.\nC. lipid, chất khoáng.\nD. carbohydrate, nucleic acid.",
+            "pos_similar": "Nhân tố sinh trưởng của vi sinh vật có thể là chất hóa học nào sau đây?\nA. Protein, vitamin\nB. Axit amin, polisaccarit\nC. Lipit, chất khoáng\nD. Vitamin, axit amin",
+            "neg_similar": "Nhân tố sinh trưởng là tất cả các chất\n\nA. cần cho sự sinh trưởng của sinh vật \nB. không cần cho sự sinh trưởng của sinh vật\nC. cần cho sự sinh trưởng của sinh vật mà chúng tự tổng hợp được \nD. cần cho sự sinh trưởng của sinh vật mà một số chúng không tự tổng hợp được"
+      },
+      {
+            "query": "Virut di chuyển từ tế bào này sang tế bào khác của cây nhờ vào?\nA. Sự di chuyển của các bào quan\nB. Qua các chất bài tiết từ bộ máy Golgi\nC. Các cầu sinh chất nối giữa các tế bào\nD. Hoạt động của nhân tế bào",
+            "pos_similar": "Trong cơ thể thực vật, virut lây nhiễm từ tế bào này sang tế bào khác qua con đường nào?\nA. Qua thành tế bào\nB. Qua dòng mạch gỗ\nC. Qua dòng mạch rây\nD. Qua cầu sinh chất",
+            "neg_similar": "Virut có thể lây nhiễm vào tế bào thực vật thông qua bao nhiêu cách trong các cách sau:  \n(1) Hấp phụ trên bề mặt tế bào thực vật tại thụ thể.  \n\n(2) Cành chiết.  \n\n(3) Vết tiêm chích của côn trùng.  \n\n(4) Vết xước.\nA. 1\nB. 3\nC. 2\nD. 4"
+      },
+      {
+            "query": "Tại sao tắm vào lúc ánh sáng yếu có lợi cho sự sinh trưởng và phát triển của trẻ nhỏ?\nA. Vì tia tử ngoại làm cho tiền vitamin D biến thành vitamin D có vai trò chuyển hoá Ca để hình thành xương\nB. Vì tia tử ngoại làm cho tiền vitamin D biến thành vitamin D có vai trò ôxy hoá để hình thành xương.\nC. Vì tia tử ngoại làm cho tiền vitamin D biến thành vitamin D có vai trò chuyển hoá Na để hình thành xương.\nD. Vì tia tử ngoại làm cho tiền vitamin D biến thành vitamin D có vai trò chuyển hoá K để hình thành xương.",
+            "pos_similar": "Khi tắm cho trẻ nhỏ vào lúc ánh sáng yếu có lợi cho sự sinh trưởng và phát triển của trẻ nhỏ là vì:\n\nA. Tia tử ngoại làm cho tiền vitamin D biến thành vitamin D có vai trò ô xy hoá để hình thành xương.\n\nB. Tia tử ngoại làm cho tiền vitamin D biến thành vitamin D có vai trò chuyển hoá Na để hình thành xương.\n\nC. Tia tử ngoại làm cho tiền vitamin D biến thành vitamin D có vai trò chuyển hoá Ca để hình thành xương.\nD. Tia tử ngoại làm cho tiền vitamin D biến thành vitamin D có vai trò chuyển hoá K để hình thành xương.",
+            "neg_similar": "Nêu vai trò của ánh sáng đối với sự sinh trưởng và phát triển của thực vật và động vật.\n "
+      },
+      {
+            "query": "Tập tính nào sau đây chỉ có ở động vật có hệ thần kinh rất phát triển như người và các động vật khác thuộc bộ Linh trưởng?\nA. Học khôn\nB. Học ngầm\nC. In vết\nD. Quen nhờn",
+            "pos_similar": "Hình thức học tập nào chỉ có ở động vật thuộc bộ Linh trưởng và người?\n\nA. In vết.\nB. Quen nhờn.\nC. Học khôn.\nD. Học ngầm.",
+            "neg_similar": "Những nhận thức về môi trường xung quanh giúp động vật hoang dã nhanh chóng tìm được thức ăn và tránh thú săn mồi là kiểu học tập:\nA. in vết\nB. quen nhờn\nC. học ngầm\nD. điều kiện hóa"
+      },
+      {
+            "query": "Giai đoạn nào trong quá trình phát sinh cá thể người chịu ảnh hưởng rõ nhất của các nhân tố môi trường?\n\nA.Giai đoạn sau sơ sinh.\n\nB.Giai đoạn sơ sinh.\n\nC.Giai đoạn phôi thai.\n\nD.Giai đoạn trưởng thành.",
+            "pos_similar": "        \nCác nhân tố môi trường có ảnh hưởng rõ nhất vào giai đoạn nào trong quá trình phát sinh cá thể người?\nA. Giai đoạn phôi thai.\nB. Giai đoạn sơ sinh.\nC. Giai đoạn sau so sinh.\nD. Giai đoạn trưởng thành.",
+            "neg_similar": "Có bao nhiêu nhân tố dưới đây là nhân tố môi trường ảnh hưởng đến sinh trưởng và phát triển của động vật là: \n1. Thức ăn \n2. Ánh sáng\n3. Hoocmon \n4. Nhiệt độ\nA. 4\nB. 2\nC. 3. \nD. 1"
+      },
+      {
+            "query": "Nhân giống bằng phương pháp ghép có ưu điểm gì hơn so với giâm và chiết cành?\n ",
+            "pos_similar": "Ghép cành có ưu điểm hơn so với giâm và chiết cành\nA. Tạo ra số lượng lớn cây con trong thời gian ngắn\nB. Có thể tạo được những giống mang đặc tính của 2 cơ thể khác nhau\nC. Tạo giống sạch bệnh\nD. Tất cả đều đúng",
+            "neg_similar": "Chiết cành có lợi hơn so với giâm cành ở chỗ\n\nA. Áp dụng được với nhiều cây ăn quả, tỷ lệ cây con sống cao\nB. Số lượng cây con tạo ra nhiều hơn\nC. Không làm ảnh hưởng tới năng suất của cây mẹ\nD. Cây con có đặc tính khác với cây mẹ"
+      },
+      {
+            "query": "\t\nSinh vật hằng nhiệt là sinh vật có nhiệt độ cơ thể\nA. ổn định và không phụ thuộc vào nhiệt độ môi trường\nB. phụ thuộc vào nhiệt độ môi trường\nC. luôn thay đổi\nD. tương đối ổn định",
+            "pos_similar": "Sinh vật hằng nhiệt là sinh vật có nhiệt độ cơ thể\n\nA. phụ thuộc vào nhiệt độ môi trường\nB. tương đối ổn định\nC. ổn định và không phụ thuộc vaò nhiệt độ môi trường\nD. luôn thay đổi",
+            "neg_similar": "Sinh vật biến nhiệt là sinh vật có nhiệt độ cơ thể\n\nA. phụ thuộc vào nhiệt độ môi trường.\nB. tương đối ổn định.\nC. luôn thay đổi.\nD. ổn định và không phụ thuộc vào nhiệt độ môi trường."
+      },
+      {
+            "query": "Ví dụ về mối quan hệ cạnh tranh là:\nA. giun sán sống trong cơ thể lợn\nB. các loài cỏ dại và lúa cùng sống trên ruộng đồng\nC. khuẩn lam thường sống cùng với nhiều loài động vật xung quanh\nD. thỏ và chó sói sống trong rừng",
+            "pos_similar": "Ví dụ thể hiện mối quan hệ cạnh tranh giữa các cá thể trong quần thể là\nA. Bồ nông xếp thành hàng đi kiếm ăn bắt được nhiều cá hơn bồ nông đi kiếm ăn riêng rẽ.\nB. Ở cá, nhiều loài khi hoạt động chúng di cư theo đàn có số lượng rất động nhờ đó chúng giảm lượng tiêu hao oxi, tăng cường dinh dưỡng, chống lại các tác nhân bất lợi.\nC. Ở loài khỉ, khi đến mùa sinh sản các con đực đánh nhau để tìm ra con khoẻ nhất, các con đực yếu hơn sẽ phải di cư đến một nơi khác, chỉ có con đực khoẻ nhất được ở lại đàn.\nD. Ở thực vật, tre nứa thường có xu hướng quần tụ với nhau giúp chúng tăng khả năng chống chịu với gió bão, giúp chúng sinh trưởng phát triển tốt hơn.",
+            "neg_similar": "Ví dụ nào sau đây không phải là mối quan hệ cạnh tranh giữa các cá thể trong quần thể?\n\nA. Các cây ngô mọc gần nhau có hiện tượng tự tỉa thưa.\nB. Các con cò cái trong đàn tranh giành nhau nơi làm tổ.\nC. Trong mùa sinh sản, các cá thể đực tranh giành cá thể cái.\nD. Cây trồng và cỏ dại tranh giành nhau về nguồn dinh dưỡng."
+      },
+      {
+            "query": "Nhóm cá thể sinh vật nào dưới đây là 1 quần thể?\nA. Cỏ ven bờ hồ\nB. Cá rô phi đơn tính trong hồ\nC. Ếch xanh và nòng nọc của nó trong hồ\nD. Chuột trong vườn",
+            "pos_similar": "Nhóm cá thể nào dưới đây là một quần thể?\nA. Cây cỏ ven bờ\nB. Đàn cá rô trong ao\nC. Cá chép và cá vàng trong bể cá cảnh\nD. Cây trong vườn",
+            "neg_similar": "Tập hợp sinh vật nào sau đây gọi là quần xã?\nA. Tập hợp các con cá kèo sống trong vuông tôm\nB. Tập hợp các con tôm sú sống trong vuông\nC. Tập hợp cây đước trong rừng ngập mặn\nD. Tập hợp cỏ dại trên một cánh đồng"
+      },
+      {
+            "query": "Xét các mối quan hệ sinh thái giữa các loài sau đây:\n\n(1) Một số loài tảo nước ngọt nở hoa cùng sống trong một môi trường với các loài cá tôm.\n\n(2) Cây tầm gửi sống trên thân các cây gỗ lớn trong rừng.\n\n(3) Loài cá ép sống bám trên các loài cá lớn.\n\n(4) Dây tơ hồng sống trên tán các cây trong rừng.\n\n(5) Trùng roi sống trong ruột mối.\n\nTrong các mối quan hệ trên, có bao nhiêu mối quan hệ không gây hại cho các loài tham gia?\nA. 5\nB. 2\nC. 4\nD. 3",
+            "pos_similar": "Xét các mối quan hệ sinh thái giữa các loài sau đây:\n(1) Một số loài tảo nước ngọt tiết chất độc ra môi trường ảnh hưởng tới các loài cá tôm.\n(2) Cây tầm gửi sống trên thân các cây gỗ lớn trong rừng.\n(3) Loài cá ép sống trên các loài cá lớn.\n(4) Dây tơ hồng sống trên tán các cây trong rừng.\n(5) Vi khuẩn cố định đạm và cây họ Đậu.\nCó bao nhiêu mối quan hệ thuộc quan hệ đối kháng giữa các loài?\n\nA. 3 .\nB. 1 .\nC. 2 .\nD. 4 .",
+            "neg_similar": "Trong các mối quan hệ sinh thái giữa các loài sau đây, có bao nhiêu mối quan hệ có it nhất một loài có hại?\nI. Loài cá ép sống bám trên các loài cá lớn.\nII. Một số loài tảo nước ngọt nở hoa cùng sống trong một môi trường với các loài cá tôm.\nIII. Cây tầm gửi sống trên thân các cây gỗ lớn trong rừng.\nIV. Giun sán sống trong ruột lợn.\n\nA. 1.\nB. 3 .\nC. 2 .\nD. 4 ."
+      },
+      {
+            "query": "Cho các giai đoạn của diễn thế nguyên sinh:\n(1) Môi trường chưa có sinh vật.\n(2) Giai đoạn hình thành quần xã ổn định tương đối (giai đoạn đỉnh cực).\n(3) Các sinh vật đầu tiên phát tán tới hình thành nên quần xã tiên phong.\n(4) Giai đoạn hỗn hợp (giai đoạn giữa) gồm các quần xã biến đổi tuần tự, thay thế lẫn nhau.\nDiễn thế nguyên sinh diễn ra theo trình tự là:\nA. (1), (4), (3), (2).\nB. (1), (3), (4), (2).\nC. (1), (2), (4), (3).\nD. (1), (2), (3), (4).",
+            "pos_similar": "Cho các giai đoạn của diễn thế nguyên sinh:\n\n(1) Môi trường chưa có sinh vật.\n\n(2) Giai đoạn hình thành quần xã ổn định tương đối (giai đoạn đỉnh cực).\n\n(3) Các sinh vật đầu tiên phát tán tới hình thành nên quần xã tiên phong.\n\n(4) Giai đoạn hỗn hợp (giai đoạn giữa) gồm các quần xã biến đổi tuần tự, thay thế lẫn nhau.\n\nDiễn thế nguyên sinh diễn ra theo trình tự là:\n\n\nA. (1), (4), (3), (2).\nB. (1), (3), (4), (2).\nC. (1), (2), (4), (3).\nD. (1), (2), (3), (4).",
+            "neg_similar": "Cho các phát biểu sau đây về diễn thế sinh thái, có bao nhiêu phát biểu đúng?\n(1) Trong quá trình diễn thế sinh thái, loài ưu thế chính là những loài đã “tự đào huyệt chôn mình”.\n(2) Nguyên nhân gây ra diễn thế sinh thái là do tác động trực tiếp của con người.\n(3) Trong diễn thế nguyên sinh, giai đoạn cuối hình thành quần xã có độ đa dạng lớn nhất.\n(4) Sau quá trình diễn thế thứ sinh có thể lại bắt đầu quá trình diễn thế nguyên sinh.\n(5) Diễn thế sinh thái là sự thay đổi cấu trúc quần xã một cách ngẫu nhiên.\nA. 5\nB. 4\nC. 3\nD. 2"
+      },
+      {
+            "query": "Câu nào dưới đây nói về vai trò của sự cách li địa lí trong quá trình thành loài là đúng nhất?\nA. Không có sự cách li địa lí thì không thể hình thành loài mới.\nB. Cách li địa lí có vai trò duy trì sự khác biệt về vốn gen giữa các quần thể.\nC. Môi trường địa lí khác nhau là nguyên nhân chính dẫn đến hình thành loài mới.\nD. Cách li địa lí luôn dẫn tới cách li sinh sản.",
+            "pos_similar": "Trong quá trình hình thành loài khác khu vực địa lí, vai trò của cách li địa lí là\n\nA. duy trì sự khác biệt về tần số alen và thành phần kiểu gen giữa các quần thể.\nB. làm biến đổi tần số alen và thành phần kiểu gen của quần thể.\nC. phát tán các đột biến trong quần thể.\nD. làm phong phú thêm vốn gen của quần thể.",
+            "neg_similar": "Phát biểu nào dưới đây là đúng khi nói về cách li địa lí?\n\nA. Cách li địa lí là nhân tố làm thay đổi tần số alen, làm thay đổi thành phần kiểu gen của quần thể.\nB. Cách li địa lí là những trở ngại địa lí làm cho các cá thể của các quần thể bị cách li và không giao phối được với nhau.\nC. Cách li địa lí là tác nhân gây ra những biến đổi kiểu gen làm biến đổi kiểu hình cá thể.\nD. Không có cách li địa lí thì không thể hình thành loài mới."
+      },
+      {
+            "query": "Ba loài ếch: Rana pipiens, Rana clamitans và Rana sylvatica cùng sống trong một cái ao, song chúng bao giờ cũng bắt cặp đúng với cá thể cùng loài vì các loài ếch này có tiếng kêu khác nhau. Đây là ví dụ về loại cách li nào và kiểu cách li này là dạng:\nA. Cách li trước hợp tử, cách li tập tính\nB. Cách li sau hợp tử, cách li tập tính\nC. Cách li trước hợp tử, cách li cơ học\nD. Cách li sau hợp tử, cách li sinh thái",
+            "pos_similar": "Ba loài ếch - Rana pipiens, Rana clamitans và Rana sylvatica - cùng sinh sống trong một cái ao, song chúng bao giờ cũng bắt cặp đúng với các cá thể cùng loài vì các loài ếch này có tiếng kêu khác nhau. Đây là ví dụ về loại cách li nào và là kiểu cách li gì?\n\nA. Cách li sau hợp tử - cách li di truyền\nB. Cách li sau hợp tử - cách li tập tính\nC. Cách li trước hợp tử - cách li tập tính\nD. Cách li trước hợp tử - cách li thời gian",
+            "neg_similar": "Nếu hai quần thể của cùng một loài sống trong cùng một khu vực địa lí nhưng ở hai ổ sinh thái khác nhau thì sau một thời gian cũng có thể dẫn đến cách li sinh sản và hình thành loài mới. Đây là con đường hình thành loài\nA. khác khu vực địa lí.\nB. bằng cách li sinh thái.\nC. nhờ cơ chế lai xa và đa bội hoá.\nD. bằng cách li tập tính."
+      },
+      {
+            "query": "Hình thành loài mới bằng cách li sinh thái thường gặp ở những đối tượng\n\nA. Thực vật\nB. Thực vật và động vật có khả năng di chuyển xa\nC. Động vật\nD. Thực vật và động vật ít có khả năng di chuyển",
+            "pos_similar": "Hình thành loài bằng cách li sinh thái thường gặp ở những loài:\n\nA. động vật ít di chuyển\nB. thực vật\nC. thực vật và động vật ít di chuyển\nD. động vật có khả năng di chuyển nhiều",
+            "neg_similar": "Đặc điểm của cách li sinh thái là\nA. Khu phân bố trùng lên nhau và có điều kiện sống khác nhau\nB. Cùng khu phân bố những điều kiện sống khác nhau\nC. Khác khu phân bổ và có điều kiện sổng như nhau\nD. Không câu nào đúng"
+      },
+      {
+            "query": "Nhờ có thành phần cấu tạo nào của tế bào mà thực vật có thể tự tổng hợp chất hữu cơ cho quá trình quang hợp?\nA. Thành tế bào.\nB. Ti thể.\nC. Lục lạp.\nD. Không bào.",
+            "pos_similar": "Thành phần nào giúp tế bào thực vật có khả năng quang hợp?\nA. Màng tế bào.\nB. Không bào.\nC. Ti thể.\nD. Lục lạp.",
+            "neg_similar": "Thành phần nào giúp lục lạp có khả năng quang hợp?\nA. Carotenoid\nB. Xanthopyll\nC. Phycobilin.\nD. Diệp lục."
+      },
+      {
+            "query": "Thành phần nào có trong tế bào thực vật mà không có trong tế bào động vật?\n ",
+            "pos_similar": "Tế bào thực vật khác tế bào động vật ở điểm nào?\n ",
+            "neg_similar": "Bào quan nào sau đây có cả ở tế bào thực vật và tế bào động vật?\nA. Lục lạp.\nB. Màng tế bào.\nC. Thành tế bào.\nD. Không bào trung tâm"
+      },
+      {
+            "query": "Đâu là các cấp độ của tổ chức cơ thể đa bào?\nA. Tế bào – Cơ quan – Cơ thể.\nB, Mô – Cơ quan – Cơ thể – Hệ cơ quan\nC. Tế bào – Cơ thể – Cơ quan.\nD. Tế bào – Mô – Cơ quan – Hệ cơ quan – Cơ thể.",
+            "pos_similar": "Các cấp độ cấu trúc của cơ thể lần lượt là\nA. mô → tế bào → cơ quan → hệ cơ quan → cơ thể.\nB. tế bào → mô → cơ quan → hệ cơ quan → cơ thể.\nC. tế bào → mô → hệ cơ quan → cơ quan → cơ thể.\nD. cơ thể → cơ quan → hệ cơ quan → tế bào → mô.",
+            "neg_similar": "Dạ dày được cấu tạo từ các cấp tộ tổ chức nhỏ hơn nào?\nA. Mô và hệ cơ quan.\nB. Tế bào và cơ quan.\nC. Tế bào và mô.\nD. Cơ quan và hệ cơ quan."
+      },
+      {
+            "query": "Vitamin không có vai trò nào sau đây? \nA. Tham gia chuyển hóa thức ăn thành năng lượng.\nB. Tăng cường thị lực của mắt.\nC. Bảo vệ cơ thể chống nhiễm trùng, chống oxi hóa.\nD. Giúp phát triển các tế bào não và hệ thần kinh.",
+            "pos_similar": "Vai trò nào dưới đây không là vai trò của vitamin?\nA. Là thành phần thiết yếu cấu tạo tế bào.\nB. Tham gia vào quá trình trao đổi chất.\nC. Bảo vệ tế bào và cơ thể.\nD. Cung cấp và dự trữ năng lượng.",
+            "neg_similar": "Thiếu loại vitamin này sẽ làm cho biểu bì kém bền vững, dễ nhiễm trùng, giác mạc khô, có thể dẫn tới mù lòa\nA. Vitamin A\nB. Vitamin B\nC. Vitamin C\nD. Vitamin D"
+      },
+      {
+            "query": "Ve sầu kêu vào mùa hè oi ả, ếch đực kêu vào mùa sinh sản là tập tính\n\nA. học được.\nB. bẩm sinh.\nC. vừa bẩm sinh vừa hốn hợp.\nD. hỗn hợp.",
+            "pos_similar": "Ve sầu kêu vào mùa hè oi ả, ếch đực kêu vào mùa sinh sản là tập tính:\nA. Học được\nB. Bẩm sinh\nC. Hỗn hợp\nD. Vừa bẩm sinh, vừa hỗn hợp",
+            "neg_similar": "Phát biểu nào sau đây đúng về tập tính?\n(1) Tập tính có ở cả động vật và thực vật.\n(2) Tập tính chỉ có ở động vật.\n(3) Là phản xạ của động vật trước một số tác nhân nhất định.\n(4) Là phản ứng của động vật trước thay đổi của môi trường.\nA. (1),(3).\nB. (1),(4).\nC. (2),(3).\nD. (1),(2),(4)."
+      },
+      {
+            "query": " Cây nào dưới đây không có khả năng sinh sản sinh dưỡng tự nhiên ?\n\nC. Cà pháo\nA. Tre\nB. Gừng\nD. Sen",
+            "pos_similar": " Cây nào dưới đây không có khả năng sinh sản sinh dưỡng tự nhiên ?\n\nC. Cà pháo\nA. Tre\nB. Gừng\nD. Sen",
+            "neg_similar": "Cây nào dưới đây có hình thức sinh sản sinh dưỡng tự nhiên khác với những cây còn lại\n\nA. Nghệ\nB. Trúc\nC. Sắn\nD. Dong ta"
+      },
+      {
+            "query": "Khi nói về tảo, nhận định nào dưới đây là không chính xác?\n\n\nA. Sống chủ yếu nhờ việc hấp thụ chất hữu cơ từ môi trường ngoài\nB. Hầu hết sống trong nước\nC. Luôn chứa diệp lục\nD. Có cơ thể đơn bào hoặc đa bào",
+            "pos_similar": "Khi nói về tảo, nhận định nào dưới đây là không chính xác?\n\n\nA. Sống chủ yếu nhờ việc hấp thụ chất hữu cơ từ môi trường ngoài\nB. Hầu hết sống trong nước\nC. Luôn chứa diệp lục\nD. Có cơ thể đơn bào hoặc đa bào",
+            "neg_similar": "Vì sao nói “Tảo là thực vật bậc thấp” ?\n\nA. Vì chúng không có khả năng quang hợp\n\nB. Vì cơ thể chúng có cấu tạo đơn bào\n\nC. Vì cơ thể chúng chưa có rễ, thân, lá thật sự.\n\nD. Vì chúng sống trong môi trường nước.\n\n "
+      },
+      {
+            "query": "Khi nói về quá trình nhân đôi ADN ở tế bào nhân thực, phát biểu nào sau đây không đúng?\n\n\nA. Trong quá trình nhân đôi ADN, có sự liên kết bổ sung giữa A và T, G và X và ngược lại.\n\nB. Trong quá trình nhân đôi ADN, enzyme ADN polimelaza không tham gia tháo xoắn phân tử ADN.\n\nC. Trong quá trình nhân đôi ADN, enzyme nối ligaza chỉ tác động lên một trong hai mạch đơn mới được tổng hợp từ một phân tử ADN mẹ.\n\nD. Sự nhân đôi ADN xảy ra ở nhiều điểm trong phân tử ADN tạo ra nhiều đơn vị nhân đôi (đơn vị tái bản).",
+            "pos_similar": "Khi nói về quá trình nhân đôi ADN ở tế bào nhân thực, phát biểu nào sau đây không đúng?\n\n\nA. Trong quá trình nhân đôi ADN, có sự liên kết bổ sung giữa A và T, G và X và ngược lại.\n\nB. Trong quá trình nhân đôi ADN, enzyme ADN polimelaza không tham gia tháo xoắn phân tử ADN.\n\nC. Trong quá trình nhân đôi ADN, enzyme nối ligaza chỉ tác động lên một trong hai mạch đơn mới được tổng hợp từ một phân tử ADN mẹ.\n\nD. Sự nhân đôi ADN xảy ra ở nhiều điểm trong phân tử ADN tạo ra nhiều đơn vị nhân đôi (đơn vị tái bản).",
+            "neg_similar": "Trong quá trình nhân đôi ADN ở tế bào nhân sơ, nhờ các enzim tháo xoắn, hai mạch đơn của phân tử ADN tách nhau tạo nên chạc hình chữ Y. Khi nói về cơ chế của quá trình nhân đôi ở chạc hình chữ Y, phát biểu nào sau đây sai?\n\nA. Trên mạch khuôn 3' $\\rightarrow$ 5' thì mạch mới được tổng hợp liên tục.\n\nC. Trên mạch khuôn $5^{\\prime} \\rightarrow 3^{\\prime}$ thì mạch mới được tổng hợp ngắt quãng tạo nên các đoạn ngắn.\nB. Enzim ADN pôlimeraza tổng hợp mạch mới theo chiều $5^{\\prime} \\rightarrow 3^{\\prime}$.\n\nD. Enzim ADN pôlimeraza di chuyển trên mạch khuôn theo chiều $5 ' \\rightarrow 3^{\\prime}$."
+      },
+      {
+            "query": "Nguồn nguyên liệu làm cơ sở vật chất để tạo giống mới là\n A. biến dị thường biến B. các biến dị đột biến C. các ADN tái tổ hợp D. các biến dị tổ hợp",
+            "pos_similar": "Nguồn nguyên liệu của quá trình chọn giống gồm :\n\n(I). Biến dị tổ hợp. (II). Đột biến gen. (III). ADN tái tổ hợp. (IV). Thường biến.\n\n\nA:  I, III, IV. \n\nB: I, II, III. \n\nC:  II, III, IV \n\nD:  I, II,III, IV. ",
+            "neg_similar": "Theo Đacuyn, nguồn nguyên liệu chủ yếu của quá trình tiến hóa là\n\n\nA: biến dị cá thể \n\nB: biến đổi đồng loạt.  \n\nC: biến dị đột biến. \n\nD: biến dị tổ hợp."
+      },
+      {
+            "query": "Một số đoạn gen có trình tự các nucleotit như sau:\n3‘  XGA GAA TTT XGA  5‘ (mạch mã gốc)\n5‘  GXT XTT AAA GXT  3‘\na, Hãy xác định trình tự các axit amin trong chuỗi pôlipeptit được tổng hợp từ đoạn gen trên.\nb, Một đoạn phân tử prôtêin có trình tự axit amin như sau: – lơxin – alanin – valin – lizin – Hãy xác định trình tự các cặp nuclêôtit trong đoạn gen mang thông tin quy định cấu trúc đoạn prôtêin đó.\n ",
+            "pos_similar": "Một đoạn gen có trình tự các nucleotit như sau:\n3 XGA GAA TTT XGA 5 (mạch mã gốc)\n5' GXT XTT AAA GXT 3\na) Hãy xác định trình tự các axit amin trong chuỗi polipeptit được tổng hợp từ đoạn gen\ntrên.\nb) Một đoạn phân tử protein có trình tự axit amin như sau:\n- loxin - alanin - valin - lizin -\nHãy xác định trình tự các cặp nucleotit trong đoạn gen mang thông tin quy định cấu trúc\nđoạn protein đó.\n ",
+            "neg_similar": "Hãy xác định trình tự các nuclêôtit và chiều của MARN được phiên mã từ mạch gốc của đoạn gen có\ntrình tự: 3'-XGA GAA TTT XGA GGG- 5'.\n\nA. 5'-GXU XUU AAA.XU XXX-3'.\nC.5'-GTU GGU AUA.XU XXX-3'.\nB. 3'-AGU XUU AAA.XU XXX-5'.\nD. 3'-GXU XUU AAA.XU XXX-5'."
+      },
+      {
+            "query": "Trong cơ chế điều hoà hoạt động gen ở sinh vật nhân sơ, vai trò của gen điều hoà là gì?\n ",
+            "pos_similar": "Trong cơ chế điều hoà hoạt động gen ở sinh vật nhân sơ, vai trò của gen điều hoà là gì?\n    a) Nơi tiếp xúc với enzim ARN polimeraza.\n\n    b) Mang thông tin quy định protein điều hòa.\n\n    c) Mang thông tin quy định enzim ARN polimeraza.\n\n    d) Nơi liên kết với protein điều hòa.",
+            "neg_similar": "Trong cơ chế điều hòa hoạt động của gen ở sinh vật nhân sơ, theo mô hình opêrôn Lac, Có bao nhiêu nhận định đúng về gen điều hòa (regulator: R)?\n\nI.  Gen điều hòa nằm ở phía trước vùng khởi động P (promoter)\n\nII. Vai trò của gen điều hòa là mang thông tin qui định cấu trúc prôtêin ức chế\n\nIII. Khi gen điều hòa hoạt động thì các gen cấu trúc không hoạt động\n\nIV. Gen điều hòa còn có chức năng mang thông tin quy định cấu trúc enzim ARN polimeraza\nA: 2 \n\nB: 1 \n\nC: 3 \n\nD: 4 "
+      },
+      {
+            "query": "Hãy chọn câu đúng trong số các câu sau đây nói về đột biến điểm.\na) Trong số các loại đột biến điểm thì phần lớn đột biến thay thế cặp nucleotit là ít gây hại nhất.\n\n\n  b) Đột biến điểm là những biến đổi đồng thời tại nhiều điểm khác nhau trong gen.\n\n  c) Trong bất cứ trường hợp nào, tuyệt đại đa số đột biến điểm là có hại.\n\n  d) Đột biến điểm là những biến đổi nhỏ nên ít có vai trò trong quá trình tiến hóa.\n\n",
+            "pos_similar": "Hãy chọn câu đúng trong số các câu sau đây nói về đột biến điểm.\n\n\nA. Trong số các loại đột biến điểm thì đột biến thay thế cặp nuclêôtit là ít gây hại nhất.\n\n\nB. Đột biến điểm là những biến đổi đồng thời tại nhiều điểm khác nhau trong gen.\n\n\nC. Trong bất cứ trường hợp nào, tuyệt đại đa số đột biến điểm là có hại.\n\n\nD. Đột biến điểm là những biến đổi nhỏ nên ít có vai trò trong quá trình tiến hoá",
+            "neg_similar": "Tại sao nhiều đột biến điểm như đột biến thay thế cặp nucleotit lại hầu như vô hại đối với thể đột biến.\n\n\n "
+      },
+      {
+            "query": "Nêu vai trò và ý nghĩa của đột biến gen.\n ",
+            "pos_similar": "Nêu vai trò và ý nghĩa của đột biến gen.\n ",
+            "neg_similar": "Tại sao đột biến gen thường có hại cho bản thân sinh vật ? Nêu vài trò và ý nghĩa của đột biến gen trong thực tiễn sản xuất\n "
+      },
+      {
+            "query": "Hiện tượng đột biến cấu trúc NST do:\n\n\n a) Đứt gãy NST.\n\n   b) Đứt gãy NST hoặc đứt gãy rồi tái kết hợp khác thường.\n\n   c) Trao đổi chéo không đều.\n\n   d) Cả b và c.",
+            "pos_similar": "Hiện tượng đột biến cấu trúc nhiễm sắc thể (NST) là do đâu?\n\n\nTiếp hợp và trao đổi chéo bất thường\nĐứt gãy NST đẫn đến sự sắp xếp lại NST\nĐứt gãy  NST\nThay cặp nuclêôtit này bằng cặp nuclêôtit khác",
+            "neg_similar": "Khái niệm, nguyên nhân, phân loại, vai trò của đột biến NST. Để hạn chế các đột biến gây hại tới sức khỏe con người, chúng ta cần làm gì?\n "
+      },
+      {
+            "query": "Nêu một vài ví dụ về hiện tượng đa bội ở thực vật.\n ",
+            "pos_similar": "Nêu 5 ví dụ về dị bội và đa bội ở thực vật\n\n ",
+            "neg_similar": "Phương án nào dưới đây là không đúng khi nhận định về ứng dụng của thể đa bội trong chọn giống ở thực vật?\n\nA)Tạo giống có quả to, nhiều hạt.\nB)Tăng kích thước của thân, lá, củ.\nC)Tạo giống có năng suất cao.\nD)Tăng kích thước của thân cành."
+      },
+      {
+            "query": "Tại sao chỉ bằng việc phân tích kết quả của các phép lai, Menđen lại có thể biết được bên trong tế bào của cơ thể, mỗi cặp nhân tố di truyền quy định một tính trạng và trong mỗi giao tử lại chỉ có một nhân tố di truyền?\n\n\n ",
+            "pos_similar": "Tại sao chỉ bằng việc phân tích kết quả của các phép lai, Menđen lại có thể biết được bên trong tế bào của cơ thể, mỗi cặp nhân tố di truyền quy định một tính trạng và trong mỗi giao tử lại chỉ có một nhân tố di truyền?\n\n\n ",
+            "neg_similar": "Cho các nhận định về quy luật di truyền Menđen như sau:\n\n(1) Menđen giải thích các quy luật di truyền dựa vào sự phân li của các cặp nhân tố di truyền trong quá trình phát sinh giao tử.\n\n(2) Quy luật di truyền của Menđen vẫn đúng trong trường hợp nhiều gen quy định một tính trạng.\n\n(3) Quy luật di truyền của Menđen chỉ nghiệm đúng trong trường hợp một gen quy định một tính trạng và trội hoàn toàn.\n\n(4) Trong phép lai một cặp tính trạng, Menđen kiểm chứng lại giả thuyết của mình bằng cách cho F2 tự thụ phấn.\n\n(5) Theo Menđen, cơ thể thuần chủng là cơ thể chỉ mang 2 nhân tố di truyền giống nhau.\n\n(6) Quy luật phân li của Menđen là phân li nhân tố di truyền đồng đều vào giao tử.\n\n(7) Quy luật phân li độc lập của Menđen là sự di truyền của tính trạng này không phụ thuộc vào sự di truyền của tính trạng khác.\n\nSố nhận định sai là:\nA: 2 \n\nB: 3 \n\nC: 5 \n\nD: 4 "
+      },
+      {
+            "query": "Trong phép lai một tính trạng, để cho đời sau có tỉ lệ phân li kiểu hình xấp xỉ 3 trội: 1 lặn thì cần có các điều kiện gì?\n ",
+            "pos_similar": "Phát biểu nội dung quy luật phân li của Menđen. Trong phép lai đơn tính, để cho đời sau có tỉ lệ phân li kiểu hình xấp xỉ 3 trội, 1 lặn thì phải có những điều kiện gì ?\n ",
+            "neg_similar": "Nêu các điều kiện cần có để khi lai các cá thể khác nhau về hai tính trạng sẽ thu được đời con có tỉ lệ phân li kiểu hình xấp xỉ 9: 3: 3: 1.\n "
+      },
+      {
+            "query": "Quy luật phân li độc lập thực chất nói về\n\n \nA: sự phân li kiểu hình theo tỉ lệ 9:3:3:1. \n\nB: sự tổ hợp các alen trong quá trình thụ tinh \n\nC: sự phân li độc lập của các tính trạng. \n\nD: Sự phân li độc lập của các cặp alen trong quá trình giảm phân.",
+            "pos_similar": "Hãy chọn phương án trả lời đúng: Quy luật phân li độc lập thực chất nói về:\n\n\n    a) Sự phân li độc lập của các tính trạng.\n\n    b) Sự phân li kiểu hình theo tỉ lệ 9: 3 : 3 : 1.\n\n    c) Sự tổ hợp của các alen trong quá trình thụ tinh.\n\n    d) Sự phân li độc lập của các alen trong quá trình giảm phân.",
+            "neg_similar": "Thực chất của sự di truyền độc lập các tính trạng là F2 nhất thiết phải có: (chọn phương án trả lời đúng)\n\n\n\nA. Tỉ lệ phân li của mỗi cặp tính trạng là 3 trội: 1 lặn\n\n\nB. Tỉ lệ của mỗi kiểu hình bằng tích tỉ lệ của các tính trạng hợp thành nó\n\n\nC. 4 kiểu hình khác nhau\n\n\nD. Các biến dị tổ hợp"
+      },
+      {
+            "query": "Giải thích tại sao lại không thể tìm được 2 người có kiểu gen giống hệt nhau trên Trái Đất, ngoại trừ trường hợp sinh đôi cùng trứng.\n ",
+            "pos_similar": "Không thể tìm thấy được 2 người có cùng kiểu gen giống hệt nhau trên Trái Đất, ngoại trừ trường hợp sinh đôi cùng trứng vì trong quá trình sinh sản hữu tính\n\n\nA: tạo ra một số lượng lớn biến dị tổ hợp. \n\nB: các gen có điều kiện tương tác với nhau \n\nC: dễ tạo ra các biến dị di truyền. \n\nD: ảnh hưởng của môi trường. ",
+            "neg_similar": "có ý kiến cho rằng trẻ sinh cùng trứng thì có kiểu gen và kiểu hình giống hệt nhau? quan niệm trên có chính xác không? tại sao?\n "
+      },
+      {
+            "query": "Hai alen thuộc cùng một gen (ví dụ, alen A và a) có thể tương tác với nhau theo những cách nào?\n ",
+            "pos_similar": "Hai alen thuộc cùng một gen có thể tương tác với nhau hay không? Giải thích.\n\n\n ",
+            "neg_similar": "Thực chất của tương tác gen là:\n\nSản phẩm của các gen tác động qua lại với nhau trong sự hình thành tính trạng\nCác gen tác động qua lại với môi trường trong sự hình thành một kiểu hình.\nCác tính trạng do gen quy định tác động qua lại với nhau trong một kiểu gen.\nSản phẩm của gen này tác động lên sự biểu hiện của một gen khác "
+      },
+      {
+            "query": "Trong một thí nghiệm, người ta cho cây hoa đỏ lai với cây hoa trắng và thu được F1 toàn hoa đỏ. Cho các cây F1 tự thụ phấn, thu được các cây F2 với tỉ lệ phân li kiểu hình là 245 cây hoa trắng à 315 cây hoa đỏ. Hãy giải thích kết quả lai và viết sơ đồ lai từ thế hệ P tới F1 và F2.\n ",
+            "pos_similar": "Trong một thí nghiệm, người ta cho cây hoa đỏ lai với cây hoa trắng và thu được F1 toàn hoa đỏ. Cho các cây F1 tự thụ phấn, thu được các cây F2 với tỉ lệ phân li kiểu hình là 245 cây hoa trắng à 315 cây hoa đỏ. Hãy giải thích kết quả lai và viết sơ đồ lai từ thế hệ P tới F1 và F2.\n ",
+            "neg_similar": "Ở một loài thực vật, cho lai cây hoa đỏ và cây hoa trắng. Cho cây F1 tự thụ phấn, F2 thu được 245 cây hoa trắng, 315 cây hoa đỏ. Nếu lấy hạt phấn của cây hoa đỏ F1 thụ phấn cho cây có kiểu gen lặn thì tỉ lệ kiểu hình hoa đỏ thu được ở đời con là?\n\n\nA: 3/4 \n\nB: 1/2 \n\nC: 1/4 \n\nD: 9/7 "
+      },
+      {
+            "query": "Ruồi giấm có 4 cặp NST. Vậy ta có thể phát hiện được tối đa là bao nhiêu nhóm gen liên kết?\n\n\n ",
+            "pos_similar": "Ở ruồi giấm có 2n=8, số nhóm gen liên kết ở ruồi cái bằng bao nhiêu? Biết rằng không xảy ra đột biến\n\n\nA: 2 \n\nB: 4 \n\nC: 5 \n\nD: 8 ",
+            "neg_similar": "ở gà có bộ nst lưỡng bội 2n=78, hãy xác định số nhõm gen liên kết và số nhóm tính trạng liên kết\n "
+      },
+      {
+            "query": "Rạn san hô thuộc hệ sinh thái\n\n A. nước đứng.\nB. nước mặn vùng ven bờ.\nC. nước mặn vùng biển khơi.\nD. nước lợ.",
+            "pos_similar": "Rạn san hô thuộc hệ sinh thái\n\n A. nước đứng.\nB. nước mặn vùng ven bờ.\nC. nước mặn vùng biển khơi.\nD. nước lợ.",
+            "neg_similar": "Rừng ngập mặn thuộc hệ sinh thái\n\n\nA. nước đất.\nB. nước ngọt vùng ven bờ.\nC. nước mặn vùng biển khơi.\nD. nước lợ."
+      },
+      {
+            "query": "Bệnh mù màu đỏ - xanh lục ở người là do một gen lặn nằm trên NST X quy định. Một phụ nữ bình thường có em trai bị bệnh mù màu lấy một người chồng bình thường. Nếu cặp vợ chồng này sinh được một người con trai thì xác suất để người con trai đó bị bệnh mù màu là bao nhiêu? Biết rằng bố mẹ của cặp vợ chồng này đều không bị bệnh.\n ",
+            "pos_similar": "Bệnh mù màu ở người do đột biến gen lặn trên NST X quy định. Một phụ nữ không bị bệnh mù màu có bố mẹ bình thường nhưng có người em trai bị bệnh lấy người chồng bình thường, họ sinh được một con trai đầu lồng. Xác suất để đứa con trai này bị bệnh là\n ",
+            "neg_similar": "Bệnh mù màu đỏ - xanh lục ở người là do một gen lặn nằm trên X quy định. Một phụ nữ bình thường có bố bị bệnh mù màu. Người phụ nữ này lấy một người chồng bình thường.\na.\tXác suất để đứa con đầu lòng của cặp vợ chồng này là con trai bị bệnh mù màu là bao nhiêu?\nb.\tXác suất để đứa con đầu lòng của cặp vợ chồng này là con gái bị bệnh mù màu là bao nhiêu?\nc.\tHãy tính xác suất để cặp vợ chồng này sinh 4  đứa con trong đó có ít nhất một đứa bị bệnh mù màu?\n "
+      },
+      {
+            "query": "Đặc điểm nào dưới đây không phải là đặc điểm di truyền của gen lặn quy định tính trạng thường nằm trên NST giới tính X:\n\n\nA. Có hiện di truyền chéo.\nB. Tỉ lệ phân tính của tính trạng biểu hiện không giống nhau ở hai giới.\nC. Kết quả của phép lai thuận và lai nghịch khác nhau.\nD. Tính trạng có xu hướng dễ biểu hiện ở cơ thể mang cặp NST giới tính XX.",
+            "pos_similar": "Đặc điểm nào dưới đây không phải là đặc điểm của gen lặn nằm trên NST X quy định tính trạng thường?\n\n\nA: Tính trạng dễ biểu hiện ở cơ thể mang cặp NST giới tính XY. \n\nB: Có hiện tượng di truyền chéo. \n\nC: Tính trạng không bao giờ biểu hiện ở cơ thể XX. \n\nD: Lai thuận và lai nghịch cho kết quả khác nhau. ",
+            "neg_similar": "Phát biểu nào sau đây sai khi nói về đặc điểm di truyền của gen nằm trên nhiễm sắc thể X, không có alen tương ứng trên nhiễm sắc thể Y?\n\n\nA: Di truyền thẳng \n\nB: Kết quả phép lai thuận khác kết quả phép lai nghịch \n\nC: Di truyền chéo \n\nD: Tính trạng do gen lặn quy định để biểu hiện cơ thể XY hơn co thể XX "
+      },
+      {
+            "query": "Cho các trường hợp sau:\n\n\n(1) Dùng kim kích thích vào thân của thủy tức.\n\n(2) Dùng kim kích thích vào một chi của châu chấu.\n\nHãy dự đoán phản ứng của thủy tức và châu chấu khi bị kích thích.\n ",
+            "pos_similar": "- Hãy cho biết con thủy tức sẽ phản ứng như thế nào khi ta dùng một chiếc kim nhọn châm vào nó.\n\n- Phản ứng của thủy tức có phải là phản xạ không? Tại sao?\n\n\n ",
+            "neg_similar": "dùng gai nhọn châm vào thân con thủy tức , thủy tức sẽ co toàn thân để tránh kích thích. bộ phận phân tích và tổng hợp của phản ứng trên là\n\nA. tế bào biểu mô cơ\nB. tế bào cảm giác \nC. Toàn thân\nD . lưới thần kinh."
+      },
+      {
+            "query": "Trong phép lai giữa hai cá thể có kiểu gen sau đây:\n\n♂ AaBbCcDdEe x ♀ aaBbccDdee\n\nCác cặp gen quy định các tính trạng khác nhau nằm trên các cặp NST tương đồng khác nhau. Hãy cho biết:\n\n\n      a) Tỉ lệ đời con có kiểu hình trội về tất cả 5 tính trạng là bao nhêu?\n\n      b) Tỉ lệ đời con có kiểu hình giống mẹ là bao nhiêu?\n ",
+            "pos_similar": "Trong phép lai giữa hai cá thể có kiểu gen sau đây:\n\n♂ AaBbCcDdEe x ♀ aaBbccDdee\n\nCác cặp gen quy định các tính trạng khác nhau nằm trên các cặp NST tương đồng khác nhau. Hãy cho biết:\n\n\n      a) Tỉ lệ đời con có kiểu hình trội về tất cả 5 tính trạng là bao nhêu?\n\n      b) Tỉ lệ đời con có kiểu hình giống mẹ là bao nhiêu?\n ",
+            "neg_similar": "Thực hiện phép lai P: ♂ AaBbCcDdee × ♀ aaBbCCDdEE. Theo lí thuyết, tỉ lệ cá thể mang kiểu hình khác với bố và mẹ ở F1 là bao nhiêu? Biết một gen quy định một tính trạng, trội lặn hoàn toàn.\n\nA. 50%.\n\nB. 31,25%.\n\nC. 25%.\n\nD. 71,875%.\n "
+      },
+      {
+            "query": "Tình huống: A và B có họ trong phạm vi 3 đời, họ yêu nhau và muốn kết hôn vì họ cho rằng hôn nhân của họ là tự nguyện không được ai cản trở, mặc dù gia đình họ hàng khuyên can nhưng họ vẫn không nghe \nCâu hỏi:\na) Theo em, ý kiến của họ đúng hay sai? Vì sao?\nb) Nếu họ cố tình lấy nhau thì họ có làm giấy kết hôn được không? Vì sao?\n ",
+            "pos_similar": "Anh Nam và chị Mi làm cùng công ty và yêu nhau.. Sau khi tìm hiểu và mong muốn tiến tới hôn nhân nên anh Nam đưa chị Mi về ra mắt gia đình anh Nam. Lúc đầu bố mẹ anh Nam đồng ý, nhưng sau đó phát hiện chị Mi là con người em gái cùng cha khác mẹ với bố anh Nam đã bị thất lạc từ lâu nên cả nhà ra sức ngăn cản.\n- Dựa vào luật hôn nhân và gia đình năm 2014, em hãy cho biết trường hợp anh Nam và chj Mĩ có được kết hôn không? Vì sao?\n ",
+            "neg_similar": "Luật Hôn nhân và gia đình năm 2014 quy định nam, nữ khi kết hôn với nhau phải tuân theo điều kiện: Nam từ đủ 20 tuổi trở lên, nữa từ đủ 18 tuổi trở lên, là thể hiện đặc trưng nào dưới đây của pháp luật ?\n\n\nA. Tính nghiêm minh của pháp luật.\n\nB. Tính quy phạm phổ biến.\n\nC. Tính nhân dân và xã hội.\n\nD. Tính quần chúng rộng rãi."
+      },
+      {
+            "query": "Câu nào trong số các câu dưới đây nói về CLTN là đúng với quan niệm của Đacuyn?\n a) CLTN thực chất là sự phân hoá về khả năng sống sót của các cá thể.\n\n    b) CLTN thực chất là sự phân hoá về khả năng sinh sản của các cá thể.\n\n    c) CLTN thực chất là sự phân hoá về mức độ thành đạt sinh sản của các cá thể có các kiểu gen.\n\n    d) CLTN thực chất là sự phân hoá về khả năng sống sót và khả năng sinh sản của các cá thể.",
+            "pos_similar": "đacuyn quan niệm CLTN là\n\n ",
+            "neg_similar": "Phát biểu nào sau đây không đúng khi nói về chọn lọc tự nhiên (CLTN)\n\n\nA. CLTN quy định chiều hướng và nhịp độ biến đổi thành phần kiểu gen của quần thể\n\nB. CLTN tác động trực tiếp lên kiểu gen từ đó làm thay đổi thành phần kiểu gen của quần thể\n\nC. CLTN tác động lên kiểu hình của cá thể qua đó tác động lên lên kiểu gen và các alen từ đó làm thay đổi thành phần kiểu gen của quần thể\n\nD. CLTN không chỉ tác động đối với từng cá thể riêng rẽ mà còn đối với cá quần thể"
+      },
+      {
+            "query": "Động vật có vú đầu tiên xuất hiện ở\n\n\nA: kỉ Silua \n\nB:  kỉ Phấn trắng       \n\nC: Jura.  \n\nD: kỉ Đệ tam. ",
+            "pos_similar": "Động vật có vú đầu tiên xuất hiện khi nào?\n\n\n ",
+            "neg_similar": "Cây hạt kín xuất hiện vào kỉ, đại nào dưới đây?\n\nA. Kỉ phấn trắng thuộc đại Trung sinh.\nB. Kỉ Pecmi thuộc đại Cổ sinh.\nC. Kỉ jura thuộc đại Trung sinh.\nD. Kỉ than đá thuộc đại Cổ sinh."
+      }
+]
